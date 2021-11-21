@@ -1,0 +1,4527 @@
+[
+    {
+        "MedListID": 1001,
+        "GenericName": "23.4% NaCl",
+        "TradeName": "NaCL"
+    },
+    {
+        "MedListID": 1002,
+        "GenericName": "abacavir",
+        "TradeName": "Ziagen, ABC"
+    },
+    {
+        "MedListID": 1003,
+        "GenericName": "abacavir/lamivudine",
+        "TradeName": "Epzicom"
+    },
+    {
+        "MedListID": 1004,
+        "GenericName": "abacavir/lamivudine/zidovudine",
+        "TradeName": "Trizivir"
+    },
+    {
+        "MedListID": 1005,
+        "GenericName": "abatacept",
+        "TradeName": "Orencia"
+    },
+    {
+        "MedListID": 1006,
+        "GenericName": "abciximab",
+        "TradeName": "Reopro"
+    },
+    {
+        "MedListID": 1007,
+        "GenericName": "absorption base",
+        "TradeName": "Absorbase, Aquaphor, Eucerin"
+    },
+    {
+        "MedListID": 1008,
+        "GenericName": "acarbose",
+        "TradeName": "Precose"
+    },
+    {
+        "MedListID": 1009,
+        "GenericName": "acetaminophen",
+        "TradeName": "Tylenol"
+    },
+    {
+        "MedListID": 1010,
+        "GenericName": "acetaminophen/codeine",
+        "TradeName": "Tylenol #4, tylenol with codeine,Tylenol #3"
+    },
+    {
+        "MedListID": 1011,
+        "GenericName": "acetaminophen/codeine 160mg/30mg/5ml",
+        "TradeName": "Tylenol Elixir with codeine"
+    },
+    {
+        "MedListID": 1012,
+        "GenericName": "acetaminophen/isometheptene/dichloralphenazone",
+        "TradeName": "Midrin"
+    },
+    {
+        "MedListID": 1013,
+        "GenericName": "acetazolamide",
+        "TradeName": "Diamox"
+    },
+    {
+        "MedListID": 1014,
+        "GenericName": "acetylcysteine",
+        "TradeName": "Mucomyst"
+    },
+    {
+        "MedListID": 1015,
+        "GenericName": "acetylcysteine 10%",
+        "TradeName": "Mucomyst (acetylcysteine 10%)"
+    },
+    {
+        "MedListID": 1016,
+        "GenericName": "acetylcysteine 20%",
+        "TradeName": "Acetadote, Mucomyst (acetylcysteine 20%)"
+    },
+    {
+        "MedListID": 1017,
+        "GenericName": "acyclovir",
+        "TradeName": "Zovirax"
+    },
+    {
+        "MedListID": 1018,
+        "GenericName": "adefovir",
+        "TradeName": "Hepsera"
+    },
+    {
+        "MedListID": 1019,
+        "GenericName": "adenosine",
+        "TradeName": "Adenocard"
+    },
+    {
+        "MedListID": 1020,
+        "GenericName": "albendazole",
+        "TradeName": "Albenza"
+    },
+    {
+        "MedListID": 1021,
+        "GenericName": "albumin",
+        "TradeName": "Albiminar, Albutein, Buminate, Plasbumin"
+    },
+    {
+        "MedListID": 1022,
+        "GenericName": "albumin 25%",
+        "TradeName": "Albuminar, Albutein, Buminate, Plasbumin (albumin 25%)"
+    },
+    {
+        "MedListID": 1023,
+        "GenericName": "albumin 5%",
+        "TradeName": "Albiminar, Albutein, Buminate, Plasbumin (albumin 5%)"
+    },
+    {
+        "MedListID": 1024,
+        "GenericName": "albuterol 0.083%",
+        "TradeName": "Accuneb (albuterol 0.083%)"
+    },
+    {
+        "MedListID": 1025,
+        "GenericName": "albuterol 0.5%",
+        "TradeName": "Accuneb (albuterol 0.5%)"
+    },
+    {
+        "MedListID": 1026,
+        "GenericName": "albuterol hfa",
+        "TradeName": "Proventil, Ventolin"
+    },
+    {
+        "MedListID": 1027,
+        "GenericName": "alclometasone 0.05%",
+        "TradeName": "Aclovate"
+    },
+    {
+        "MedListID": 1028,
+        "GenericName": "alendronate",
+        "TradeName": "Fosamax"
+    },
+    {
+        "MedListID": 1029,
+        "GenericName": "allopurinol",
+        "TradeName": "Zyloprim, Lopurin"
+    },
+    {
+        "MedListID": 1030,
+        "GenericName": "alprazolam",
+        "TradeName": "Xanax"
+    },
+    {
+        "MedListID": 1031,
+        "GenericName": "alprostadil",
+        "TradeName": "Edex"
+    },
+    {
+        "MedListID": 1032,
+        "GenericName": "aluminum acetate",
+        "TradeName": "Burow's solution"
+    },
+    {
+        "MedListID": 1033,
+        "GenericName": "aluminum chloride hexahydrate",
+        "TradeName": "Drysol"
+    },
+    {
+        "MedListID": 1034,
+        "GenericName": "aluminum hydroxide",
+        "TradeName": "Alternagel, Amphojel"
+    },
+    {
+        "MedListID": 1035,
+        "GenericName": "aluminum hydroxide/m",
+        "TradeName": "Maalox ES, Alternagel, Amphojel"
+    },
+    {
+        "MedListID": 1036,
+        "GenericName": "aluminum hydroxide/magnesium hydroxide/simethicone",
+        "TradeName": "Maalox ES"
+    },
+    {
+        "MedListID": 1037,
+        "GenericName": "amantadine",
+        "TradeName": "Symadine, Symmetrel"
+    },
+    {
+        "MedListID": 1038,
+        "GenericName": "amikacin",
+        "TradeName": "Amikin"
+    },
+    {
+        "MedListID": 1039,
+        "GenericName": "amiloride",
+        "TradeName": "Midamor"
+    },
+    {
+        "MedListID": 1040,
+        "GenericName": "aminocaproic acid",
+        "TradeName": "Amicar"
+    },
+    {
+        "MedListID": 1041,
+        "GenericName": "aminophylline",
+        "TradeName": "Theophylline"
+    },
+    {
+        "MedListID": 1042,
+        "GenericName": "amiodarone",
+        "TradeName": "Cordarone, Pacerone"
+    },
+    {
+        "MedListID": 1043,
+        "GenericName": "amitriptyline",
+        "TradeName": "Elavil"
+    },
+    {
+        "MedListID": 1044,
+        "GenericName": "amlodipine",
+        "TradeName": "Norvasc"
+    },
+    {
+        "MedListID": 1045,
+        "GenericName": "ammonium chloride",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1046,
+        "GenericName": "amoxicillin",
+        "TradeName": "Amoxil"
+    },
+    {
+        "MedListID": 1047,
+        "GenericName": "amoxicillin & clavulanate",
+        "TradeName": "Augmentin"
+    },
+    {
+        "MedListID": 1048,
+        "GenericName": "amoxicillin & clavulanate 125mg/5ml",
+        "TradeName": "Augmentin (125mg/5ml)"
+    },
+    {
+        "MedListID": 1049,
+        "GenericName": "amoxicillin & clavulanate 200mg/5ml",
+        "TradeName": "Augmentin (200mg/5ml)"
+    },
+    {
+        "MedListID": 1050,
+        "GenericName": "amoxicillin & clavulanate 250mg/5ml",
+        "TradeName": "Augmentin (250mg/5ml)"
+    },
+    {
+        "MedListID": 1051,
+        "GenericName": "amoxicillin & clavulanate 400mg/5ml",
+        "TradeName": "Augmentin (400mg/5ml)"
+    },
+    {
+        "MedListID": 1052,
+        "GenericName": "amphotericin b (conventional)",
+        "TradeName": "Fungizone"
+    },
+    {
+        "MedListID": 1053,
+        "GenericName": "amphotericin b (liposomal)",
+        "TradeName": "Ambisome"
+    },
+    {
+        "MedListID": 1054,
+        "GenericName": "ampicillin",
+        "TradeName": "Omnipen"
+    },
+    {
+        "MedListID": 1055,
+        "GenericName": "ampicillin & sulbactam",
+        "TradeName": "Unasyn"
+    },
+    {
+        "MedListID": 1056,
+        "GenericName": "anastrozole",
+        "TradeName": "Arimidex"
+    },
+    {
+        "MedListID": 1057,
+        "GenericName": "argatroban",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1058,
+        "GenericName": "aripiprazole",
+        "TradeName": "Abilify"
+    },
+    {
+        "MedListID": 1059,
+        "GenericName": "artificial tears",
+        "TradeName": "Naturale II Solution, Isopto Plain Solution"
+    },
+    {
+        "MedListID": 1060,
+        "GenericName": "ascorbic acid",
+        "TradeName": "Cecon, Vitamin C"
+    },
+    {
+        "MedListID": 1061,
+        "GenericName": "aspirin",
+        "TradeName": "Ecotrin"
+    },
+    {
+        "MedListID": 1062,
+        "GenericName": "aspirin/dipyridamole",
+        "TradeName": "Aggrenox"
+    },
+    {
+        "MedListID": 1063,
+        "GenericName": "atazanavir",
+        "TradeName": "Reyataz"
+    },
+    {
+        "MedListID": 1064,
+        "GenericName": "atenolol",
+        "TradeName": "Tenormin"
+    },
+    {
+        "MedListID": 1065,
+        "GenericName": "atorvastatin",
+        "TradeName": "Lipitor"
+    },
+    {
+        "MedListID": 1066,
+        "GenericName": "atovaquone",
+        "TradeName": "Mepron"
+    },
+    {
+        "MedListID": 1067,
+        "GenericName": "atropine opth",
+        "TradeName": "Atropisol, Isopto atropine"
+    },
+    {
+        "MedListID": 1068,
+        "GenericName": "atropine opth 0.5%",
+        "TradeName": "Atropisol, Isopto atropine (0.5%)"
+    },
+    {
+        "MedListID": 1069,
+        "GenericName": "atropine opth 1%",
+        "TradeName": "Atropisol, Isopto atropine (1%)"
+    },
+    {
+        "MedListID": 1070,
+        "GenericName": "atropine sulfate",
+        "TradeName": "Atropine"
+    },
+    {
+        "MedListID": 1071,
+        "GenericName": "azathioprine",
+        "TradeName": "Imuran"
+    },
+    {
+        "MedListID": 1072,
+        "GenericName": "azithromycin",
+        "TradeName": "Zithromax"
+    },
+    {
+        "MedListID": 1073,
+        "GenericName": "aztreonam",
+        "TradeName": "Azactam"
+    },
+    {
+        "MedListID": 1074,
+        "GenericName": "bacitracin",
+        "TradeName": "Baciquent"
+    },
+    {
+        "MedListID": 1075,
+        "GenericName": "bacitracin & polymyxin b",
+        "TradeName": "Polysporin"
+    },
+    {
+        "MedListID": 1076,
+        "GenericName": "bacitracin, neomycin, polymixin b",
+        "TradeName": "Neosporin, Triple Antibiotic"
+    },
+    {
+        "MedListID": 1077,
+        "GenericName": "baclofen",
+        "TradeName": "Lioresal"
+    },
+    {
+        "MedListID": 1078,
+        "GenericName": "bactroban nasal 2%",
+        "TradeName": "Mupirocin"
+    },
+    {
+        "MedListID": 1079,
+        "GenericName": "beclomethasone",
+        "TradeName": "Beconase"
+    },
+    {
+        "MedListID": 1080,
+        "GenericName": "beclomethasone 40mcg",
+        "TradeName": "Beclovent, QVAR (40mcg)"
+    },
+    {
+        "MedListID": 1081,
+        "GenericName": "beclomethasone 80mcg",
+        "TradeName": "Beclovent, QVAR (80mcg)"
+    },
+    {
+        "MedListID": 1082,
+        "GenericName": "belladonna & opium",
+        "TradeName": "B & O Suppository"
+    },
+    {
+        "MedListID": 1083,
+        "GenericName": "benazepril",
+        "TradeName": "Lotensin"
+    },
+    {
+        "MedListID": 1084,
+        "GenericName": "beneprotein",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1085,
+        "GenericName": "benzoyl peroxide 5%",
+        "TradeName": "Benzagel"
+    },
+    {
+        "MedListID": 1086,
+        "GenericName": "benztropine",
+        "TradeName": "Cogentin"
+    },
+    {
+        "MedListID": 1087,
+        "GenericName": "betamethasone dipropionate 0.05%",
+        "TradeName": "Diprosone"
+    },
+    {
+        "MedListID": 1088,
+        "GenericName": "betaxolol",
+        "TradeName": "Betoptic S"
+    },
+    {
+        "MedListID": 1089,
+        "GenericName": "betaxolol 0.25%",
+        "TradeName": "Betoptic S (0.25%)"
+    },
+    {
+        "MedListID": 1090,
+        "GenericName": "betaxolol 0.5%",
+        "TradeName": " Betoptic S (0.5%)"
+    },
+    {
+        "MedListID": 1091,
+        "GenericName": "bethanechol",
+        "TradeName": "Urecholine"
+    },
+    {
+        "MedListID": 1092,
+        "GenericName": "bicalutamide",
+        "TradeName": "Casodex"
+    },
+    {
+        "MedListID": 1093,
+        "GenericName": "bisacodyl",
+        "TradeName": "Dulcolax"
+    },
+    {
+        "MedListID": 1094,
+        "GenericName": "bismuth subsalicylate",
+        "TradeName": "Pepto Bismol"
+    },
+    {
+        "MedListID": 1095,
+        "GenericName": "brimonidine",
+        "TradeName": "Alphagan"
+    },
+    {
+        "MedListID": 1096,
+        "GenericName": "brimonidine 0.15%",
+        "TradeName": "Alphagan P (0.15%)"
+    },
+    {
+        "MedListID": 1097,
+        "GenericName": "brimonidine 0.2%",
+        "TradeName": "Alphagan (0.2%)"
+    },
+    {
+        "MedListID": 1098,
+        "GenericName": "bromocriptine",
+        "TradeName": "Parlodel"
+    },
+    {
+        "MedListID": 1099,
+        "GenericName": "budesonide",
+        "TradeName": "Pulmicort Turbuhaler"
+    },
+    {
+        "MedListID": 1100,
+        "GenericName": "budesonide 0.25mg/2ml",
+        "TradeName": "Pulmicort Respules (0.25mg/2ml)"
+    },
+    {
+        "MedListID": 1101,
+        "GenericName": "budesonide 0.5mg/2ml",
+        "TradeName": "Pulmicort Respules (0.5mg/2ml)"
+    },
+    {
+        "MedListID": 1102,
+        "GenericName": "bumetanide",
+        "TradeName": "Bumex"
+    },
+    {
+        "MedListID": 1103,
+        "GenericName": "bupropion",
+        "TradeName": "Wellbutrin"
+    },
+    {
+        "MedListID": 1104,
+        "GenericName": "bupropion sr",
+        "TradeName": "Wellbutrin (bupropion sr)"
+    },
+    {
+        "MedListID": 1105,
+        "GenericName": "bupropion xl",
+        "TradeName": "Wellbutrin (bupropion xl)"
+    },
+    {
+        "MedListID": 1106,
+        "GenericName": "buspirone",
+        "TradeName": "BuSpar"
+    },
+    {
+        "MedListID": 1107,
+        "GenericName": "calcipotriene 0.005%",
+        "TradeName": "Dovonex"
+    },
+    {
+        "MedListID": 1108,
+        "GenericName": "calcitonin",
+        "TradeName": "Miacalcin"
+    },
+    {
+        "MedListID": 1109,
+        "GenericName": "calcitriol",
+        "TradeName": "Rocaltrol"
+    },
+    {
+        "MedListID": 1110,
+        "GenericName": "calcium acetate",
+        "TradeName": "Phoslo"
+    },
+    {
+        "MedListID": 1111,
+        "GenericName": "calcium carbonate",
+        "TradeName": "Oscal 500, Tums"
+    },
+    {
+        "MedListID": 1112,
+        "GenericName": "calcium carbonate and vit d",
+        "TradeName": "Oscal-D"
+    },
+    {
+        "MedListID": 1113,
+        "GenericName": "calcium chloride",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1114,
+        "GenericName": "calcium chloride 10%",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1115,
+        "GenericName": "calcium gluconate",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1116,
+        "GenericName": "camphor/menthol/triamcinolone",
+        "TradeName": "TAC cream"
+    },
+    {
+        "MedListID": 1117,
+        "GenericName": "capreomycin",
+        "TradeName": "Capastat"
+    },
+    {
+        "MedListID": 1118,
+        "GenericName": "captopril",
+        "TradeName": "Capoten"
+    },
+    {
+        "MedListID": 1119,
+        "GenericName": "carbachol",
+        "TradeName": "Isopto carbachol ophthalmic"
+    },
+    {
+        "MedListID": 1120,
+        "GenericName": "carbamazepine",
+        "TradeName": "Tegretol"
+    },
+    {
+        "MedListID": 1121,
+        "GenericName": "carbamazepine xr",
+        "TradeName": "Tegretol XR"
+    },
+    {
+        "MedListID": 1122,
+        "GenericName": "carbamide peroxide 6.5%",
+        "TradeName": "Debrox otic"
+    },
+    {
+        "MedListID": 1123,
+        "GenericName": "carboxymethycellulose 0.5%",
+        "TradeName": "Celluvisc, Refresh Tears (0.5%)"
+    },
+    {
+        "MedListID": 1124,
+        "GenericName": "carboxymethycellulose 1%",
+        "TradeName": "Celluvisc, Refresh Tears (1%)"
+    },
+    {
+        "MedListID": 1125,
+        "GenericName": "carisoprodol",
+        "TradeName": "Soma"
+    },
+    {
+        "MedListID": 1126,
+        "GenericName": "carvedilol",
+        "TradeName": "Coreg"
+    },
+    {
+        "MedListID": 1127,
+        "GenericName": "caspofungin",
+        "TradeName": "Cancidas"
+    },
+    {
+        "MedListID": 1128,
+        "GenericName": "cefazolin",
+        "TradeName": "Ancef, Kefzol"
+    },
+    {
+        "MedListID": 1129,
+        "GenericName": "cefepime",
+        "TradeName": "Maxipime"
+    },
+    {
+        "MedListID": 1130,
+        "GenericName": "cefotaxime",
+        "TradeName": "Claforan"
+    },
+    {
+        "MedListID": 1131,
+        "GenericName": "cefoxitin",
+        "TradeName": "Mefoxin"
+    },
+    {
+        "MedListID": 1132,
+        "GenericName": "ceftazidime",
+        "TradeName": "Fortaz, Tazidime, Tazicef"
+    },
+    {
+        "MedListID": 1133,
+        "GenericName": "ceftriaxone",
+        "TradeName": "Rocephin"
+    },
+    {
+        "MedListID": 1134,
+        "GenericName": "cefuroxime",
+        "TradeName": "Zinacef, Kefurox"
+    },
+    {
+        "MedListID": 1135,
+        "GenericName": "cephalexin",
+        "TradeName": "Keflex"
+    },
+    {
+        "MedListID": 1136,
+        "GenericName": "cepodoxime",
+        "TradeName": "Vantin"
+    },
+    {
+        "MedListID": 1137,
+        "GenericName": "cetylpyridinium chloride",
+        "TradeName": "Cepacol"
+    },
+    {
+        "MedListID": 1138,
+        "GenericName": "chloral hydrate",
+        "TradeName": "Aquachloral"
+    },
+    {
+        "MedListID": 1139,
+        "GenericName": "chlordiazepoxide",
+        "TradeName": "Librium"
+    },
+    {
+        "MedListID": 1140,
+        "GenericName": "chlorhexidine gluconate 0.12%",
+        "TradeName": "Peridex oral"
+    },
+    {
+        "MedListID": 1141,
+        "GenericName": "chloroquine",
+        "TradeName": "Aralen Phosphate"
+    },
+    {
+        "MedListID": 1142,
+        "GenericName": "chlorothiazide sodium",
+        "TradeName": "Diuril"
+    },
+    {
+        "MedListID": 1143,
+        "GenericName": "chlorpheniramine",
+        "TradeName": "Chlor-trimeton"
+    },
+    {
+        "MedListID": 1144,
+        "GenericName": "chlorpromazine",
+        "TradeName": "Thorazine"
+    },
+    {
+        "MedListID": 1145,
+        "GenericName": "chlorthalidone",
+        "TradeName": "Hygroton"
+    },
+    {
+        "MedListID": 1146,
+        "GenericName": "cholestyramine resin",
+        "TradeName": "Questran"
+    },
+    {
+        "MedListID": 1147,
+        "GenericName": "cinacalcet",
+        "TradeName": "Sensipar"
+    },
+    {
+        "MedListID": 1148,
+        "GenericName": "ciprofloxacin",
+        "TradeName": "Cipro"
+    },
+    {
+        "MedListID": 1149,
+        "GenericName": "cisatracurium",
+        "TradeName": "Nimbex"
+    },
+    {
+        "MedListID": 1150,
+        "GenericName": "citalopram",
+        "TradeName": "Celexa"
+    },
+    {
+        "MedListID": 1151,
+        "GenericName": "clarithromycin",
+        "TradeName": "Biaxin"
+    },
+    {
+        "MedListID": 1152,
+        "GenericName": "clindamycin",
+        "TradeName": "Cleocin"
+    },
+    {
+        "MedListID": 1153,
+        "GenericName": "clobetasol 0.05%",
+        "TradeName": "Temovate topical"
+    },
+    {
+        "MedListID": 1154,
+        "GenericName": "clomipramine",
+        "TradeName": "Anafranil"
+    },
+    {
+        "MedListID": 1155,
+        "GenericName": "clonazepam",
+        "TradeName": "Klonopin"
+    },
+    {
+        "MedListID": 1156,
+        "GenericName": "clonidine",
+        "TradeName": "Catapres TTS"
+    },
+    {
+        "MedListID": 1157,
+        "GenericName": "clopidogrel",
+        "TradeName": "Plavix"
+    },
+    {
+        "MedListID": 1158,
+        "GenericName": "clotrimazole",
+        "TradeName": "Mycelex"
+    },
+    {
+        "MedListID": 1159,
+        "GenericName": "clotrimazole 1%",
+        "TradeName": "Lotrimin"
+    },
+    {
+        "MedListID": 1160,
+        "GenericName": "clove oil",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1161,
+        "GenericName": "clozapine",
+        "TradeName": "Clozaril"
+    },
+    {
+        "MedListID": 1162,
+        "GenericName": "codeine sulfate",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1163,
+        "GenericName": "colchicine",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1164,
+        "GenericName": "colestipol",
+        "TradeName": "Colestid"
+    },
+    {
+        "MedListID": 1165,
+        "GenericName": "collagenase",
+        "TradeName": "Santyl"
+    },
+    {
+        "MedListID": 1166,
+        "GenericName": "copper",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1167,
+        "GenericName": "cosyntropin",
+        "TradeName": "Cortrosyn, ACTH"
+    },
+    {
+        "MedListID": 1168,
+        "GenericName": "cromolyn",
+        "TradeName": "Intal Oral Inhaler"
+    },
+    {
+        "MedListID": 1169,
+        "GenericName": "curare",
+        "TradeName": "Tubocurarine"
+    },
+    {
+        "MedListID": 1170,
+        "GenericName": "cyanocobalamin",
+        "TradeName": "Vit B12, Redisol"
+    },
+    {
+        "MedListID": 1171,
+        "GenericName": "cyclobenzaprine",
+        "TradeName": "Flexeril"
+    },
+    {
+        "MedListID": 1172,
+        "GenericName": "cyclophosphamide",
+        "TradeName": "Cytoxan"
+    },
+    {
+        "MedListID": 1173,
+        "GenericName": "cyclosporine",
+        "TradeName": "Sandimmune"
+    },
+    {
+        "MedListID": 1174,
+        "GenericName": "dantrolene",
+        "TradeName": "Dantrium"
+    },
+    {
+        "MedListID": 1175,
+        "GenericName": "dapsone",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1176,
+        "GenericName": "daptomycin",
+        "TradeName": "Cubicin"
+    },
+    {
+        "MedListID": 1177,
+        "GenericName": "darbepoetin",
+        "TradeName": "Aranesp"
+    },
+    {
+        "MedListID": 1178,
+        "GenericName": "darunavir",
+        "TradeName": "Prezista"
+    },
+    {
+        "MedListID": 1179,
+        "GenericName": "deferoxamine",
+        "TradeName": "Desferal"
+    },
+    {
+        "MedListID": 1180,
+        "GenericName": "desipramine",
+        "TradeName": "Norpramin"
+    },
+    {
+        "MedListID": 1181,
+        "GenericName": "desmopressin acetate",
+        "TradeName": "DDAVP"
+    },
+    {
+        "MedListID": 1182,
+        "GenericName": "dexamethasone sod phos",
+        "TradeName": "Decadron"
+    },
+    {
+        "MedListID": 1183,
+        "GenericName": "dexmedetomidine",
+        "TradeName": "Precedex"
+    },
+    {
+        "MedListID": 1184,
+        "GenericName": "dextrose 50%",
+        "TradeName": "D50W"
+    },
+    {
+        "MedListID": 1185,
+        "GenericName": "diazepam",
+        "TradeName": "Valium"
+    },
+    {
+        "MedListID": 1186,
+        "GenericName": "dicloxacillin",
+        "TradeName": "Dycill"
+    },
+    {
+        "MedListID": 1187,
+        "GenericName": "dicyclomine",
+        "TradeName": "Bentyl"
+    },
+    {
+        "MedListID": 1188,
+        "GenericName": "didanosine",
+        "TradeName": "Videx EC"
+    },
+    {
+        "MedListID": 1189,
+        "GenericName": "digoxin",
+        "TradeName": "Lanoxin"
+    },
+    {
+        "MedListID": 1190,
+        "GenericName": "digoxin immune fab",
+        "TradeName": "Digibind"
+    },
+    {
+        "MedListID": 1191,
+        "GenericName": "diltiazem",
+        "TradeName": "Cardizem"
+    },
+    {
+        "MedListID": 1192,
+        "GenericName": "diltiazem cd",
+        "TradeName": "Tiazac"
+    },
+    {
+        "MedListID": 1193,
+        "GenericName": "diltiazem sr",
+        "TradeName": "Cardizem SR"
+    },
+    {
+        "MedListID": 1194,
+        "GenericName": "diphenhydramine",
+        "TradeName": "Benadryl"
+    },
+    {
+        "MedListID": 1195,
+        "GenericName": "diphenhydramine 1%",
+        "TradeName": "Benadryl"
+    },
+    {
+        "MedListID": 1196,
+        "GenericName": "diphenoxylate/atropine",
+        "TradeName": "Lomotil"
+    },
+    {
+        "MedListID": 1197,
+        "GenericName": "diptheria and tetanus toxoid (adult)",
+        "TradeName": "Tenivac"
+    },
+    {
+        "MedListID": 1198,
+        "GenericName": "diptheria and tetanus toxoid (pediatric)",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1199,
+        "GenericName": "diptheria, tetanus t",
+        "TradeName": "Tdap, Adacel, DTaP, Tripedia"
+    },
+    {
+        "MedListID": 1200,
+        "GenericName": "diptheria, tetanus toxoid, and acellular pertussis vaccine",
+        "TradeName": "DTaP, Tripedia"
+    },
+    {
+        "MedListID": 1201,
+        "GenericName": "dipyridamole",
+        "TradeName": "Persantine"
+    },
+    {
+        "MedListID": 1202,
+        "GenericName": "disopyramide",
+        "TradeName": "Norpace"
+    },
+    {
+        "MedListID": 1203,
+        "GenericName": "dobutamine",
+        "TradeName": "Dobutrex"
+    },
+    {
+        "MedListID": 1204,
+        "GenericName": "docusate sodium",
+        "TradeName": "Colace"
+    },
+    {
+        "MedListID": 1205,
+        "GenericName": "dofetilide",
+        "TradeName": "Tikosyn"
+    },
+    {
+        "MedListID": 1206,
+        "GenericName": "donepezil",
+        "TradeName": "Aricept"
+    },
+    {
+        "MedListID": 1207,
+        "GenericName": "dopamine",
+        "TradeName": "Dopamine HCL (Intropin)"
+    },
+    {
+        "MedListID": 1208,
+        "GenericName": "dorzolamide 2%",
+        "TradeName": "Trusopt"
+    },
+    {
+        "MedListID": 1209,
+        "GenericName": "doxazosin",
+        "TradeName": "Cardura"
+    },
+    {
+        "MedListID": 1210,
+        "GenericName": "doxepin",
+        "TradeName": "Sinequan, Adapin"
+    },
+    {
+        "MedListID": 1211,
+        "GenericName": "doxycycline",
+        "TradeName": "Vibramycin"
+    },
+    {
+        "MedListID": 1212,
+        "GenericName": "dronabinol",
+        "TradeName": "Marinol"
+    },
+    {
+        "MedListID": 1213,
+        "GenericName": "drotrecogin alfa",
+        "TradeName": "Xigris, Activated Protein C"
+    },
+    {
+        "MedListID": 1214,
+        "GenericName": "duloxetine",
+        "TradeName": "Cymbalta"
+    },
+    {
+        "MedListID": 1215,
+        "GenericName": "duramorph",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1216,
+        "GenericName": "dutasteride",
+        "TradeName": "Avodart"
+    },
+    {
+        "MedListID": 1217,
+        "GenericName": "econazole 1%",
+        "TradeName": "Spectazole"
+    },
+    {
+        "MedListID": 1218,
+        "GenericName": "efavirenz",
+        "TradeName": "Sustiva"
+    },
+    {
+        "MedListID": 1219,
+        "GenericName": "efavirenz/emtricitabine/tenofovir",
+        "TradeName": "Atripla"
+    },
+    {
+        "MedListID": 1220,
+        "GenericName": "emtricitabine",
+        "TradeName": "Emtriva, FTC"
+    },
+    {
+        "MedListID": 1221,
+        "GenericName": "emtricitabine/tenofovir",
+        "TradeName": "Truvada"
+    },
+    {
+        "MedListID": 1222,
+        "GenericName": "enfuvirtide",
+        "TradeName": "Fuzeon, T-20"
+    },
+    {
+        "MedListID": 1223,
+        "GenericName": "enoxaparin",
+        "TradeName": "Lovenox"
+    },
+    {
+        "MedListID": 1224,
+        "GenericName": "entacapone",
+        "TradeName": "Comtan"
+    },
+    {
+        "MedListID": 1225,
+        "GenericName": "entecavir",
+        "TradeName": "Baraclude"
+    },
+    {
+        "MedListID": 1226,
+        "GenericName": "entravirine",
+        "TradeName": "Intelence"
+    },
+    {
+        "MedListID": 1227,
+        "GenericName": "ephedrine sulfate",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1228,
+        "GenericName": "epinephrine",
+        "TradeName": "Adrenalin"
+    },
+    {
+        "MedListID": 1229,
+        "GenericName": "epinephrine (racemic) 2.25%",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1230,
+        "GenericName": "epoetin alfa",
+        "TradeName": "Epogen, Procrit, erythropoietin"
+    },
+    {
+        "MedListID": 1231,
+        "GenericName": "epoprostenol",
+        "TradeName": "Flolan"
+    },
+    {
+        "MedListID": 1232,
+        "GenericName": "ergocalciferol",
+        "TradeName": "Calciferol, vit D2"
+    },
+    {
+        "MedListID": 1233,
+        "GenericName": "erlotinib",
+        "TradeName": "Tarceva"
+    },
+    {
+        "MedListID": 1234,
+        "GenericName": "ertapenem sodium",
+        "TradeName": "Invanz"
+    },
+    {
+        "MedListID": 1235,
+        "GenericName": "erythromycin lactobionate",
+        "TradeName": "Erythrocin"
+    },
+    {
+        "MedListID": 1236,
+        "GenericName": "erythromycin opth 0.",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1237,
+        "GenericName": "erythromycin opth 0.5%",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1238,
+        "GenericName": "erythromycin stearate",
+        "TradeName": "Erythrocin"
+    },
+    {
+        "MedListID": 1239,
+        "GenericName": "escitalopram",
+        "TradeName": "Lexapro"
+    },
+    {
+        "MedListID": 1240,
+        "GenericName": "esmolol",
+        "TradeName": "Brevibloc"
+    },
+    {
+        "MedListID": 1241,
+        "GenericName": "estradiol",
+        "TradeName": "Estrace"
+    },
+    {
+        "MedListID": 1242,
+        "GenericName": "estrogens, conjugated",
+        "TradeName": "Premarin"
+    },
+    {
+        "MedListID": 1243,
+        "GenericName": "ethacrynic acid",
+        "TradeName": "Edecrin"
+    },
+    {
+        "MedListID": 1244,
+        "GenericName": "ethambutol",
+        "TradeName": "Myambutol"
+    },
+    {
+        "MedListID": 1245,
+        "GenericName": "etomidate",
+        "TradeName": "Amidate"
+    },
+    {
+        "MedListID": 1246,
+        "GenericName": "ezetimibe",
+        "TradeName": "Zetia"
+    },
+    {
+        "MedListID": 1247,
+        "GenericName": "ezetimibe/simvastatin",
+        "TradeName": "Vytorin"
+    },
+    {
+        "MedListID": 1248,
+        "GenericName": "factor ix complex, prothrombin complex concentrate",
+        "TradeName": "Bebulin"
+    },
+    {
+        "MedListID": 1249,
+        "GenericName": "factor viia (recombinant)",
+        "TradeName": "Novoseven"
+    },
+    {
+        "MedListID": 1250,
+        "GenericName": "famotidine",
+        "TradeName": "Pepcid"
+    },
+    {
+        "MedListID": 1251,
+        "GenericName": "felodipine",
+        "TradeName": "Plendil"
+    },
+    {
+        "MedListID": 1252,
+        "GenericName": "fenofibrate, micronized",
+        "TradeName": "Lofibra"
+    },
+    {
+        "MedListID": 1253,
+        "GenericName": "fentanyl",
+        "TradeName": "Sublimaze"
+    },
+    {
+        "MedListID": 1254,
+        "GenericName": "ferric gluconate",
+        "TradeName": "Ferrlecit"
+    },
+    {
+        "MedListID": 1255,
+        "GenericName": "ferrous gluconate",
+        "TradeName": "Iron gluconate"
+    },
+    {
+        "MedListID": 1256,
+        "GenericName": "ferrous sulfate",
+        "TradeName": "FeSO4, iron sulfate"
+    },
+    {
+        "MedListID": 1257,
+        "GenericName": "filgrastim",
+        "TradeName": "Neupogen, G-CSF"
+    },
+    {
+        "MedListID": 1258,
+        "GenericName": "finasteride",
+        "TradeName": "Proscar"
+    },
+    {
+        "MedListID": 1259,
+        "GenericName": "fish oil",
+        "TradeName": "Maxepa; omega-3 fatty acids"
+    },
+    {
+        "MedListID": 1260,
+        "GenericName": "fluconazole",
+        "TradeName": "Diflucan"
+    },
+    {
+        "MedListID": 1261,
+        "GenericName": "flucytosine",
+        "TradeName": "Ancobon"
+    },
+    {
+        "MedListID": 1262,
+        "GenericName": "fludrocortisone acetate",
+        "TradeName": "Florinef"
+    },
+    {
+        "MedListID": 1263,
+        "GenericName": "flumazenil",
+        "TradeName": "Romazicon"
+    },
+    {
+        "MedListID": 1264,
+        "GenericName": "fluocinolone 0.01%",
+        "TradeName": "FS Shampoo top"
+    },
+    {
+        "MedListID": 1265,
+        "GenericName": "fluocinonide 0.05%",
+        "TradeName": "Lidex"
+    },
+    {
+        "MedListID": 1266,
+        "GenericName": "fluorometholone 0.1%",
+        "TradeName": "Flarex ophth, FML ophth,"
+    },
+    {
+        "MedListID": 1267,
+        "GenericName": "fluoxetine",
+        "TradeName": "Prozac"
+    },
+    {
+        "MedListID": 1268,
+        "GenericName": "fluticasone",
+        "TradeName": "Flonase"
+    },
+    {
+        "MedListID": 1269,
+        "GenericName": "fluticasone/salmeter",
+        "TradeName": "Advair diskus"
+    },
+    {
+        "MedListID": 1270,
+        "GenericName": "fluticasone/salmeterol 100mcg/50mcg",
+        "TradeName": "Advair diskus (100mcg/50mcg)"
+    },
+    {
+        "MedListID": 1271,
+        "GenericName": "fluticasone/salmeterol 250mcg/50mcg",
+        "TradeName": "Advair diskus (250mcg/50mcg)"
+    },
+    {
+        "MedListID": 1272,
+        "GenericName": "fluticasone/salmeterol 500mcg/50mcg",
+        "TradeName": "Advair diskus (500mcg/50mcg)"
+    },
+    {
+        "MedListID": 1273,
+        "GenericName": "folic acid",
+        "TradeName": "Folvite, folate"
+    },
+    {
+        "MedListID": 1274,
+        "GenericName": "fomepizole",
+        "TradeName": "Antizol"
+    },
+    {
+        "MedListID": 1275,
+        "GenericName": "fondaprinux",
+        "TradeName": "Arixtra"
+    },
+    {
+        "MedListID": 1276,
+        "GenericName": "foscarnet",
+        "TradeName": "Foscavir"
+    },
+    {
+        "MedListID": 1277,
+        "GenericName": "fosphenytoin",
+        "TradeName": "Cerebyx"
+    },
+    {
+        "MedListID": 1278,
+        "GenericName": "furosemide",
+        "TradeName": "Lasix"
+    },
+    {
+        "MedListID": 1279,
+        "GenericName": "gabapentin",
+        "TradeName": "Neurontin"
+    },
+    {
+        "MedListID": 1280,
+        "GenericName": "ganciclovir",
+        "TradeName": "Cytovene"
+    },
+    {
+        "MedListID": 1281,
+        "GenericName": "gemfibrozil",
+        "TradeName": "Lopid"
+    },
+    {
+        "MedListID": 1282,
+        "GenericName": "gentamycin sulfate",
+        "TradeName": "Garamycin"
+    },
+    {
+        "MedListID": 1283,
+        "GenericName": "glimepiride",
+        "TradeName": "Amaryl"
+    },
+    {
+        "MedListID": 1284,
+        "GenericName": "glipizide",
+        "TradeName": "Glucotrol"
+    },
+    {
+        "MedListID": 1285,
+        "GenericName": "glucagon",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1286,
+        "GenericName": "glucose",
+        "TradeName": "Glutose"
+    },
+    {
+        "MedListID": 1287,
+        "GenericName": "glutamine",
+        "TradeName": "Resource, Glutasolve"
+    },
+    {
+        "MedListID": 1288,
+        "GenericName": "glyburide",
+        "TradeName": "Micronase, Diabeta"
+    },
+    {
+        "MedListID": 1289,
+        "GenericName": "glycerin",
+        "TradeName": "Fleet glycerin ped, Fleet glycerin adult"
+    },
+    {
+        "MedListID": 1290,
+        "GenericName": "glycopyrrolate",
+        "TradeName": "Robinul"
+    },
+    {
+        "MedListID": 1291,
+        "GenericName": "guaifenesin",
+        "TradeName": "Robitussin, Mucinex"
+    },
+    {
+        "MedListID": 1292,
+        "GenericName": "guaifenesin/codeine",
+        "TradeName": "Robitussin AC, Guaituss AC"
+    },
+    {
+        "MedListID": 1293,
+        "GenericName": "guaifenesin/dextromethorphan",
+        "TradeName": "Robitussin DM"
+    },
+    {
+        "MedListID": 1294,
+        "GenericName": "guaifenesin/pseudoephedrine",
+        "TradeName": "Robitussin PE"
+    },
+    {
+        "MedListID": 1295,
+        "GenericName": "haloperidol lactate",
+        "TradeName": "Haldol"
+    },
+    {
+        "MedListID": 1296,
+        "GenericName": "hemorrhoidal preparation",
+        "TradeName": "Anusol"
+    },
+    {
+        "MedListID": 1297,
+        "GenericName": "heparin",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1298,
+        "GenericName": "heparin sodium",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1299,
+        "GenericName": "hepatitis a vaccine",
+        "TradeName": "VAQTA"
+    },
+    {
+        "MedListID": 1300,
+        "GenericName": "hepatitis b vaccine",
+        "TradeName": "Engerix-B"
+    },
+    {
+        "MedListID": 1301,
+        "GenericName": "hyaluronidase",
+        "TradeName": "Amphadase"
+    },
+    {
+        "MedListID": 1302,
+        "GenericName": "hydralazine",
+        "TradeName": "Apresoline"
+    },
+    {
+        "MedListID": 1303,
+        "GenericName": "hydrochlorothiazide",
+        "TradeName": "HCTZ, Hydrodiuril, Esidrix"
+    },
+    {
+        "MedListID": 1304,
+        "GenericName": "hydrocodone/acetaminophen",
+        "TradeName": "Vicodin"
+    },
+    {
+        "MedListID": 1305,
+        "GenericName": "hydrocortisone",
+        "TradeName": "Cortef"
+    },
+    {
+        "MedListID": 1306,
+        "GenericName": "hydrocortisone 0.5%",
+        "TradeName": "Cortef (0.5%)"
+    },
+    {
+        "MedListID": 1307,
+        "GenericName": "hydrocortisone 1%",
+        "TradeName": "Cortef (1%)"
+    },
+    {
+        "MedListID": 1308,
+        "GenericName": "hydrocortisone 2.5%",
+        "TradeName": "Cortef (2.5%)"
+    },
+    {
+        "MedListID": 1309,
+        "GenericName": "hydrocortisone, neomycin, polymixin b",
+        "TradeName": "Cortisporin Otic"
+    },
+    {
+        "MedListID": 1310,
+        "GenericName": "hydrogen peroxide 3%",
+        "TradeName": "Peroxide"
+    },
+    {
+        "MedListID": 1311,
+        "GenericName": "hydromorphone",
+        "TradeName": "Dilaudid"
+    },
+    {
+        "MedListID": 1312,
+        "GenericName": "hydroxychloroquine",
+        "TradeName": "Plaquenil"
+    },
+    {
+        "MedListID": 1313,
+        "GenericName": "hydroxyurea",
+        "TradeName": "Hydrea"
+    },
+    {
+        "MedListID": 1314,
+        "GenericName": "hydroxyzine",
+        "TradeName": "Atarax, Vistaril"
+    },
+    {
+        "MedListID": 1315,
+        "GenericName": "hyoscyamine/atropine/scopolamine/phenobarbital",
+        "TradeName": "Donnatal"
+    },
+    {
+        "MedListID": 1316,
+        "GenericName": "ibuprofen",
+        "TradeName": "Motrin, Advil"
+    },
+    {
+        "MedListID": 1317,
+        "GenericName": "imipenem/cilastatin",
+        "TradeName": "Primaxin"
+    },
+    {
+        "MedListID": 1318,
+        "GenericName": "immune globulin",
+        "TradeName": "IVIG, Gammagard, Atgam, Cytogam, Flebogamma"
+    },
+    {
+        "MedListID": 1319,
+        "GenericName": "indomethacin",
+        "TradeName": "indocin"
+    },
+    {
+        "MedListID": 1320,
+        "GenericName": "influenza virus vaccine inactivated",
+        "TradeName": "fluvirin, flu vaccine, influenza virus vaccine"
+    },
+    {
+        "MedListID": 1321,
+        "GenericName": "insulin",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1322,
+        "GenericName": "insulin aspart",
+        "TradeName": "Novolog"
+    },
+    {
+        "MedListID": 1323,
+        "GenericName": "insulin glargine",
+        "TradeName": "Lantus"
+    },
+    {
+        "MedListID": 1324,
+        "GenericName": "insulin nph and regular",
+        "TradeName": "Novolin 70/30"
+    },
+    {
+        "MedListID": 1325,
+        "GenericName": "insulin nph human",
+        "TradeName": "Humulin N, Novolin N"
+    },
+    {
+        "MedListID": 1326,
+        "GenericName": "insulin reg human",
+        "TradeName": "Humulin R, Novolin R"
+    },
+    {
+        "MedListID": 1327,
+        "GenericName": "intropin",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1328,
+        "GenericName": "ipecac",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1329,
+        "GenericName": "ipratropium bromide",
+        "TradeName": "Atrovent HFA"
+    },
+    {
+        "MedListID": 1330,
+        "GenericName": "ipratropium bromide 0.02%",
+        "TradeName": "Atrovent"
+    },
+    {
+        "MedListID": 1331,
+        "GenericName": "ipratroprium/albuterol",
+        "TradeName": "Combivent"
+    },
+    {
+        "MedListID": 1332,
+        "GenericName": "isoniazid",
+        "TradeName": "INH"
+    },
+    {
+        "MedListID": 1333,
+        "GenericName": "isoproterenol",
+        "TradeName": "Isuprel"
+    },
+    {
+        "MedListID": 1334,
+        "GenericName": "isosorbide dinitrate",
+        "TradeName": "Isordil, Sorbitrate, ISDN"
+    },
+    {
+        "MedListID": 1335,
+        "GenericName": "isosorbide mononitrate",
+        "TradeName": "Imdur, ISMN"
+    },
+    {
+        "MedListID": 1336,
+        "GenericName": "itraconazole",
+        "TradeName": "Sporanox"
+    },
+    {
+        "MedListID": 1337,
+        "GenericName": "ketamine",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1338,
+        "GenericName": "ketoconazole",
+        "TradeName": "Nizoral"
+    },
+    {
+        "MedListID": 1339,
+        "GenericName": "ketorolac",
+        "TradeName": "Toradol"
+    },
+    {
+        "MedListID": 1340,
+        "GenericName": "labetalol",
+        "TradeName": "Trandate, Normodyne"
+    },
+    {
+        "MedListID": 1341,
+        "GenericName": "lactobacillus",
+        "TradeName": "Lactinex"
+    },
+    {
+        "MedListID": 1342,
+        "GenericName": "lactulose",
+        "TradeName": "Chronulac, Cephulac"
+    },
+    {
+        "MedListID": 1343,
+        "GenericName": "lamivudine",
+        "TradeName": "Epivir-HBV"
+    },
+    {
+        "MedListID": 1344,
+        "GenericName": "lamotrigine",
+        "TradeName": "Lamictal"
+    },
+    {
+        "MedListID": 1345,
+        "GenericName": "lansoprazole",
+        "TradeName": "Prevacid"
+    },
+    {
+        "MedListID": 1346,
+        "GenericName": "latanoprost 0.005%",
+        "TradeName": "Xalatan"
+    },
+    {
+        "MedListID": 1347,
+        "GenericName": "lepirudin",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1348,
+        "GenericName": "leucovorin calcium",
+        "TradeName": "Wellcovorin"
+    },
+    {
+        "MedListID": 1349,
+        "GenericName": "levalbuterol",
+        "TradeName": "Xopenex"
+    },
+    {
+        "MedListID": 1350,
+        "GenericName": "levetiracetam",
+        "TradeName": "Keppra"
+    },
+    {
+        "MedListID": 1351,
+        "GenericName": "levobunolol 0.5%",
+        "TradeName": "Betagan"
+    },
+    {
+        "MedListID": 1352,
+        "GenericName": "levocarnitine",
+        "TradeName": "L carnitine, Carnitor"
+    },
+    {
+        "MedListID": 1353,
+        "GenericName": "levodopa/carbidopa",
+        "TradeName": "Sinemet"
+    },
+    {
+        "MedListID": 1354,
+        "GenericName": "levodopa/carbidopa 10mg/100mg",
+        "TradeName": "Sinemet (10mg/100mg)"
+    },
+    {
+        "MedListID": 1355,
+        "GenericName": "levodopa/carbidopa 25mg/100mg",
+        "TradeName": "Sinemet (25mg/100mg)"
+    },
+    {
+        "MedListID": 1356,
+        "GenericName": "levodopa/carbidopa 25mg/250mg",
+        "TradeName": "Sinemet (25mg/250mg)"
+    },
+    {
+        "MedListID": 1357,
+        "GenericName": "levofloxacin",
+        "TradeName": "Levaquin"
+    },
+    {
+        "MedListID": 1358,
+        "GenericName": "levothyroxine",
+        "TradeName": "Synthroid, Levoxyl, T4"
+    },
+    {
+        "MedListID": 1359,
+        "GenericName": "lidocaine",
+        "TradeName": "Lidocaine"
+    },
+    {
+        "MedListID": 1360,
+        "GenericName": "lidocaine 1%",
+        "TradeName": "Xylocaine (1%)"
+    },
+    {
+        "MedListID": 1361,
+        "GenericName": "lidocaine 2%",
+        "TradeName": "Xylocaine (2%)"
+    },
+    {
+        "MedListID": 1362,
+        "GenericName": "lidocaine and prilocaine 2.5%",
+        "TradeName": "EMLA"
+    },
+    {
+        "MedListID": 1363,
+        "GenericName": "linezolid",
+        "TradeName": "Zyvox"
+    },
+    {
+        "MedListID": 1364,
+        "GenericName": "liothyronine sodium",
+        "TradeName": "Cytomel"
+    },
+    {
+        "MedListID": 1365,
+        "GenericName": "lisinopril",
+        "TradeName": "Prinivil, Zestril"
+    },
+    {
+        "MedListID": 1366,
+        "GenericName": "loperamide hcl",
+        "TradeName": "Imodium"
+    },
+    {
+        "MedListID": 1367,
+        "GenericName": "lopinavir/ritonavir",
+        "TradeName": "Kaletra"
+    },
+    {
+        "MedListID": 1368,
+        "GenericName": "lorazepam",
+        "TradeName": "Ativan"
+    },
+    {
+        "MedListID": 1369,
+        "GenericName": "losartan",
+        "TradeName": "Cozaar"
+    },
+    {
+        "MedListID": 1370,
+        "GenericName": "losartan and hydrochlorothiazide 100mg/25mg",
+        "TradeName": "Hyzaar (100mg/25mg)"
+    },
+    {
+        "MedListID": 1371,
+        "GenericName": "losartan and hydrochlorothiazide 50mg/12.5mg",
+        "TradeName": "Hyzaar (50mg/12.5mg)"
+    },
+    {
+        "MedListID": 1372,
+        "GenericName": "lovastatin",
+        "TradeName": "Mevacor"
+    },
+    {
+        "MedListID": 1373,
+        "GenericName": "mafenide",
+        "TradeName": "Sulfamylon"
+    },
+    {
+        "MedListID": 1374,
+        "GenericName": "magnesium citrate",
+        "TradeName": "Citrate of Magnesia"
+    },
+    {
+        "MedListID": 1375,
+        "GenericName": "magnesium gluconate",
+        "TradeName": "Almora"
+    },
+    {
+        "MedListID": 1376,
+        "GenericName": "magnesium hydroxide",
+        "TradeName": "Milk of Magnesia"
+    },
+    {
+        "MedListID": 1377,
+        "GenericName": "magnesium oxide",
+        "TradeName": "Mag-Ox"
+    },
+    {
+        "MedListID": 1378,
+        "GenericName": "magnesium sulfate",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1379,
+        "GenericName": "mannitol",
+        "TradeName": "Osmitrol"
+    },
+    {
+        "MedListID": 1380,
+        "GenericName": "mannitol 20%",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1381,
+        "GenericName": "meclizine",
+        "TradeName": "Antivert"
+    },
+    {
+        "MedListID": 1382,
+        "GenericName": "medroxyprogesterone acet",
+        "TradeName": "Provera"
+    },
+    {
+        "MedListID": 1383,
+        "GenericName": "megestrol",
+        "TradeName": "Megace"
+    },
+    {
+        "MedListID": 1384,
+        "GenericName": "meperidine",
+        "TradeName": "Demerol"
+    },
+    {
+        "MedListID": 1385,
+        "GenericName": "meropenem",
+        "TradeName": "Merrem"
+    },
+    {
+        "MedListID": 1386,
+        "GenericName": "mesalamine",
+        "TradeName": "Asacol"
+    },
+    {
+        "MedListID": 1387,
+        "GenericName": "metformin",
+        "TradeName": "Glucophage"
+    },
+    {
+        "MedListID": 1388,
+        "GenericName": "methadone",
+        "TradeName": "Dolophine"
+    },
+    {
+        "MedListID": 1389,
+        "GenericName": "methimazole",
+        "TradeName": "Tapazole"
+    },
+    {
+        "MedListID": 1390,
+        "GenericName": "methotrexate",
+        "TradeName": "Folex, Rheumatrex"
+    },
+    {
+        "MedListID": 1391,
+        "GenericName": "methyl salicylate and menthol",
+        "TradeName": "Analgesic Balm, Ben Gay"
+    },
+    {
+        "MedListID": 1392,
+        "GenericName": "methyldopa",
+        "TradeName": "Aldomet"
+    },
+    {
+        "MedListID": 1393,
+        "GenericName": "methylene blue",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1394,
+        "GenericName": "methylphenidate",
+        "TradeName": "Ritalin"
+    },
+    {
+        "MedListID": 1395,
+        "GenericName": "methylprednisolone",
+        "TradeName": "Solumedrol"
+    },
+    {
+        "MedListID": 1396,
+        "GenericName": "metoclopramide",
+        "TradeName": "Reglan"
+    },
+    {
+        "MedListID": 1397,
+        "GenericName": "metocurine",
+        "TradeName": "Metubine"
+    },
+    {
+        "MedListID": 1398,
+        "GenericName": "metolazone",
+        "TradeName": "Zaroxolyn"
+    },
+    {
+        "MedListID": 1399,
+        "GenericName": "metoprolol",
+        "TradeName": "Lopressor"
+    },
+    {
+        "MedListID": 1400,
+        "GenericName": "metoprolol xl",
+        "TradeName": "Toprol XL"
+    },
+    {
+        "MedListID": 1401,
+        "GenericName": "metronidazole",
+        "TradeName": "Flagyl"
+    },
+    {
+        "MedListID": 1402,
+        "GenericName": "mexilitine",
+        "TradeName": "Mexitil"
+    },
+    {
+        "MedListID": 1403,
+        "GenericName": "micafungin",
+        "TradeName": "Mycamine"
+    },
+    {
+        "MedListID": 1404,
+        "GenericName": "midazolam",
+        "TradeName": "Versed"
+    },
+    {
+        "MedListID": 1405,
+        "GenericName": "milrinone",
+        "TradeName": "Primacor"
+    },
+    {
+        "MedListID": 1406,
+        "GenericName": "mirtazapine",
+        "TradeName": "Remeron"
+    },
+    {
+        "MedListID": 1407,
+        "GenericName": "montelukast",
+        "TradeName": "Singulair"
+    },
+    {
+        "MedListID": 1408,
+        "GenericName": "morphine",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1409,
+        "GenericName": "morphine oral",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1410,
+        "GenericName": "morphine oral 20mg/ml",
+        "TradeName": "Roxanol"
+    },
+    {
+        "MedListID": 1411,
+        "GenericName": "morphine sulfate",
+        "TradeName": "MS contin"
+    },
+    {
+        "MedListID": 1412,
+        "GenericName": "multivitamin",
+        "TradeName": "MVI"
+    },
+    {
+        "MedListID": 1413,
+        "GenericName": "mycophenolate",
+        "TradeName": "Cellcept"
+    },
+    {
+        "MedListID": 1414,
+        "GenericName": "nafcillin sodium",
+        "TradeName": "Nafcil"
+    },
+    {
+        "MedListID": 1415,
+        "GenericName": "nalbuphine hcl (nuba",
+        "TradeName": "Nalbuphine HCL (Nubain)"
+    },
+    {
+        "MedListID": 1416,
+        "GenericName": "naloxone",
+        "TradeName": "Narcan"
+    },
+    {
+        "MedListID": 1417,
+        "GenericName": "naphazoline 0.1%",
+        "TradeName": "Naphcon Forte"
+    },
+    {
+        "MedListID": 1418,
+        "GenericName": "naphazoline/pheniramine 0.025%/0.3%",
+        "TradeName": "Naphcon-A"
+    },
+    {
+        "MedListID": 1419,
+        "GenericName": "naproxen",
+        "TradeName": "Naprosyn"
+    },
+    {
+        "MedListID": 1420,
+        "GenericName": "nelfinavir mesylate",
+        "TradeName": "Viracept; NFV"
+    },
+    {
+        "MedListID": 1421,
+        "GenericName": "neomycin sulfate",
+        "TradeName": "Mycifradin"
+    },
+    {
+        "MedListID": 1422,
+        "GenericName": "nevirapine",
+        "TradeName": "Viramune; NVP"
+    },
+    {
+        "MedListID": 1423,
+        "GenericName": "niacin",
+        "TradeName": "Niaspan; nicotinic acid; vitamin B3"
+    },
+    {
+        "MedListID": 1424,
+        "GenericName": "nicardipine",
+        "TradeName": "Cardene"
+    },
+    {
+        "MedListID": 1425,
+        "GenericName": "nicotine patch",
+        "TradeName": "Nicoderm"
+    },
+    {
+        "MedListID": 1426,
+        "GenericName": "nicotine polacrilex",
+        "TradeName": "Nicorette gum"
+    },
+    {
+        "MedListID": 1427,
+        "GenericName": "nifedipine",
+        "TradeName": "Procardia, Adalat"
+    },
+    {
+        "MedListID": 1428,
+        "GenericName": "nifedipine er",
+        "TradeName": "Procardia XL, Adalat CC"
+    },
+    {
+        "MedListID": 1429,
+        "GenericName": "nimodipine",
+        "TradeName": "Nimotop"
+    },
+    {
+        "MedListID": 1430,
+        "GenericName": "nitrofurantoin",
+        "TradeName": "Macrodantin"
+    },
+    {
+        "MedListID": 1431,
+        "GenericName": "nitrofurantoin monohydrate",
+        "TradeName": "Macrobid"
+    },
+    {
+        "MedListID": 1432,
+        "GenericName": "nitroglycerin",
+        "TradeName": "NTG, Nitrolingual"
+    },
+    {
+        "MedListID": 1433,
+        "GenericName": "nitroglycerin 2%",
+        "TradeName": "NTG"
+    },
+    {
+        "MedListID": 1434,
+        "GenericName": "nitroprusside",
+        "TradeName": "Nipride"
+    },
+    {
+        "MedListID": 1435,
+        "GenericName": "norepinephrine",
+        "TradeName": "Levophed"
+    },
+    {
+        "MedListID": 1436,
+        "GenericName": "nortriptyline",
+        "TradeName": "Aventyl, Pamelor"
+    },
+    {
+        "MedListID": 1437,
+        "GenericName": "nystatin",
+        "TradeName": "Mycostatin"
+    },
+    {
+        "MedListID": 1438,
+        "GenericName": "octreotide",
+        "TradeName": "Sandostatin"
+    },
+    {
+        "MedListID": 1439,
+        "GenericName": "ofloxacin 0.3%",
+        "TradeName": "Floxin"
+    },
+    {
+        "MedListID": 1440,
+        "GenericName": "olanzapine zydis",
+        "TradeName": "Zyprexa"
+    },
+    {
+        "MedListID": 1441,
+        "GenericName": "ondansetron",
+        "TradeName": "Zofran"
+    },
+    {
+        "MedListID": 1442,
+        "GenericName": "opium tincture 10%",
+        "TradeName": "DTO"
+    },
+    {
+        "MedListID": 1443,
+        "GenericName": "oseltamivir",
+        "TradeName": "Tamiflu"
+    },
+    {
+        "MedListID": 1444,
+        "GenericName": "oxcarbazepine",
+        "TradeName": "Trileptal"
+    },
+    {
+        "MedListID": 1445,
+        "GenericName": "oxybutynin",
+        "TradeName": "Ditropan"
+    },
+    {
+        "MedListID": 1446,
+        "GenericName": "oxycodone",
+        "TradeName": "Roxicodone, OxyIR"
+    },
+    {
+        "MedListID": 1447,
+        "GenericName": "oxycodone & acetaminophen",
+        "TradeName": "Percocet"
+    },
+    {
+        "MedListID": 1448,
+        "GenericName": "oxymetazoline 0.05%",
+        "TradeName": "Afrin"
+    },
+    {
+        "MedListID": 1449,
+        "GenericName": "pancrease capsules",
+        "TradeName": "Pancrease MT 16"
+    },
+    {
+        "MedListID": 1450,
+        "GenericName": "pancrelipase",
+        "TradeName": "Viokase"
+    },
+    {
+        "MedListID": 1451,
+        "GenericName": "pancuronium",
+        "TradeName": "Pavulon"
+    },
+    {
+        "MedListID": 1452,
+        "GenericName": "pantoprazole",
+        "TradeName": "Protonix"
+    },
+    {
+        "MedListID": 1453,
+        "GenericName": "papain/urea",
+        "TradeName": "Accuzyme"
+    },
+    {
+        "MedListID": 1454,
+        "GenericName": "paroxetine",
+        "TradeName": "Paxil"
+    },
+    {
+        "MedListID": 1455,
+        "GenericName": "penicillin g benzathine",
+        "TradeName": "Bicillin LA"
+    },
+    {
+        "MedListID": 1456,
+        "GenericName": "penicillin v potassium",
+        "TradeName": "Pen VK"
+    },
+    {
+        "MedListID": 1457,
+        "GenericName": "pentamidine",
+        "TradeName": "Pentam-300, Nebupent"
+    },
+    {
+        "MedListID": 1458,
+        "GenericName": "pentobarbital",
+        "TradeName": "Nembutal"
+    },
+    {
+        "MedListID": 1459,
+        "GenericName": "pentoxifylline sr",
+        "TradeName": "Trental"
+    },
+    {
+        "MedListID": 1460,
+        "GenericName": "permethrin 1%",
+        "TradeName": "Nix"
+    },
+    {
+        "MedListID": 1461,
+        "GenericName": "permethrin 5%",
+        "TradeName": "Elimite"
+    },
+    {
+        "MedListID": 1462,
+        "GenericName": "perphenazine",
+        "TradeName": "Trilafon"
+    },
+    {
+        "MedListID": 1463,
+        "GenericName": "phenazopyridine",
+        "TradeName": "Pyridium"
+    },
+    {
+        "MedListID": 1464,
+        "GenericName": "phenobarbital",
+        "TradeName": "Luminal"
+    },
+    {
+        "MedListID": 1465,
+        "GenericName": "phenol",
+        "TradeName": "Chloraseptic Oral"
+    },
+    {
+        "MedListID": 1466,
+        "GenericName": "phenoxybenzamine",
+        "TradeName": "Dibenzyline"
+    },
+    {
+        "MedListID": 1467,
+        "GenericName": "phentolamine",
+        "TradeName": "Regitine"
+    },
+    {
+        "MedListID": 1468,
+        "GenericName": "phenylephrine",
+        "TradeName": "Neosynephrine"
+    },
+    {
+        "MedListID": 1469,
+        "GenericName": "phenytoin",
+        "TradeName": "Dilantin"
+    },
+    {
+        "MedListID": 1470,
+        "GenericName": "phenytoin er",
+        "TradeName": "Dilantin (phenytoin er)"
+    },
+    {
+        "MedListID": 1471,
+        "GenericName": "physostigmine",
+        "TradeName": "Antilirium"
+    },
+    {
+        "MedListID": 1472,
+        "GenericName": "phytonadione",
+        "TradeName": "Vitamin K, Mephyton"
+    },
+    {
+        "MedListID": 1473,
+        "GenericName": "pioglitazone",
+        "TradeName": "Actos"
+    },
+    {
+        "MedListID": 1474,
+        "GenericName": "pneumococcal vaccine",
+        "TradeName": "Pneumovax-23"
+    },
+    {
+        "MedListID": 1475,
+        "GenericName": "polyethylene glycol-electrolyte solution",
+        "TradeName": "GoLYTELY; Colyte; Nulytely"
+    },
+    {
+        "MedListID": 1476,
+        "GenericName": "posaconazole",
+        "TradeName": "Noxafil"
+    },
+    {
+        "MedListID": 1477,
+        "GenericName": "potassium acetate",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1478,
+        "GenericName": "potassium chloride",
+        "TradeName": "KCL"
+    },
+    {
+        "MedListID": 1479,
+        "GenericName": "potassium phosphate",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1480,
+        "GenericName": "potassium phosphate/sodium phosphate",
+        "TradeName": "PhosNak"
+    },
+    {
+        "MedListID": 1481,
+        "GenericName": "povidone-iodine 10%",
+        "TradeName": "Betadine"
+    },
+    {
+        "MedListID": 1482,
+        "GenericName": "pravastatin sodium",
+        "TradeName": "Pravachol"
+    },
+    {
+        "MedListID": 1483,
+        "GenericName": "prazosin",
+        "TradeName": "Minipress"
+    },
+    {
+        "MedListID": 1484,
+        "GenericName": "prednisone",
+        "TradeName": "Deltasone"
+    },
+    {
+        "MedListID": 1485,
+        "GenericName": "prenatal vitamin",
+        "TradeName": "prenatal MVI"
+    },
+    {
+        "MedListID": 1486,
+        "GenericName": "primaquine",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1487,
+        "GenericName": "procainamide",
+        "TradeName": "Pronestyl"
+    },
+    {
+        "MedListID": 1488,
+        "GenericName": "prochlorperazine",
+        "TradeName": "Compazine"
+    },
+    {
+        "MedListID": 1489,
+        "GenericName": "promethazine",
+        "TradeName": "Phenergan"
+    },
+    {
+        "MedListID": 1490,
+        "GenericName": "propafenone",
+        "TradeName": "Rythmol"
+    },
+    {
+        "MedListID": 1491,
+        "GenericName": "propofol",
+        "TradeName": "Diprivan"
+    },
+    {
+        "MedListID": 1492,
+        "GenericName": "propoxyphene napsylate/acetaminophen100/650mg tablet",
+        "TradeName": "Darvocet-N 100"
+    },
+    {
+        "MedListID": 1493,
+        "GenericName": "propranolol",
+        "TradeName": "Inderal"
+    },
+    {
+        "MedListID": 1494,
+        "GenericName": "propranolol sa",
+        "TradeName": "Inderal"
+    },
+    {
+        "MedListID": 1495,
+        "GenericName": "psyllium",
+        "TradeName": "Metamucil; Konsyl"
+    },
+    {
+        "MedListID": 1496,
+        "GenericName": "pyrazinamide",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1497,
+        "GenericName": "pyridostigmine",
+        "TradeName": "Mestinon"
+    },
+    {
+        "MedListID": 1498,
+        "GenericName": "pyridoxine",
+        "TradeName": "Vitamin B6"
+    },
+    {
+        "MedListID": 1499,
+        "GenericName": "pyrimethamine",
+        "TradeName": "Daraprim"
+    },
+    {
+        "MedListID": 1500,
+        "GenericName": "quetiapine",
+        "TradeName": "Seroquel"
+    },
+    {
+        "MedListID": 1501,
+        "GenericName": "raloxifene",
+        "TradeName": "Evista"
+    },
+    {
+        "MedListID": 1502,
+        "GenericName": "raltegravir",
+        "TradeName": "Isentress"
+    },
+    {
+        "MedListID": 1503,
+        "GenericName": "ribavirin",
+        "TradeName": "Copegus"
+    },
+    {
+        "MedListID": 1504,
+        "GenericName": "rifabutin",
+        "TradeName": "Mycobutin"
+    },
+    {
+        "MedListID": 1505,
+        "GenericName": "rifampin",
+        "TradeName": "Rifadin"
+    },
+    {
+        "MedListID": 1506,
+        "GenericName": "rifaximin",
+        "TradeName": "Xifaxan"
+    },
+    {
+        "MedListID": 1507,
+        "GenericName": "risperidone",
+        "TradeName": "Risperdal"
+    },
+    {
+        "MedListID": 1508,
+        "GenericName": "risperidone-m (diintegrating)",
+        "TradeName": "Risperdal Mtab"
+    },
+    {
+        "MedListID": 1509,
+        "GenericName": "ritonavir",
+        "TradeName": "Norvir"
+    },
+    {
+        "MedListID": 1510,
+        "GenericName": "rocuronium",
+        "TradeName": "Zemuron"
+    },
+    {
+        "MedListID": 1511,
+        "GenericName": "ropinirole",
+        "TradeName": "Requip"
+    },
+    {
+        "MedListID": 1512,
+        "GenericName": "saliva substitute",
+        "TradeName": "Xero-lube"
+    },
+    {
+        "MedListID": 1513,
+        "GenericName": "salmeterol (xinafoate)",
+        "TradeName": "Serevent diskus"
+    },
+    {
+        "MedListID": 1514,
+        "GenericName": "saquinavir",
+        "TradeName": "Invirase"
+    },
+    {
+        "MedListID": 1515,
+        "GenericName": "scopolamine",
+        "TradeName": "Transderm Scop Patch"
+    },
+    {
+        "MedListID": 1516,
+        "GenericName": "selegiline",
+        "TradeName": "Eldepryl"
+    },
+    {
+        "MedListID": 1517,
+        "GenericName": "selenium sulfide 2.5%",
+        "TradeName": "Selsun"
+    },
+    {
+        "MedListID": 1518,
+        "GenericName": "senna",
+        "TradeName": "Senokot"
+    },
+    {
+        "MedListID": 1519,
+        "GenericName": "sertraline",
+        "TradeName": "Zoloft"
+    },
+    {
+        "MedListID": 1520,
+        "GenericName": "sevelamer",
+        "TradeName": "Renagel"
+    },
+    {
+        "MedListID": 1521,
+        "GenericName": "silver nitrate",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1522,
+        "GenericName": "silver sulfadiazine 1%",
+        "TradeName": "Silvadene, SSD"
+    },
+    {
+        "MedListID": 1523,
+        "GenericName": "simethicone",
+        "TradeName": "Mylicon"
+    },
+    {
+        "MedListID": 1524,
+        "GenericName": "simvastatin",
+        "TradeName": "Zocor"
+    },
+    {
+        "MedListID": 1525,
+        "GenericName": "sodium bicarbonate",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1526,
+        "GenericName": "sodium chloride",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1527,
+        "GenericName": "sodium chloride 0.65",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1528,
+        "GenericName": "sodium chloride 0.65%",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1529,
+        "GenericName": "sodium citrate/citr aci",
+        "TradeName": "Bicitra"
+    },
+    {
+        "MedListID": 1530,
+        "GenericName": "sodium phosphate",
+        "TradeName": "Fleets enema"
+    },
+    {
+        "MedListID": 1531,
+        "GenericName": "sodium polystyrene sulfonate",
+        "TradeName": "Kayexalate; SPS"
+    },
+    {
+        "MedListID": 1532,
+        "GenericName": "sodium sulfacetamide",
+        "TradeName": "Isopto cetamide opth"
+    },
+    {
+        "MedListID": 1533,
+        "GenericName": "sorbitol 70%",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1534,
+        "GenericName": "sotalol",
+        "TradeName": "Betapace"
+    },
+    {
+        "MedListID": 1535,
+        "GenericName": "spironolactone",
+        "TradeName": "Aldactone"
+    },
+    {
+        "MedListID": 1536,
+        "GenericName": "stavudine",
+        "TradeName": "Zerit, d4T"
+    },
+    {
+        "MedListID": 1537,
+        "GenericName": "succinylcholine",
+        "TradeName": "Anectine"
+    },
+    {
+        "MedListID": 1538,
+        "GenericName": "sucralfate",
+        "TradeName": "Carafate"
+    },
+    {
+        "MedListID": 1539,
+        "GenericName": "sufentanyl citrate",
+        "TradeName": "Sufenta"
+    },
+    {
+        "MedListID": 1540,
+        "GenericName": "sulfadiazine",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1541,
+        "GenericName": "sulfamethoxazole/trimethoprim",
+        "TradeName": "Septra SS, Bactrim SS"
+    },
+    {
+        "MedListID": 1542,
+        "GenericName": "sulfasalazine",
+        "TradeName": "Azulfidine"
+    },
+    {
+        "MedListID": 1543,
+        "GenericName": "sulindac",
+        "TradeName": "Clinoril"
+    },
+    {
+        "MedListID": 1544,
+        "GenericName": "sumatriptan",
+        "TradeName": "Imitrex"
+    },
+    {
+        "MedListID": 1545,
+        "GenericName": "tacrolimus",
+        "TradeName": "Prograf, FK506"
+    },
+    {
+        "MedListID": 1546,
+        "GenericName": "tamoxifen",
+        "TradeName": "Nolvadex"
+    },
+    {
+        "MedListID": 1547,
+        "GenericName": "tamsulosin",
+        "TradeName": "Flomax"
+    },
+    {
+        "MedListID": 1548,
+        "GenericName": "temazepam",
+        "TradeName": "Restoril"
+    },
+    {
+        "MedListID": 1549,
+        "GenericName": "tenecteplase",
+        "TradeName": "TNKase"
+    },
+    {
+        "MedListID": 1550,
+        "GenericName": "tenofovir",
+        "TradeName": "Viread, TDF"
+    },
+    {
+        "MedListID": 1551,
+        "GenericName": "terazosin",
+        "TradeName": "Hytrin"
+    },
+    {
+        "MedListID": 1552,
+        "GenericName": "terbutaline",
+        "TradeName": "Brethine oral, Bricanyl oral"
+    },
+    {
+        "MedListID": 1553,
+        "GenericName": "testosterone",
+        "TradeName": "Testoderm transdermal; Androderm transdermal"
+    },
+    {
+        "MedListID": 1554,
+        "GenericName": "testosterone cypionate",
+        "TradeName": "Depo testosterone"
+    },
+    {
+        "MedListID": 1555,
+        "GenericName": "tetanus immune globulin, human",
+        "TradeName": "Hyper-Tet"
+    },
+    {
+        "MedListID": 1556,
+        "GenericName": "tetracaine 0.5%",
+        "TradeName": "Pontocaine (0.5%)"
+    },
+    {
+        "MedListID": 1557,
+        "GenericName": "tetracaine 2%",
+        "TradeName": "Pontocaine (2%)"
+    },
+    {
+        "MedListID": 1558,
+        "GenericName": "tetracycline",
+        "TradeName": "Achromycin, Sumycin"
+    },
+    {
+        "MedListID": 1559,
+        "GenericName": "theophylline",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1560,
+        "GenericName": "theophylline anhydrous sr",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1561,
+        "GenericName": "thiamine",
+        "TradeName": "Betalin"
+    },
+    {
+        "MedListID": 1562,
+        "GenericName": "thioridazine",
+        "TradeName": "Mellaril"
+    },
+    {
+        "MedListID": 1563,
+        "GenericName": "thiothixene",
+        "TradeName": "Navane"
+    },
+    {
+        "MedListID": 1564,
+        "GenericName": "tiagabine",
+        "TradeName": "Gabitril"
+    },
+    {
+        "MedListID": 1565,
+        "GenericName": "tigecycline",
+        "TradeName": "Tygacil"
+    },
+    {
+        "MedListID": 1566,
+        "GenericName": "timolol 0.25%",
+        "TradeName": "Timoptic (0.25%)"
+    },
+    {
+        "MedListID": 1567,
+        "GenericName": "timolol 0.5%",
+        "TradeName": "Timoptic (0.5%)"
+    },
+    {
+        "MedListID": 1568,
+        "GenericName": "tiotropium",
+        "TradeName": "Spiriva"
+    },
+    {
+        "MedListID": 1569,
+        "GenericName": "tirofiban",
+        "TradeName": "Aggrastat"
+    },
+    {
+        "MedListID": 1570,
+        "GenericName": "tobramycin",
+        "TradeName": "Nebcin"
+    },
+    {
+        "MedListID": 1571,
+        "GenericName": "tobramycin 0.3%",
+        "TradeName": "Tobrex ophth"
+    },
+    {
+        "MedListID": 1572,
+        "GenericName": "tobramycin/dexamethasone 0.3%/0.1%",
+        "TradeName": "TobraDex"
+    },
+    {
+        "MedListID": 1573,
+        "GenericName": "tolbutamide",
+        "TradeName": "Orinase"
+    },
+    {
+        "MedListID": 1574,
+        "GenericName": "tolnaftate 1%",
+        "TradeName": "Tinactin"
+    },
+    {
+        "MedListID": 1575,
+        "GenericName": "tolterodine",
+        "TradeName": "Detrol LA"
+    },
+    {
+        "MedListID": 1576,
+        "GenericName": "topiramate",
+        "TradeName": "Topamax"
+    },
+    {
+        "MedListID": 1577,
+        "GenericName": "tramadol",
+        "TradeName": "Ultram"
+    },
+    {
+        "MedListID": 1578,
+        "GenericName": "trazodone",
+        "TradeName": "Desyrel"
+    },
+    {
+        "MedListID": 1579,
+        "GenericName": "triamcinolone 0.025%",
+        "TradeName": "Kenalog (0.025%)"
+    },
+    {
+        "MedListID": 1580,
+        "GenericName": "triamcinolone 0.1%",
+        "TradeName": "Kenalog (0.1%)"
+    },
+    {
+        "MedListID": 1581,
+        "GenericName": "triamterene",
+        "TradeName": "Dyrenium"
+    },
+    {
+        "MedListID": 1582,
+        "GenericName": "trifluoperazine",
+        "TradeName": "Stelazine"
+    },
+    {
+        "MedListID": 1583,
+        "GenericName": "trihexyphenidyl",
+        "TradeName": "Artane"
+    },
+    {
+        "MedListID": 1584,
+        "GenericName": "tromethamine",
+        "TradeName": "THAM"
+    },
+    {
+        "MedListID": 1585,
+        "GenericName": "tuberculin, purified protein",
+        "TradeName": "Tubersol, Aplisol, PPD"
+    },
+    {
+        "MedListID": 1586,
+        "GenericName": "ursodiol",
+        "TradeName": "Actigall"
+    },
+    {
+        "MedListID": 1587,
+        "GenericName": "valacyclovir",
+        "TradeName": "Valtrex"
+    },
+    {
+        "MedListID": 1588,
+        "GenericName": "valganciclovir",
+        "TradeName": "Valcyte"
+    },
+    {
+        "MedListID": 1589,
+        "GenericName": "valproic acid",
+        "TradeName": "Depakon, VPA, divalproex"
+    },
+    {
+        "MedListID": 1590,
+        "GenericName": "valproic acid er",
+        "TradeName": "Depakote, VPA, divalproex (valproic acid er)"
+    },
+    {
+        "MedListID": 1591,
+        "GenericName": "valsartan",
+        "TradeName": "Diovan"
+    },
+    {
+        "MedListID": 1592,
+        "GenericName": "valsartan/hctz",
+        "TradeName": "Diovan HCT"
+    },
+    {
+        "MedListID": 1593,
+        "GenericName": "valsartan/hctz 160mg/12.5mg",
+        "TradeName": "Diovan HCT (160mg/12.5mg)"
+    },
+    {
+        "MedListID": 1594,
+        "GenericName": "valsartan/hctz 80mg/12.5mg",
+        "TradeName": "Diovan HCT (80mg/12.5mg)"
+    },
+    {
+        "MedListID": 1595,
+        "GenericName": "vancomycin",
+        "TradeName": "Vancocin"
+    },
+    {
+        "MedListID": 1596,
+        "GenericName": "vasopressin",
+        "TradeName": "Pitressin"
+    },
+    {
+        "MedListID": 1597,
+        "GenericName": "vecuronium",
+        "TradeName": "Norcuron"
+    },
+    {
+        "MedListID": 1598,
+        "GenericName": "venlafaxine",
+        "TradeName": "Effexor"
+    },
+    {
+        "MedListID": 1599,
+        "GenericName": "venlafaxine  xr",
+        "TradeName": "Effexor XR"
+    },
+    {
+        "MedListID": 1600,
+        "GenericName": "verapamil",
+        "TradeName": "Calan, Isoptin, Verelan"
+    },
+    {
+        "MedListID": 1601,
+        "GenericName": "verapamil sr",
+        "TradeName": "Calan, Isoptin, Verelan (verapamil sr)"
+    },
+    {
+        "MedListID": 1602,
+        "GenericName": "vitamin a",
+        "TradeName": "Aquasol A"
+    },
+    {
+        "MedListID": 1603,
+        "GenericName": "vitamin b complex/w fa, vit c",
+        "TradeName": "Nephrocap, Nephro-vite"
+    },
+    {
+        "MedListID": 1604,
+        "GenericName": "vitamin e",
+        "TradeName": "Aquasol E, tocopherol"
+    },
+    {
+        "MedListID": 1605,
+        "GenericName": "voriconazole",
+        "TradeName": "Vfend"
+    },
+    {
+        "MedListID": 1606,
+        "GenericName": "warfarin sodium",
+        "TradeName": "Coumadin"
+    },
+    {
+        "MedListID": 1607,
+        "GenericName": "white petrolatum",
+        "TradeName": "Vaseline"
+    },
+    {
+        "MedListID": 1608,
+        "GenericName": "xylocaine",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1609,
+        "GenericName": "zidovudine",
+        "TradeName": "Retrovir, AZT"
+    },
+    {
+        "MedListID": 1610,
+        "GenericName": "zidovudine/lamivudin",
+        "TradeName": "Epzicom,Trizivir, abacavir, Ziagen, ABC"
+    },
+    {
+        "MedListID": 1611,
+        "GenericName": "zidovudine/lamivudine",
+        "TradeName": "Combivir"
+    },
+    {
+        "MedListID": 1612,
+        "GenericName": "zinc oxide 20%",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1613,
+        "GenericName": "zinc oxide 40%",
+        "TradeName": "Desitin"
+    },
+    {
+        "MedListID": 1614,
+        "GenericName": "zinc sulfate",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1615,
+        "GenericName": "ziprasidone",
+        "TradeName": "Geodon"
+    },
+    {
+        "MedListID": 1616,
+        "GenericName": "zonisamide",
+        "TradeName": "Zonegran"
+    },
+    {
+        "MedListID": 1617,
+        "GenericName": "Esomeprazole",
+        "TradeName": "Nexium"
+    },
+    {
+        "MedListID": 1618,
+        "GenericName": "Trimethobenzamide",
+        "TradeName": "Tigan"
+    },
+    {
+        "MedListID": 1619,
+        "GenericName": "Amphetamine and dextroamphetamine",
+        "TradeName": "Adderall"
+    },
+    {
+        "MedListID": 1620,
+        "GenericName": "Citicoline/Placebo (Pittsburgh Research)",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1621,
+        "GenericName": "Vitamin C",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1622,
+        "GenericName": "Vitamin B12",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1623,
+        "GenericName": "omeprazole",
+        "TradeName": "Prilosec"
+    },
+    {
+        "MedListID": 1624,
+        "GenericName": "Hetastarch",
+        "TradeName": "Hespan, Hextend"
+    },
+    {
+        "MedListID": 1625,
+        "GenericName": "Ramipril",
+        "TradeName": "Altace"
+    },
+    {
+        "MedListID": 1626,
+        "GenericName": "Doxazosin",
+        "TradeName": "Cardura"
+    },
+    {
+        "MedListID": 1627,
+        "GenericName": "fexofenadine",
+        "TradeName": "Allegra"
+    },
+    {
+        "MedListID": 1628,
+        "GenericName": "quinapril",
+        "TradeName": "Accupril"
+    },
+    {
+        "MedListID": 1629,
+        "GenericName": "sildenafil citrate",
+        "TradeName": "Viagra"
+    },
+    {
+        "MedListID": 1630,
+        "GenericName": "dutasteride",
+        "TradeName": "Avodart"
+    },
+    {
+        "MedListID": 1631,
+        "GenericName": "olmesartan",
+        "TradeName": "Benicar"
+    },
+    {
+        "MedListID": 1632,
+        "GenericName": "Methylcellulose",
+        "TradeName": "Citracal + D"
+    },
+    {
+        "MedListID": 1633,
+        "GenericName": "zolpidem",
+        "TradeName": "Ambien"
+    },
+    {
+        "MedListID": 1634,
+        "GenericName": "glyburide/metformin",
+        "TradeName": "Glucovance"
+    },
+    {
+        "MedListID": 1635,
+        "GenericName": "imipramine",
+        "TradeName": "Tofranil"
+    },
+    {
+        "MedListID": 1636,
+        "GenericName": "diatrizoate meglumine",
+        "TradeName": "MD-Gastroview"
+    },
+    {
+        "MedListID": 1637,
+        "GenericName": "rosuvastatin calcium",
+        "TradeName": "Crestor"
+    },
+    {
+        "MedListID": 1638,
+        "GenericName": "nisoldipine",
+        "TradeName": "Sular"
+    },
+    {
+        "MedListID": 1639,
+        "GenericName": "lanthanum carbonate",
+        "TradeName": "Fosrenol"
+    },
+    {
+        "MedListID": 1640,
+        "GenericName": "bupivacaine",
+        "TradeName": "Marcaine Spinal"
+    },
+    {
+        "MedListID": 1641,
+        "GenericName": "fesoterodine",
+        "TradeName": "Toviaz"
+    },
+    {
+        "MedListID": 1642,
+        "GenericName": "pregabalin",
+        "TradeName": "Lyrica"
+    },
+    {
+        "MedListID": 1643,
+        "GenericName": "piperacillin-tazobactam",
+        "TradeName": "Zosyn"
+    },
+    {
+        "MedListID": 1644,
+        "GenericName": "ocular lubricant",
+        "TradeName": "Genteal Eye Gel"
+    },
+    {
+        "MedListID": 1645,
+        "GenericName": "tranexamic acid ",
+        "TradeName": "Lysteda"
+    },
+    {
+        "MedListID": 1646,
+        "GenericName": "moxifloxacin 0.5% ophthalmic solution",
+        "TradeName": "Vigamox 0.5% ophthalmic"
+    },
+    {
+        "MedListID": 1647,
+        "GenericName": "prednisolone ophthalmic",
+        "TradeName": "Pred Forte 1% ophthalmic"
+    },
+    {
+        "MedListID": 1648,
+        "GenericName": "Rantidine",
+        "TradeName": "Zantac"
+    },
+    {
+        "MedListID": 1649,
+        "GenericName": "Vitamin B Complex",
+        "TradeName": "Vitamin B Complex"
+    },
+    {
+        "MedListID": 1650,
+        "GenericName": "0.9% NaCl",
+        "TradeName": "0.9% NaCl"
+    },
+    {
+        "MedListID": 1651,
+        "GenericName": "3% Hypertonic",
+        "TradeName": "3% Hypertonic"
+    },
+    {
+        "MedListID": 1652,
+        "GenericName": "Neostigmine",
+        "TradeName": "Prostigmin"
+    },
+    {
+        "MedListID": 1653,
+        "GenericName": "primidone",
+        "TradeName": "Mysoline"
+    },
+    {
+        "MedListID": 1654,
+        "GenericName": "clevidipine",
+        "TradeName": "Cleviprex"
+    },
+    {
+        "MedListID": 1655,
+        "GenericName": "Meloxicam",
+        "TradeName": "Mobic"
+    },
+    {
+        "MedListID": 1656,
+        "GenericName": "Tizanidine",
+        "TradeName": "Zanaflex"
+    },
+    {
+        "MedListID": 1657,
+        "GenericName": "Sitagliptin",
+        "TradeName": "Januvia"
+    },
+    {
+        "MedListID": 1658,
+        "GenericName": "Guar gum",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1659,
+        "GenericName": "Mineral Oil",
+        "TradeName": "Kondremul"
+    },
+    {
+        "MedListID": 1660,
+        "GenericName": "Lactated Ringer's",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1661,
+        "GenericName": "Lisinopril/HCTZ",
+        "TradeName": "Prinzide/Zestoretic"
+    },
+    {
+        "MedListID": 1662,
+        "GenericName": "Linagliptin",
+        "TradeName": "Tradjenta and Trajenta"
+    },
+    {
+        "MedListID": 1663,
+        "GenericName": "Vitamin D",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1664,
+        "GenericName": "Budesonide/Formoterol 160/4.5",
+        "TradeName": "Symbicort 160/4.5 "
+    },
+    {
+        "MedListID": 1665,
+        "GenericName": "Ciprofloxacin-dexamethasone optic",
+        "TradeName": "Ciprodex"
+    },
+    {
+        "MedListID": 1666,
+        "GenericName": "HumaLog",
+        "TradeName": "insulin lispro"
+    },
+    {
+        "MedListID": 1667,
+        "GenericName": "Dextrose 10% in water",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1668,
+        "GenericName": "Methocarbamol",
+        "TradeName": "Robaxin"
+    },
+    {
+        "MedListID": 1669,
+        "GenericName": "Budesonide-formoterol 80mcg-4.5 mcg",
+        "TradeName": "Symbicort 80/4.5"
+    },
+    {
+        "MedListID": 1670,
+        "GenericName": "lisdexamfetamine dimesylate",
+        "TradeName": "Vyvanse"
+    },
+    {
+        "MedListID": 1671,
+        "GenericName": "Butalbital/Acetaminophen/Caffeine ",
+        "TradeName": "Fioricet"
+    },
+    {
+        "MedListID": 1672,
+        "GenericName": "Cetirizine",
+        "TradeName": "Zyrtec "
+    },
+    {
+        "MedListID": 1673,
+        "GenericName": " balanced salt irving combo2",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1674,
+        "GenericName": "chlorhexidine",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1675,
+        "GenericName": "Glucosamine & Chondroitin",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1676,
+        "GenericName": "alteplase",
+        "TradeName": "Cathflo"
+    },
+    {
+        "MedListID": 1677,
+        "GenericName": "colesevelam hydrochloride",
+        "TradeName": "Welchol "
+    },
+    {
+        "MedListID": 1678,
+        "GenericName": "Dextrose 5% in 0.45% NaCl ",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1679,
+        "GenericName": "Celecoxib",
+        "TradeName": "Celebrex"
+    },
+    {
+        "MedListID": 1680,
+        "GenericName": "desogestrel/ethinyl estradiol",
+        "TradeName": "Reclipsen"
+    },
+    {
+        "MedListID": 1681,
+        "GenericName": "Iohexol",
+        "TradeName": "Omnipaque"
+    },
+    {
+        "MedListID": 1682,
+        "GenericName": "Armor thyroid 90 mg",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1683,
+        "GenericName": "Acid blocker",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1684,
+        "GenericName": "Plasmalyte A",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1685,
+        "GenericName": "Omega 3 Polyunsaturated fatty acids",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1686,
+        "GenericName": "Letrozole",
+        "TradeName": "Femara"
+    },
+    {
+        "MedListID": 1687,
+        "GenericName": "Prasurgrel",
+        "TradeName": "Effient"
+    },
+    {
+        "MedListID": 1688,
+        "GenericName": "Trazadone",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1689,
+        "GenericName": "Buprenorphine",
+        "TradeName": "Subutex"
+    },
+    {
+        "MedListID": 1690,
+        "GenericName": "Enalapril",
+        "TradeName": "Vasotec"
+    },
+    {
+        "MedListID": 1691,
+        "GenericName": "Meningococcal conjugate vaccine ",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1692,
+        "GenericName": "Loratadine",
+        "TradeName": "Claritin"
+    },
+    {
+        "MedListID": 1693,
+        "GenericName": "Azilsartan medoxomil",
+        "TradeName": "Edarbi"
+    },
+    {
+        "MedListID": 1694,
+        "GenericName": "mometasone nasal",
+        "TradeName": "Nasonex"
+    },
+    {
+        "MedListID": 1695,
+        "GenericName": "Progesterone",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1696,
+        "GenericName": "Isolyte",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1697,
+        "GenericName": "Ectodolac",
+        "TradeName": "Lodine"
+    },
+    {
+        "MedListID": 1698,
+        "GenericName": "Melatonin",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1699,
+        "GenericName": "Vitamin B2",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1700,
+        "GenericName": "levonorgestrel",
+        "TradeName": "Mirena"
+    },
+    {
+        "MedListID": 1701,
+        "GenericName": "drospirenone and ethinyl estradiol ",
+        "TradeName": "Yasmin Birth Control"
+    },
+    {
+        "MedListID": 1702,
+        "GenericName": "Dabigatran",
+        "TradeName": "Pradaxa"
+    },
+    {
+        "MedListID": 1703,
+        "GenericName": "dextrose 5% and 0.9% Normal Saline",
+        "TradeName": "D5NS"
+    },
+    {
+        "MedListID": 1704,
+        "GenericName": "Prothrombin Complex Concentrate ",
+        "TradeName": "Kcentra or Beriplex"
+    },
+    {
+        "MedListID": 1705,
+        "GenericName": "ophthalmic ointment",
+        "TradeName": "Lacri-Lube SOP Ointment 3.5 gm"
+    },
+    {
+        "MedListID": 1706,
+        "GenericName": "Cholecalciferol",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1707,
+        "GenericName": "remifentanil",
+        "TradeName": "Ultiva"
+    },
+    {
+        "MedListID": 1708,
+        "GenericName": "Desonide",
+        "TradeName": "Desonate"
+    },
+    {
+        "MedListID": 1709,
+        "GenericName": "Ticagrelor",
+        "TradeName": "Brilinta"
+    },
+    {
+        "MedListID": 1710,
+        "GenericName": "fosfomycin",
+        "TradeName": "Monurol"
+    },
+    {
+        "MedListID": 1711,
+        "GenericName": "Amlodipine & Benazepril",
+        "TradeName": "Lotrel"
+    },
+    {
+        "MedListID": 1712,
+        "GenericName": "Polyethylene glycol",
+        "TradeName": "Miralax"
+    },
+    {
+        "MedListID": 1713,
+        "GenericName": "Dextrose 5% with 0.9% sodium chloride solution and 20 meq of KCl",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1714,
+        "GenericName": "Ranolazine",
+        "TradeName": "RANEXA"
+    },
+    {
+        "MedListID": 1715,
+        "GenericName": "aprepitant",
+        "TradeName": "Emend"
+    },
+    {
+        "MedListID": 1716,
+        "GenericName": "brinzolamide/brimonidine tartrate",
+        "TradeName": "Simbrinza"
+    },
+    {
+        "MedListID": 1717,
+        "GenericName": "Echinacea",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1718,
+        "GenericName": "elvitegravir, cobicistat, emtricitabine, tenofovir disoproxil fumarate",
+        "TradeName": "STRIBILD"
+    },
+    {
+        "MedListID": 1719,
+        "GenericName": "Nebivolol",
+        "TradeName": "Bystolic"
+    },
+    {
+        "MedListID": 1720,
+        "GenericName": "Equal parts of diphenhydramine Elixir; Lidocaine viscous 2%; Maalox",
+        "TradeName": "Magic Swizzle"
+    },
+    {
+        "MedListID": 1721,
+        "GenericName": "indapamide",
+        "TradeName": "Lozol"
+    },
+    {
+        "MedListID": 1722,
+        "GenericName": "adalimumab",
+        "TradeName": "Humira Pen"
+    },
+    {
+        "MedListID": 1723,
+        "GenericName": "Pramipexole",
+        "TradeName": "Mirapex"
+    },
+    {
+        "MedListID": 1724,
+        "GenericName": "solifenacin",
+        "TradeName": "Vesicare"
+    },
+    {
+        "MedListID": 1725,
+        "GenericName": "racepinephrine",
+        "TradeName": "Asthmanefrin"
+    },
+    {
+        "MedListID": 1726,
+        "GenericName": "Infliximab",
+        "TradeName": "Remicade"
+    },
+    {
+        "MedListID": 1727,
+        "GenericName": "Phentermine",
+        "TradeName": "Adipex-P"
+    },
+    {
+        "MedListID": 1728,
+        "GenericName": "Modafinil",
+        "TradeName": "Provigil"
+    },
+    {
+        "MedListID": 1729,
+        "GenericName": "silodosin",
+        "TradeName": "Rapaflo"
+    },
+    {
+        "MedListID": 1730,
+        "GenericName": "Sodium Chloride 23.4% injection",
+        "TradeName": "Sodium Chloride 23.4%"
+    },
+    {
+        "MedListID": 1731,
+        "GenericName": "Sodium and potassium phosphate",
+        "TradeName": "Neutra-Phos powder"
+    },
+    {
+        "MedListID": 1732,
+        "GenericName": "1/2 NS (0.45% NaCl) ",
+        "TradeName": "1/2 NS (0.45% NaCl) "
+    },
+    {
+        "MedListID": 1733,
+        "GenericName": "Trandolaprin",
+        "TradeName": "Mavik"
+    },
+    {
+        "MedListID": 1734,
+        "GenericName": "Dihydroergotamine",
+        "TradeName": "Dihydroergotamine"
+    },
+    {
+        "MedListID": 1735,
+        "GenericName": "carboxymethylcellulose",
+        "TradeName": "Duratears"
+    },
+    {
+        "MedListID": 1736,
+        "GenericName": "Plasma-Lyte-A",
+        "TradeName": "Normosol-R"
+    },
+    {
+        "MedListID": 1737,
+        "GenericName": "Sodium Choride 3%",
+        "TradeName": "Sodium Choride 3%"
+    },
+    {
+        "MedListID": 1738,
+        "GenericName": "K-phos neutral",
+        "TradeName": "K-phos neutral"
+    },
+    {
+        "MedListID": 1739,
+        "GenericName": "SMOG Enema",
+        "TradeName": "SMOG Enema"
+    },
+    {
+        "MedListID": 1740,
+        "GenericName": "nicotine inhaler",
+        "TradeName": "nicotine inhaler"
+    },
+    {
+        "MedListID": 1741,
+        "GenericName": "flurisolide",
+        "TradeName": "AEROSPAN"
+    },
+    {
+        "MedListID": 1742,
+        "GenericName": "diclofenac",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1743,
+        "GenericName": "Midodrine",
+        "TradeName": "ProAmatine"
+    },
+    {
+        "MedListID": 1744,
+        "GenericName": "Ortho-Tri-Cylcen",
+        "TradeName": "Ortho-Tri-Cylcen"
+    },
+    {
+        "MedListID": 1745,
+        "GenericName": "Diltiazem",
+        "TradeName": "Cardizem"
+    },
+    {
+        "MedListID": 1746,
+        "GenericName": "SEA SOFT 0.65% NASAL MIST",
+        "TradeName": "SEA SOFT 0.65% NASAL MIST"
+    },
+    {
+        "MedListID": 1747,
+        "GenericName": "Gadopentetate dimeglumine",
+        "TradeName": "Magnevist"
+    },
+    {
+        "MedListID": 1748,
+        "GenericName": "fluticasone propionate",
+        "TradeName": "Flovent"
+    },
+    {
+        "MedListID": 1749,
+        "GenericName": "tranexamic acid (TXA)",
+        "TradeName": "tranexamic acid (TXA)"
+    },
+    {
+        "MedListID": 1750,
+        "GenericName": "tranexamic acid / placebo",
+        "TradeName": "tranexamic acid / placebo"
+    },
+    {
+        "MedListID": 1751,
+        "GenericName": "LET Gel",
+        "TradeName": "LET Gel"
+    },
+    {
+        "MedListID": 1752,
+        "GenericName": "Insulin detemir",
+        "TradeName": "Levimir"
+    },
+    {
+        "MedListID": 1753,
+        "GenericName": "Acetaminophen / Hydrocodone",
+        "TradeName": "Norco"
+    },
+    {
+        "MedListID": 1754,
+        "GenericName": "Ropivacaine",
+        "TradeName": "Naropin"
+    },
+    {
+        "MedListID": 1755,
+        "GenericName": "HIB Vaccine/ Haemopphilus b conjugate PRP-T0/ActHIB",
+        "TradeName": "HIB Vaccine"
+    },
+    {
+        "MedListID": 1756,
+        "GenericName": "Q-10 Enzyme",
+        "TradeName": "Ubiquinone"
+    },
+    {
+        "MedListID": 1757,
+        "GenericName": "rabeprazole",
+        "TradeName": "Aciphex"
+    },
+    {
+        "MedListID": 1758,
+        "GenericName": "Jubilee",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1759,
+        "GenericName": "sodium chloride 0.9 % 500 mL with potassium chloride 40 mEq, magnesium sulfate 8 g IVPB",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1760,
+        "GenericName": "lidocaine-epinephrine injection 1%-1;100,000",
+        "TradeName": "XYLOCAINE"
+    },
+    {
+        "MedListID": 1761,
+        "GenericName": "diphtheria, pertussis, & tetanus (adult) injection 0.5 mL",
+        "TradeName": "Boostrix"
+    },
+    {
+        "MedListID": 1762,
+        "GenericName": "sodium phosphate",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1763,
+        "GenericName": "Lidocaine -Epinephrine 2% -1;100,000",
+        "TradeName": "Lidocaine -Epinephrine 2% -1;100,000"
+    },
+    {
+        "MedListID": 1764,
+        "GenericName": "albuterol-ipratropium bromide",
+        "TradeName": "Duoneb"
+    },
+    {
+        "MedListID": 1765,
+        "GenericName": "Flecainide",
+        "TradeName": "Tambocor"
+    },
+    {
+        "MedListID": 1766,
+        "GenericName": "Lisinopril-hydrochlorothiazide",
+        "TradeName": "Zestoretic"
+    },
+    {
+        "MedListID": 1767,
+        "GenericName": "Docusate-Senna",
+        "TradeName": "Senokot S"
+    },
+    {
+        "MedListID": 1768,
+        "GenericName": "apixaban",
+        "TradeName": "Eliquis"
+    },
+    {
+        "MedListID": 1769,
+        "GenericName": "empagliflozin",
+        "TradeName": "Jardiance"
+    },
+    {
+        "MedListID": 1770,
+        "GenericName": "Oxymorphone",
+        "TradeName": "Opana"
+    },
+    {
+        "MedListID": 1771,
+        "GenericName": "Ciprofloxacin 0.2% Otic solution",
+        "TradeName": "Cetraxal, Otiprio"
+    },
+    {
+        "MedListID": 1772,
+        "GenericName": "pseudoephedrine",
+        "TradeName": "Sudafed"
+    },
+    {
+        "MedListID": 1773,
+        "GenericName": "Loratadine",
+        "TradeName": "Alavert"
+    },
+    {
+        "MedListID": 1774,
+        "GenericName": "mineral oil/ docusate 1;1",
+        "TradeName": "Bubble Gum Enema"
+    },
+    {
+        "MedListID": 1775,
+        "GenericName": "Sodium Acetate",
+        "TradeName": "Sodium Acetate"
+    },
+    {
+        "MedListID": 1776,
+        "GenericName": "Methylphenidate",
+        "TradeName": "CONCERTA"
+    },
+    {
+        "MedListID": 1777,
+        "GenericName": "hydrocortisone acetate and pramoxine hydrochloride",
+        "TradeName": "Proctofoam HC"
+    },
+    {
+        "MedListID": 1778,
+        "GenericName": "Lacosamide",
+        "TradeName": "Vimpat"
+    },
+    {
+        "MedListID": 1779,
+        "GenericName": "Entricit /Rilpiv / Tenofor",
+        "TradeName": "Odefsey"
+    },
+    {
+        "MedListID": 1780,
+        "GenericName": "Rivaroxaban",
+        "TradeName": "Xarelto"
+    },
+    {
+        "MedListID": 1781,
+        "GenericName": "CoQ 10",
+        "TradeName": "CoQ 10"
+    },
+    {
+        "MedListID": 1782,
+        "GenericName": "Buprenophine-naloxone (8mg-2mg)",
+        "TradeName": "Buprenophine-naloxone (8mg-2mg)"
+    },
+    {
+        "MedListID": 1783,
+        "GenericName": "Dulaglutide",
+        "TradeName": "Trulicity"
+    },
+    {
+        "MedListID": 1784,
+        "GenericName": "dexmethylphenidate",
+        "TradeName": "FOCALIN XR"
+    },
+    {
+        "MedListID": 1785,
+        "GenericName": "folate-vitamin B6- vitamin B12",
+        "TradeName": "FOLBIC"
+    },
+    {
+        "MedListID": 1786,
+        "GenericName": "Amodiaquine",
+        "TradeName": "Amodium 2 tabs a day"
+    },
+    {
+        "MedListID": 1787,
+        "GenericName": "Gadobutrol",
+        "TradeName": "Gatavist"
+    },
+    {
+        "MedListID": 1788,
+        "GenericName": "Abacavir, Dolutegravir, and Lamivudine Film-coated Tablets",
+        "TradeName": "Triumeq"
+    },
+    {
+        "MedListID": 1789,
+        "GenericName": "Vilazodone HCl",
+        "TradeName": "Viibryd"
+    },
+    {
+        "MedListID": 1790,
+        "GenericName": "Mirabegron",
+        "TradeName": "Myrbetriq"
+    },
+    {
+        "MedListID": 1791,
+        "GenericName": "darunavir 800 mg/cobicistat 150 mg",
+        "TradeName": "Prezcobix"
+    },
+    {
+        "MedListID": 1792,
+        "GenericName": "Irbesartan",
+        "TradeName": "Avapro"
+    },
+    {
+        "MedListID": 1793,
+        "GenericName": "Hydrochlorothiazide-triamterene 25 mg-37.5 mg oral tab",
+        "TradeName": "Hydrochlorothiazide-triamterene 25 mg-37.5 mg oral tab"
+    },
+    {
+        "MedListID": 1794,
+        "GenericName": "Tromethamine",
+        "TradeName": "Tham 3.6%"
+    },
+    {
+        "MedListID": 1795,
+        "GenericName": "Birth control",
+        "TradeName": "Loestrin"
+    },
+    {
+        "MedListID": 1796,
+        "GenericName": "Magnesium Valproate",
+        "TradeName": "Macorate"
+    },
+    {
+        "MedListID": 1797,
+        "GenericName": "bisoprolol fumarate",
+        "TradeName": "Zebeta"
+    },
+    {
+        "MedListID": 1798,
+        "GenericName": "Atomoxetine",
+        "TradeName": "Strattera"
+    },
+    {
+        "MedListID": 1799,
+        "GenericName": "Sugammadex",
+        "TradeName": "Bridion"
+    },
+    {
+        "MedListID": 1800,
+        "GenericName": "canagliflozin)",
+        "TradeName": "Ivokana"
+    },
+    {
+        "MedListID": 1801,
+        "GenericName": "Albuterol Sulfate Inhaler",
+        "TradeName": "Proair"
+    },
+    {
+        "MedListID": 1802,
+        "GenericName": "Aclidinium bromide",
+        "TradeName": "Tudorza"
+    },
+    {
+        "MedListID": 1803,
+        "GenericName": "Etonogestrel implant",
+        "TradeName": "Nexplanon"
+    },
+    {
+        "MedListID": 1804,
+        "GenericName": " Codeine phosphate and acetaminophen",
+        "TradeName": "Tylenol #4"
+    },
+    {
+        "MedListID": 1805,
+        "GenericName": "Barium Sulfate",
+        "TradeName": "Vari-Bar"
+    },
+    {
+        "MedListID": 1806,
+        "GenericName": "fluticasone-vilanterol",
+        "TradeName": "BREO ELLIPTA"
+    },
+    {
+        "MedListID": 1807,
+        "GenericName": "piroxicam",
+        "TradeName": "Feldene"
+    },
+    {
+        "MedListID": 1808,
+        "GenericName": "chondroitin/glucosamine/methylsulfonylmethane",
+        "TradeName": "Glucosamine & Chondroitin with MSM"
+    },
+    {
+        "MedListID": 1809,
+        "GenericName": "candesartan",
+        "TradeName": "Atacand"
+    },
+    {
+        "MedListID": 1810,
+        "GenericName": "Dextrose 5% with 0.45% NaCl and KCl 10 mEq/L IV solution 1,000 ml",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1811,
+        "GenericName": "citrulline",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1812,
+        "GenericName": "telmisartan",
+        "TradeName": "Micardis"
+    },
+    {
+        "MedListID": 1813,
+        "GenericName": "risedronate",
+        "TradeName": "Actonel, Atelvia"
+    },
+    {
+        "MedListID": 1814,
+        "GenericName": "desvenlafaxine",
+        "TradeName": "Pristiq, Khedezla"
+    },
+    {
+        "MedListID": 1815,
+        "GenericName": "lidocaine/epinephrine 0.5% - 1;200,000",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1816,
+        "GenericName": "fentanyl citrate (PF)",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1817,
+        "GenericName": "dextroamphetamine",
+        "TradeName": "Dexedrine"
+    },
+    {
+        "MedListID": 1818,
+        "GenericName": "prosource no carb",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1819,
+        "GenericName": "medroxyprogesterone acetate",
+        "TradeName": "Depo-Provera"
+    },
+    {
+        "MedListID": 1820,
+        "GenericName": "brivaracetam",
+        "TradeName": "Briviact"
+    },
+    {
+        "MedListID": 1821,
+        "GenericName": "TNF Medication",
+        "TradeName": "TNF Medication"
+    },
+    {
+        "MedListID": 1822,
+        "GenericName": "adalimumab-atto",
+        "TradeName": "Amjevita"
+    },
+    {
+        "MedListID": 1823,
+        "GenericName": "certolizumab pegol ",
+        "TradeName": "Cimzia"
+    },
+    {
+        "MedListID": 1824,
+        "GenericName": "etanercept",
+        "TradeName": "Enbrel"
+    },
+    {
+        "MedListID": 1825,
+        "GenericName": "etanercept-szzs",
+        "TradeName": "Ereizi"
+    },
+    {
+        "MedListID": 1826,
+        "GenericName": "golimumab",
+        "TradeName": "Simponi, Simponi Aria"
+    },
+    {
+        "MedListID": 1827,
+        "GenericName": "infliximab-dyyb",
+        "TradeName": "Inflectra"
+    },
+    {
+        "MedListID": 1828,
+        "GenericName": "nature thyroid",
+        "TradeName": "Nature Throid"
+    },
+    {
+        "MedListID": 1829,
+        "GenericName": "Perflutren",
+        "TradeName": "Optison"
+    },
+    {
+        "MedListID": 1830,
+        "GenericName": "Sodium Chloride 2%",
+        "TradeName": "Sodium Chloride 2%"
+    },
+    {
+        "MedListID": 1831,
+        "GenericName": "fluorescein",
+        "TradeName": "FLUOR-I-STRIPS ophthalmic"
+    },
+    {
+        "MedListID": 1832,
+        "GenericName": "biotin",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1833,
+        "GenericName": "flutamide",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1834,
+        "GenericName": "buprenorphine and naloxone",
+        "TradeName": "Bunavail Buccal Film"
+    },
+    {
+        "MedListID": 1835,
+        "GenericName": "rizatriptan",
+        "TradeName": "Maxalt, Maxalt-Mlt"
+    },
+    {
+        "MedListID": 1836,
+        "GenericName": "methylnaltrexone",
+        "TradeName": "Relistor"
+    },
+    {
+        "MedListID": 1837,
+        "GenericName": "nefazodone",
+        "TradeName": "Serzone"
+    },
+    {
+        "MedListID": 1838,
+        "GenericName": "Paliperidone ",
+        "TradeName": "Invega"
+    },
+    {
+        "MedListID": 1839,
+        "GenericName": "Lurasidone",
+        "TradeName": "Latuda"
+    },
+    {
+        "MedListID": 1840,
+        "GenericName": "phenelzine",
+        "TradeName": "Nardil"
+    },
+    {
+        "MedListID": 1841,
+        "GenericName": "tranylcypromine",
+        "TradeName": "Parnate"
+    },
+    {
+        "MedListID": 1842,
+        "GenericName": "fluvoxamine CR ",
+        "TradeName": "Luvox CR"
+    },
+    {
+        "MedListID": 1843,
+        "GenericName": "paroxetine CR ",
+        "TradeName": "Paxil CR"
+    },
+    {
+        "MedListID": 1844,
+        "GenericName": "amoxapine",
+        "TradeName": "Asendin"
+    },
+    {
+        "MedListID": 1845,
+        "GenericName": "maprotiline",
+        "TradeName": "Ludiomil"
+    },
+    {
+        "MedListID": 1846,
+        "GenericName": "trimipramine",
+        "TradeName": "Surmontil"
+    },
+    {
+        "MedListID": 1847,
+        "GenericName": "protriptyline ",
+        "TradeName": "Vivactil"
+    },
+    {
+        "MedListID": 1848,
+        "GenericName": "Fluphenazine ",
+        "TradeName": "Prolixin"
+    },
+    {
+        "MedListID": 1849,
+        "GenericName": "thrombin hemostatic matrix",
+        "TradeName": "FLOSEAL"
+    },
+    {
+        "MedListID": 1850,
+        "GenericName": "thrombin (bovine)",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1851,
+        "GenericName": "oxidized cellulose",
+        "TradeName": "Surgicel Original"
+    },
+    {
+        "MedListID": 1852,
+        "GenericName": "iopamidol",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1853,
+        "GenericName": "gelatin absorbable",
+        "TradeName": "Gelfoam"
+    },
+    {
+        "MedListID": 1854,
+        "GenericName": "sulfamethoxazole/trimethoprim",
+        "TradeName": "Septra DS, Bactrim DS"
+    },
+    {
+        "MedListID": 1855,
+        "GenericName": "febuxastat",
+        "TradeName": "Uloric"
+    },
+    {
+        "MedListID": 1856,
+        "GenericName": "zolmitriptan",
+        "TradeName": "Zomig"
+    },
+    {
+        "MedListID": 1857,
+        "GenericName": "selenious acid",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1858,
+        "GenericName": "cetylpyridinium chloride",
+        "TradeName": "CORINZ"
+    },
+    {
+        "MedListID": 1859,
+        "GenericName": "Sodium Chloride",
+        "TradeName": "Sodium Chloride"
+    },
+    {
+        "MedListID": 1860,
+        "GenericName": "Erythromycin Ethylsucinate",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1861,
+        "GenericName": "Neutra-Phos",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1862,
+        "GenericName": "Lacrilube ointment",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1863,
+        "GenericName": "S-Adenosyl methionine",
+        "TradeName": "SAM-e"
+    },
+    {
+        "MedListID": 1864,
+        "GenericName": "cholecalciferol",
+        "TradeName": "Vitamin D3"
+    },
+    {
+        "MedListID": 1865,
+        "GenericName": "omega-3 fatty acids",
+        "TradeName": "Fish Oil"
+    },
+    {
+        "MedListID": 1866,
+        "GenericName": "insulin glargine",
+        "TradeName": "Toujeo\u00c2\u00ae"
+    },
+    {
+        "MedListID": 1867,
+        "GenericName": "bacitracin zinc",
+        "TradeName": "Bacitracin Zinc Ointment"
+    },
+    {
+        "MedListID": 1868,
+        "GenericName": null,
+        "TradeName": "Lubrifresh"
+    },
+    {
+        "MedListID": 1869,
+        "GenericName": null,
+        "TradeName": "Banatrol\u00c2\u00ae Plus"
+    },
+    {
+        "MedListID": 1870,
+        "GenericName": "doxycycline",
+        "TradeName": "Doryx"
+    },
+    {
+        "MedListID": 1871,
+        "GenericName": "albumin human 5%",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1872,
+        "GenericName": "1/2 NS with heparin",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1873,
+        "GenericName": "sodium chloride 0.9%",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1874,
+        "GenericName": "gadoterate meglumine",
+        "TradeName": "Dotarem\u00c2\u00ae"
+    },
+    {
+        "MedListID": 1875,
+        "GenericName": "bupivacaine 0.5% with epinephrine",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1876,
+        "GenericName": "protein hydrosylate",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1877,
+        "GenericName": "D5NS with KCl 20 mEq/L",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1878,
+        "GenericName": "levothyroxine sodium",
+        "TradeName": "Tirosint"
+    },
+    {
+        "MedListID": 1879,
+        "GenericName": "vortioxetine",
+        "TradeName": "Trintellix"
+    },
+    {
+        "MedListID": 1880,
+        "GenericName": "14.6% NaCl",
+        "TradeName": "14.6% NaCl"
+    },
+    {
+        "MedListID": 1882,
+        "GenericName": "beclomethasone dipropionate HFA",
+        "TradeName": "Qvar"
+    },
+    {
+        "MedListID": 1883,
+        "GenericName": "benzonatate",
+        "TradeName": "Tessalon Perles (benzonatate 100 mg CAP)"
+    },
+    {
+        "MedListID": 1884,
+        "GenericName": "Pazopanib",
+        "TradeName": "Votrient"
+    },
+    {
+        "MedListID": 1885,
+        "GenericName": "Exenatide",
+        "TradeName": "Bydureon"
+    },
+    {
+        "MedListID": 1886,
+        "GenericName": "Lubiprostone",
+        "TradeName": "Amitiza (24 mcg oral capsule)"
+    },
+    {
+        "MedListID": 1887,
+        "GenericName": "Lithium Chloride",
+        "TradeName": "Lithium Chloride"
+    },
+    {
+        "MedListID": 1888,
+        "GenericName": "norethindrone and ethinyl estradiol",
+        "TradeName": "Necon"
+    },
+    {
+        "MedListID": 1889,
+        "GenericName": "Dexlansoprazole",
+        "TradeName": "Dexilant, Kapidex"
+    },
+    {
+        "MedListID": 1890,
+        "GenericName": "Efinaconazole",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1891,
+        "GenericName": "Ferrous Fumarate",
+        "TradeName": "Iron Fumarate"
+    },
+    {
+        "MedListID": 1892,
+        "GenericName": "Bimatoprost opthalmic",
+        "TradeName": "Latisse, Lumigan"
+    },
+    {
+        "MedListID": 1893,
+        "GenericName": "nicotine",
+        "TradeName": "Nicotine 2mg-oral"
+    },
+    {
+        "MedListID": 1894,
+        "GenericName": "Sodium Hypochlorite",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1895,
+        "GenericName": "Menthol Lozenge",
+        "TradeName": null
+    },
+    {
+        "MedListID": 1896,
+        "GenericName": "Polymyxin B Sulf-Trimethoprim Ophthalmic",
+        "TradeName": "Polytrim"
+    },
+    {
+        "MedListID": 1897,
+        "GenericName": "Selenium",
+        "TradeName": "Selenium TR, Selepen, Sele-Pak"
+    },
+    {
+        "MedListID": 1898,
+        "GenericName": "Varenicline",
+        "TradeName": "Chantix"
+    },
+    {
+        "MedListID": 1899,
+        "GenericName": "Alfuzosin",
+        "TradeName": "Uroxatral"
+    },
+    {
+        "MedListID": 1900,
+        "GenericName": "Terbinafine",
+        "TradeName": "Lamisil"
+    },
+    {
+        "MedListID": 1901,
+        "GenericName": "hydrocortisone topical",
+        "TradeName": "Aquanil Hydrocortisone 1% Lotion"
+    },
+    {
+        "MedListID": 1902,
+        "GenericName": "Papaverine",
+        "TradeName": "Pavabid"
+    },
+    {
+        "MedListID": 1903,
+        "GenericName": "atracurium",
+        "TradeName": "Tracrium"
+    },
+    {
+        "MedListID": 1904,
+        "GenericName": "Birth Control Pill NFS",
+        "TradeName": "Birth Control Pill NFS"
+    },
+    {
+        "MedListID": 1905,
+        "GenericName": "Cranberry",
+        "TradeName": "AZO Cranberry; Pacran"
+    },
+    {
+        "MedListID": 1906,
+        "GenericName": "Hydrocortisone Topical",
+        "TradeName": "Hydrocortisone Topical, NFS"
+    }
+]

@@ -1,0 +1,39 @@
+#main-content {
+		width: 100% !important;
+		min-height:450px;
+	}
+	
+nav {
+	height: 34px !important;
+	webkit-box-shadow: none !important;
+	box-shadow: none !important;
+}	
+
+
+.breadNav-grid {
+	display: grid;
+	align-items: center;
+	height: 100vh;
+}
+
+.breadNav-small {
+	font-size: 10px;
+}
+
+.breadNav-drop-container {
+	&:hover .drop {
+		display: block;
+	}
+	
+	.breadNav-drop {
+		display: none;
+		position: absolute;
+		top: 20px;
+		left: 8px;
+		a {
+			display: block;
+			padding: 8px 16px;
+		}
+	}
+}
+	

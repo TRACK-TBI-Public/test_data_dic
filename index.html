@@ -1,0 +1,158 @@
+<!doctype html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Transforming Research and Clinical Knowledge in TBI | TRACK-TBI</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="canonical" href="/transforming-research-and-clinical-knowledge-tbi" />
+<link rel="shortlink" href="/node/231" />
+<link rel="shortcut icon" href="/sites/all/themes/ucsf_chi/favicon.ico" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0">
+<meta http-equiv="cleartype" content="on">
+
+<!--JQUERY-->
+        <link rel="stylesheet" href="./css/jquery-ui.min.css">
+		
+		<link rel="stylesheet" href="https://cdn.datatables.net/1.10.25/css/jquery.dataTables.min.css">
+		<link rel="stylesheet" href="https://cdn.datatables.net/buttons/1.7.1/css/buttons.dataTables.min.css">
+
+		<script type="text/javascript" language="javascript" src="./css/jquery-3.5.1.min.js"></script>		
+		<script src="https://code.jquery.com/ui/1.12.0/jquery-ui.min.js" integrity="sha256-eGE6blurk5sHj+rmkfsGYeKyZx3M4bG+ZlFyA7Kns7E="crossorigin="anonymous"></script>
+		<script src='https://cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js'></script>
+		<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/buttons/1.7.1/js/dataTables.buttons.min.js"></script>						
+		<script type="text/javascript" language="javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>		
+		<script type="text/javascript" language="javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>		
+		<script type="text/javascript" language="javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>		
+		<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/buttons/1.7.1/js/buttons.html5.min.js"></script>		
+		<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/buttons/1.7.1/js/buttons.print.min.js"></script>		
+		<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/buttons/1.6.5/js/buttons.flash.min.js"></script>		
+	
+<!-- MATERIAL -->
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <link rel="stylesheet" href="./dist/css/materialize.min.css">
+        <link rel="stylesheet" href="./css/material-components-web.min.css">
+<!-- CUSTOM -->	
+		<link rel="stylesheet" href="./css/main.css">
+		<!--link rel="stylesheet" href="./css/sorTable.css"-->
+		<script src="./js/main.js"></script>
+
+		<link rel="stylesheet" href="./css/leg.css">
+		<link rel="stylesheet" href="./css/track.css">
+</head>
+
+<body class="front one-sidebar sidebar-second node-type-page ucsf-base" id="hold" >
+<a href="#main-content" class="element-invisible element-focusable">Skip to main content </a>
+
+<div class="top-region-container clearfix">
+  <div class="top-header-region row">
+    
+		<nav  class="block block-menu " role="navigation">
+		  <ul class="menu">
+			<li class="uc-logo"></li>
+			<li class="tbi-title"><a href="https://tracktbi.ucsf.edu/">TRACK-TBI</a></li>
+			<li class="tbi-about"><a href="/TBI/about.html">About Data Dictionary</a></li>	
+		  </ul>
+		</nav>
+  
+  </div>
+</div>
+
+<input type="hidden" id="jstree"></input>
+<input type="hidden" id="medtree"></input>
+<input type="hidden" id="searchtree"></input>
+
+<div class="page-container">
+    <!--div class="page row clearfix"-->    
+		<div role="main" id="main-content" class="col s12">
+			<div class="breadNav-container topNav">
+					<ol class="breadNav-breadcrumb">
+						<li class="breadNav-drop-container lessBottom">							
+							<div class="title_div">
+								<span id="title">Data Dictionary</span>
+							</div>
+						</li>	
+						<li class="breadNav-drop-container lessBottom cohortsLabel">							
+								<span id="cohorts_span">
+									<label for="cohorts">Cohorts:</label>
+								<span>
+						</li>	
+						<li class="breadNav-drop-container lessBottom">
+								<span>
+									<select id="cohorts" onchange="loadCohort($(this));"></select>									
+								</span>
+						</li>		
+						<li class="breadNav-drop-container lessBottom">							
+								<span id="search_box">
+									<input id="searchInput" class="input-field" onfocus="this.value=''" size="33" placeholder="search for fields, e.g. 'Meds'.." autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+								</span>		
+						</li>
+					</ol>	
+			</div>	
+			
+			<div id="breadNav" class="breadNav-grid">
+				<div class="breadNav-container">
+					<ol class="breadNav-breadcrumb">
+						<li class="breadNav-drop-container">							
+							Core Assignment
+							<select onchange=selTree($(this),0); id="L0_select">
+								<option selected disabled value="-1">Select:</option>
+							[#Level0]
+							</select>						
+						</li>
+						<li class="breadNav-drop-container">								
+							Forms
+							<select onchange=selTree($(this),1); id="L1_select">
+								<option selected disabled value="-1">Select:</option>
+							[#Level1]
+							</select>
+						</li>
+						<li class="breadNav-drop-container">
+							Tables
+							<!--select onchange="message('Loading..',false); openShow($(this));" id="L2_select"-->
+							<select onchange="message('Loading..',false); makeLastTree();" id="L2_select">
+								<option selected disabledvalue="-1">Select:</option>
+							[#Level2]<
+							</select>						
+						</li>
+						<!--li id="search_box"><input onchange="autoSelectMenu('L0_select','Acute Hospital',1);" id="search" size="25" placeholder="Search for fields, e.g. 'Meds'.." type="text"></input></li-->
+						<li id="msg_container"><span id="message"></span></li>
+						
+					</ol>
+				</div>
+				
+			</div>
+	
+			<div id="json" class="material-table vcompact hcompact">
+				<img src="./css/spinner.gif" style="height:120px;">
+			</div>						
+        </div>
+  <!--/div-->
+</div>
+
+<div class="footer-container">
+	<footer role="contentinfo" class="row">
+        <div class="footer-top">   
+			<div  class="block block-ucsftemplate-tweaks footer-contact-us ">
+			<!--
+				<h2 class="title">Brain and Spinal Injury Center | UCSF</h2>
+				<div class="footer-contact">
+					<div class="footer-contact-address">1001 Potrero Avenue, Building 1, Room 101<br/>San Francisco, CA 94110</div>
+					<div class="footer-contact-phonefax"><b>Phone:</b> (415) 206-8300</br><b>Fax:</b> (415) 206-3948</div>
+				</div>
+			</div>
+		</div>
+		
+        <div class="footer">
+			<div  class="block block-ucsftemplate-tweaks footer-copyright ">
+				&copy; 2014 The Regents of the University of California
+			</div> 
+		</div>
+	</footer>
+	-->
+</div>
+
+<script src="./js/sorTable.js"></script>
+
+</body>
+</html>
+
+

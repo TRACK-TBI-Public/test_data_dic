@@ -1,0 +1,4917 @@
+{
+    "DNRWrittenTimeSinceInj (Time Since Injury (DNR))": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "DischargeStatus (Discharge Status)": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "DispHosp (Discharge to:)": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "DispHospOther (Discharge to Other)": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "HospDischTimeSinceInj (Time Since Injury (Hosp Discharge))": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "HospitalCompleteStatus (Form Completion Status)": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "SupportWithdrawnTimeSinceInj (Time Since Injury (Support Withdrawn))": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "WardAdmTimeSinceInj1": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "WardAdmTimeSinceInj2": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "WardAdmTimeSinceInj3": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "WardAdmTimeSinceInj4": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "WardAdmTimeSinceInj5": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "WardAdmTimeSinceInj6": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "WardCurrentUnit1": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "WardCurrentUnit2": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "WardCurrentUnit3": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "WardCurrentUnit4": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "WardCurrentUnit5": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "WardCurrentUnit6": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "WardDischTimeSinceInj1": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "WardDischTimeSinceInj2": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "WardDischTimeSinceInj3": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "WardDischTimeSinceInj4": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "WardDischTimeSinceInj5": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "WardDischTimeSinceInj6": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "WardHtAdm": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "WardHtLstRecNew": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "WardPrevUnit1": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "WardPrevUnit2": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "WardPrevUnit3": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "WardPrevUnit4": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "WardPrevUnit5": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "WardPrevUnit6": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "WardWgtMeasrMethdTypAdm": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "WardWgtMeasrMethdTypLstRec": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "WardWtAdm": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "WardWtLstRecNew": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Hospital"
+    },
+    "DeathCause (Principal Cause of Death)": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Subject"
+    },
+    "DeathCauseOther (Death Cause Other)": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Subject"
+    },
+    "DeathCauseReliability (Death Cause Reliability)": {
+        "Core Assignment": "Participant Events",
+        "FormName": "DeathFriendControl",
+        "TableName": "Subject"
+    },
+    "DeathTimeSinceInj (Time Since Injury (Death))": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Subject"
+    },
+    "PlaceOfDeath (Place Of Death Choose Ward, ICU or OR)": {
+        "Core Assignment": "Acute Hospital",
+        "FormName": "AdmisDischFriend",
+        "TableName": "Subject"
+    },
+    "AUDITCAlcDrnkTypclDayNumScore (2. How many standard drinks containing alcohol do you have on a typical day when you are drinking?)": {
+        "Core Assignment": "Assessments",
+        "FormName": "AUDITCBaselineFriend",
+        "TableName": "AssmtBaseline"
+    },
+    "AUDITCDrnkContainAlcFreqScore (1. How often do you have a drink containing alcohol?)": {
+        "Core Assignment": "Assessments",
+        "FormName": "AUDITCBaselineFriend",
+        "TableName": "AssmtBaseline"
+    },
+    "AUDITCFriendCompleteStatus (Form Completion Status)": {
+        "Core Assignment": "Assessments",
+        "FormName": "AUDITCBaselineFriend",
+        "TableName": "AssmtBaseline"
+    },
+    "AUDITCMoreThan6AlcDrnkFreqScore (3. How often do you have six or more drinks on one occasion?)": {
+        "Core Assignment": "Assessments",
+        "FormName": "AUDITCBaselineFriend",
+        "TableName": "AssmtBaseline"
+    },
+    "AUDITCTotalScore (AUDIT-C Total Score)": {
+        "Core Assignment": "Assessments",
+        "FormName": "AUDITCBaselineFriend",
+        "TableName": "AssmtBaseline"
+    },
+    "AUDITCurrUseTobacco (Do you currently use tobacco?)": {
+        "Core Assignment": "Assessments",
+        "FormName": "AUDITCBaselineFriend",
+        "TableName": "AssmtBaseline"
+    },
+    "AUDITTobaccoChewTobac (Chewing tobacco)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "AUDITTobaccoCigars (Cigars)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "AUDITTobaccoECig (E-cigarettes)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "AUDITTobaccoFiltCig (Filtered cigarettes)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "AUDITTobaccoLowTarCig (Low tar cigarettes)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "AUDITTobaccoNonFiltCig (Non-filtered cigarettes)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "AUDITTobaccoOther (Other)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "AUDITTobaccoOtherTxt (Other, please specify:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "AUDITTobaccoPipes (Pipes)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DrugCocaine (f. Cocaine or crack)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DrugHallucinogens (g. Hallucinogens)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DrugHeroin (i. Heroin)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DrugIlicitLst12Mo (During the last 12 months, did you use any illicit or non-prescription drugs? 'We are wanting to know about drugs like marijuana, crack or heroin; synthetic drugs like fake marijuana and bath salts, prescription drugs like pain killers or stimulants that were not prescribed to you, or chemicals you might have inhaled or 'huffed'. We also want to know if sometimes you took more than you should have of any drugs that have been prescribed to you.')": {
+        "Core Assignment": "Assessments",
+        "FormName": "AUDITCBaselineFriend",
+        "TableName": "AssmtBaseline"
+    },
+    "DrugInhalants (h. Inhalants or solvents)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DrugMarijuana (e. Marijuana, hash, THC, or grass)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DrugMarijuanaLst12Mo (Ask everyone regardless of the answer above: Did you use Marijuana? (If the answer is \u2018YES' then ask, \u2019Was Marijuana prescribed to you?'))": {
+        "Core Assignment": "Assessments",
+        "FormName": "AUDITCBaselineFriend",
+        "TableName": "AssmtBaseline"
+    },
+    "DrugOther (k. Any other substances or medicines you have used to get high)": {
+        "Core Assignment": "Assessments",
+        "FormName": "AUDITCBaselineFriend",
+        "TableName": "AssmtBaseline"
+    },
+    "DrugOtherSpecify (Specify Other Drug)": {
+        "Core Assignment": "Assessments",
+        "FormName": "AUDITCBaselineFriend",
+        "TableName": "AssmtBaseline"
+    },
+    "DrugPainkillers (c. Painkillers)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DrugSedatives (a. Sedatives)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DrugStimulants (d. Stimulants)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DrugSynthetic (j. Synthetic drugs like \u201cfake marijuana\u201d and \u201cbath salts\u201d \u00a0 \u00a0 \u00a0 (street names keep changing but \u201cfake marijuana\u201d and \u201cbath salts\u201d have persisted in the vernacular))": {
+        "Core Assignment": "Assessments",
+        "FormName": "AUDITCBaselineFriend",
+        "TableName": "AssmtBaseline"
+    },
+    "DrugTranquilizers (b. Tranquilizers or anti-anxiety drugs)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DrugTrouble (Have you ever been in trouble at school, work, or with relationships because of drug use?)": {
+        "Core Assignment": "Assessments",
+        "FormName": "AUDITCBaselineFriend",
+        "TableName": "AssmtBaseline"
+    },
+    "Intvw12MoPriorUseTobacco (Have you used tobacco in the past 12 months?)": {
+        "Core Assignment": "Assessments",
+        "FormName": "AUDITCBaselineFriend",
+        "TableName": "AssmtBaseline"
+    },
+    "Intvw12MoPriorUseTobaccoChewTobac (Chewing tobacco)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw12MoPriorUseTobaccoCigars (Cigars)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw12MoPriorUseTobaccoECig (E-cigarettes)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw12MoPriorUseTobaccoFiltCig (Filtered cigarettes)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw12MoPriorUseTobaccoLowTarCig (Low tar cigarettes)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw12MoPriorUseTobaccoNonFiltCig (Non-filtered cigarettes)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw12MoPriorUseTobaccoPipes (Pipes)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw12MoPriorUseTobaccoTobaccoOther (Other)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw12MoPriorUseTobaccoTobaccoOtherTxt (Other, please specify:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BSI18AnxScoreRaw": {
+        "Core Assignment": "Assessments",
+        "FormName": "BSI186MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BSI18AnxScoreT": {
+        "Core Assignment": "Assessments",
+        "FormName": "BSI186MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BSI18ChestPain": {
+        "Core Assignment": "Assessments",
+        "FormName": "BSI186MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BSI18CompletionCode (Test Completion Code)": {
+        "Core Assignment": "Assessments",
+        "FormName": "BSI186MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BSI18CompletionCodeOther (Completion Code Other)": {
+        "Core Assignment": "Assessments",
+        "FormName": "BSI186MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BSI18ConfoundingIssues (Confounding Issues)": {
+        "Core Assignment": "Assessments",
+        "FormName": "BSI186MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BSI18DeprScoreRaw": {
+        "Core Assignment": "Assessments",
+        "FormName": "BSI186MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BSI18DeprScoreT": {
+        "Core Assignment": "Assessments",
+        "FormName": "BSI186MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BSI18Faintness": {
+        "Core Assignment": "Assessments",
+        "FormName": "BSI186MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BSI18FeelingBlue": {
+        "Core Assignment": "Assessments",
+        "FormName": "BSI186MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BSI18FeelingFearful": {
+        "Core Assignment": "Assessments",
+        "FormName": "BSI186MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BSI18FeelingHopeless": {
+        "Core Assignment": "Assessments",
+        "FormName": "BSI186MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BSI18FeelingLonely": {
+        "Core Assignment": "Assessments",
+        "FormName": "BSI186MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BSI18FeelingRestless": {
+        "Core Assignment": "Assessments",
+        "FormName": "BSI186MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BSI18FeelingTense": {
+        "Core Assignment": "Assessments",
+        "FormName": "BSI186MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BSI18FeelingWeak": {
+        "Core Assignment": "Assessments",
+        "FormName": "BSI186MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BSI18FeelingWorthless": {
+        "Core Assignment": "Assessments",
+        "FormName": "BSI186MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BSI18FriendCompleteStatus (Form Completion Status)": {
+        "Core Assignment": "Assessments",
+        "FormName": "BSI186MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BSI18GSIScoreRaw": {
+        "Core Assignment": "Assessments",
+        "FormName": "BSI186MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BSI18GSIScoreT": {
+        "Core Assignment": "Assessments",
+        "FormName": "BSI186MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BSI18Nausea": {
+        "Core Assignment": "Assessments",
+        "FormName": "BSI186MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BSI18NoInterest": {
+        "Core Assignment": "Assessments",
+        "FormName": "BSI186MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BSI18Numbness": {
+        "Core Assignment": "Assessments",
+        "FormName": "BSI186MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BSI18Scared": {
+        "Core Assignment": "Assessments",
+        "FormName": "BSI186MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BSI18SomScoreRaw": {
+        "Core Assignment": "Assessments",
+        "FormName": "BSI186MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BSI18SomScoreT": {
+        "Core Assignment": "Assessments",
+        "FormName": "BSI186MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BSI18TerrorOrPanic": {
+        "Core Assignment": "Assessments",
+        "FormName": "BSI186MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BSI18TestSpanish": {
+        "Core Assignment": "Assessments",
+        "FormName": "BSI186MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BSI18ThoughtsEndingLife": {
+        "Core Assignment": "Assessments",
+        "FormName": "BSI186MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BSI18TimeSpent (Time Spent)": {
+        "Core Assignment": "Assessments",
+        "FormName": "BSI186MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BSI18TroubleGettingBreath": {
+        "Core Assignment": "Assessments",
+        "FormName": "BSI186MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BSINervous": {
+        "Core Assignment": "Assessments",
+        "FormName": "BSI186MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BTACT30SecondsAndCountingLastNumReached": {
+        "Core Assignment": "Assessments",
+        "FormName": "BTACT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BTACT30SecondsAndCountingTotalNumDigitsProduced": {
+        "Core Assignment": "Assessments",
+        "FormName": "BTACT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BTACT30SecondsAndCountingTotalNumErrors": {
+        "Core Assignment": "Assessments",
+        "FormName": "BTACT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BTACTBackCountCompletionCode (30 Sec Counting Completion Code)": {
+        "Core Assignment": "Assessments",
+        "FormName": "BTACT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BTACTBackCountCompletionCodeOther (Completion Code Other)": {
+        "Core Assignment": "Assessments",
+        "FormName": "BTACT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BTACTCatFluencyCompletionCode (Category Fluency Completion Code)": {
+        "Core Assignment": "Assessments",
+        "FormName": "BTACT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BTACTCatFluencyCompletionCodeOther (Completion Code Other)": {
+        "Core Assignment": "Assessments",
+        "FormName": "BTACT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BTACTCategoryFluencyTotalIntrusions": {
+        "Core Assignment": "Assessments",
+        "FormName": "BTACT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BTACTCategoryFluencyTotalNumUnique": {
+        "Core Assignment": "Assessments",
+        "FormName": "BTACT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BTACTCategoryFluencyTotalRepetitions": {
+        "Core Assignment": "Assessments",
+        "FormName": "BTACT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BTACTCompleteStatus (Form Completion Status)": {
+        "Core Assignment": "Assessments",
+        "FormName": "BTACT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BTACTCompletionCode (Test Completion Code)": {
+        "Core Assignment": "Assessments",
+        "FormName": "BTACT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BTACTCompletionCodeOther (Completion Code Other)": {
+        "Core Assignment": "Assessments",
+        "FormName": "BTACT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BTACTConfoundingIssues (Confounding Issues)": {
+        "Core Assignment": "Assessments",
+        "FormName": "BTACT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BTACTDigBackCompletionCode (Digits Backward Completion Code)": {
+        "Core Assignment": "Assessments",
+        "FormName": "BTACT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BTACTDigBackCompletionCodeOther (Completion Code Other)": {
+        "Core Assignment": "Assessments",
+        "FormName": "BTACT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BTACTDigitsBackward": {
+        "Core Assignment": "Assessments",
+        "FormName": "BTACT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BTACTNumSeriesCompletionCode (Number Series Completion Code)": {
+        "Core Assignment": "Assessments",
+        "FormName": "BTACT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BTACTNumSeriesCompletionCodeOther (Completion Code Other)": {
+        "Core Assignment": "Assessments",
+        "FormName": "BTACT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BTACTNumberSeries": {
+        "Core Assignment": "Assessments",
+        "FormName": "BTACT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BTACTStopAndGoTaskAccuracyExperimentalScore": {
+        "Core Assignment": "Assessments",
+        "FormName": "BTACT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BTACTStopAndGoTaskAccuracyNormalBaseline": {
+        "Core Assignment": "Assessments",
+        "FormName": "BTACT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BTACTStopAndGoTaskAccuracyReverseBaseline": {
+        "Core Assignment": "Assessments",
+        "FormName": "BTACT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BTACTStopGoNormCompletionCode (Stop Go Normal Completion Code)": {
+        "Core Assignment": "Assessments",
+        "FormName": "BTACT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BTACTStopGoNormCompletionCodeOther (Completion Code Other)": {
+        "Core Assignment": "Assessments",
+        "FormName": "BTACT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BTACTStopGoReExpCompletionCode (Stop Go Experimental Compl Code)": {
+        "Core Assignment": "Assessments",
+        "FormName": "BTACT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BTACTStopGoReExpCompletionCodeOther (Completion Code Other)": {
+        "Core Assignment": "Assessments",
+        "FormName": "BTACT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BTACTStopGoRevCompletionCode (Stop Go Reverse Completion Code)": {
+        "Core Assignment": "Assessments",
+        "FormName": "BTACT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BTACTStopGoRevCompletionCodeOther (Completion Code Other)": {
+        "Core Assignment": "Assessments",
+        "FormName": "BTACT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BTACTTimeSpent (Time Spent)": {
+        "Core Assignment": "Assessments",
+        "FormName": "BTACT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BTACTWordListCompletionCode (Word List Completion Code)": {
+        "Core Assignment": "Assessments",
+        "FormName": "BTACT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BTACTWordListCompletionCodeOther (Completion Code Other)": {
+        "Core Assignment": "Assessments",
+        "FormName": "BTACT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BTACTWordListTotal20MinuteDelayRecall": {
+        "Core Assignment": "Assessments",
+        "FormName": "BTACT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "BTACTWordListTotalUnique": {
+        "Core Assignment": "Assessments",
+        "FormName": "BTACT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSBehaviourAbortNum_Lifetime": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSBehaviourAbortNum_Recent": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSBehaviourAbortTxt (If yes, describe:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSBehaviourAbort_Lifetime": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSBehaviourAbort_Recent": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSBehaviourActualLethality_First": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSBehaviourActualLethality_MostLethal": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSBehaviourActualLethality_MostRecent": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSBehaviourActualNum_Lifetime": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSBehaviourActualNum_Recent": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSBehaviourActualTxt (If yes, describe:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSBehaviourActual_Lifetime (Lifetime)": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSBehaviourActual_Recent (Recent)": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSBehaviourInteruptNum_Lifetime": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSBehaviourInteruptNum_Recent": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSBehaviourInteruptTxt (If yes, describe:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSBehaviourInterupt_Lifetime": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSBehaviourInterupt_Recent": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSBehaviourPotLethality_First": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSBehaviourPotLethality_MostLethal": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSBehaviourPotLethality_MostRecent": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSBehaviourPrepTxt (If yes, describe:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSBehaviourPrep_Lifetime": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSBehaviourPrep_Recent": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSBehaviourPresentAssmt_Lifetime": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSBehaviourPresentAssmt_Recent": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSBehaviourSelfInjurious_Lifetime": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSBehaviourSelfInjurious_Recent": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSCompletionCode (Test Completion Code)": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSCompletionCodeOther (Completion Code Other)": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSConfoundingIssues (Confounding Issues)": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSFriendCompleteStatus (Form Completion Status)": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSIdeation1_Lifetime (Lifetime)": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSIdeation1_Recent (Recent)": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSIdeation1_Txt (If yes, describe:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSIdeation2_Lifetime": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSIdeation2_Recent": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSIdeation2_Txt (If yes, describe:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSIdeation3_Lifetime": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSIdeation3_Recent": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSIdeation3_Txt (If yes, describe:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSIdeation4_Lifetime": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSIdeation4_Recent": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSIdeation4_Txt (If yes, describe:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSIdeation5_Lifetime": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSIdeation5_Recent": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSIdeation5_Txt (If yes, describe:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSIntensityControllability_Lifetime": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSIntensityControllability_Recent": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSIntensityDeterrents_Lifetime": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSIntensityDeterrents_Recent": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSIntensityDuration_Lifetime": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSIntensityDuration_Recent": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSIntensityFreq_Lifetime": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSIntensityFreq_Recent": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSIntensityMostSevereTxt_Lifetime (Description)": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSIntensityMostSevereTxt_Recent (Description)": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSIntensityMostSevere_Lifetime (Lifetime)": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSIntensityMostSevere_Recent (Recent)": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSIntensityReasons_Lifetime": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSIntensityReasons_Recent": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "CSSRSTimeSpent (Time Spent)": {
+        "Core Assignment": "Assessments",
+        "FormName": "CSSRS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRS2_3Communication": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRS4_1Feeding": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRS4_2Feeding": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRS4_3Feeding": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRS5_1Toileting": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRS5_2Toileting": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRS5_3Toileting": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRS6_1Grooming": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRS6_2Grooming": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRS6_3Grooming": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRS6_4Grooming": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRS7_1LevelOfFunctioning": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRS7_2LevelOfFunctioning": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRS7_3LevelOfFunctioning": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRS7_4LevelOfFunctioning": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRS7_5LevelOfFunctioning": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRS7_6aLevelOfFunctioning": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRS7_6bLevelOfFunctioning": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRS7_6cLevelOfFunctioning": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRS8_1Employability": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRS8_2Employability": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRS8_3Employability": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRS8_4Employability": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRS8_5Employability": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRS8_6Employability": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRS8_7Employability": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRSFriendCompleteStatus (Form Completion Status)": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRSItem2Score": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRSItem4Score": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRSItem5Score": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRSItem6Score": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRSItem7Score": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRSItem8Score": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRSResponder": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRSSelfCompletionCode (Test Completion Code)": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRSSelfCompletionCodeOther (Completion Code Other)": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRSSelfConfoundingIssues (Confounding Issues)": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRSTimeSpent (Time Spent)": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRS_PIExpScoreEmpCat": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRS_PIExpScoreSub": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRS_PIExpandedScore": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DRS_PIScore": {
+        "Core Assignment": "Assessments",
+        "FormName": "DRSSelf6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOSEAssistanceNeededMod (2a. Is the assistance of another person at home essential every day for some activities of daily living?)": {
+        "Core Assignment": "Assessments",
+        "FormName": "GOSE6MoCONTROLFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOSECompletionCodeMod (Test Completion Code)": {
+        "Core Assignment": "Assessments",
+        "FormName": "GOSE6MoCONTROLFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOSECompletionCodeOtherMod (Completion Code Other)": {
+        "Core Assignment": "Assessments",
+        "FormName": "GOSE6MoCONTROLFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOSEConfoundingIssuesMod (Confounding Issues)": {
+        "Core Assignment": "Assessments",
+        "FormName": "GOSE6MoCONTROLFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOSEFamilyDisruptChange (7c. Were similar problems with family or friends present before you enrolled in this study?)": {
+        "Core Assignment": "Assessments",
+        "FormName": "GOSE6MoCONTROLFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOSEFamilyDisruptExtentMod (7b. What has been the extent of disruption or strain?)": {
+        "Core Assignment": "Assessments",
+        "FormName": "GOSE6MoCONTROLFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOSEFamilyDisruptMod (7a. Are there current psychological problems which have resulted in ongoing family disruption or disruption to friendships?)": {
+        "Core Assignment": "Assessments",
+        "FormName": "GOSE6MoCONTROLFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOSEFriendCompleteStatusModControl (Form Completion Status)": {
+        "Core Assignment": "Assessments",
+        "FormName": "GOSE6MoCONTROLFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOSEIndependentBefore (2c. Was assistance at home essential before you enrolled in this study?)": {
+        "Core Assignment": "Assessments",
+        "FormName": "GOSE6MoCONTROLFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOSENeedFreqHelpMod (2b. Do you need frequent help or someone to be around at home most of the time?)": {
+        "Core Assignment": "Assessments",
+        "FormName": "GOSE6MoCONTROLFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOSEOtherCurrentProbMod (8a. Are there any other current problems relating to your health which affect daily life?)": {
+        "Core Assignment": "Assessments",
+        "FormName": "GOSE6MoCONTROLFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOSEOtherCurrentProbWorse (8b. Were similar problems present before you enrolled in this study?)": {
+        "Core Assignment": "Assessments",
+        "FormName": "GOSE6MoCONTROLFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOSEPatSitGOSERatingReasonsMod (Describe the person's situation below and provide details about the reasons for the GOSE rating.)": {
+        "Core Assignment": "Assessments",
+        "FormName": "GOSE6MoCONTROLFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOSEPossibleScoreInvalid (Incomplete administration of measure; score may be invalid)": {
+        "Core Assignment": "Assessments",
+        "FormName": "GOSE6MoCONTROLFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOSEResumeSocialActivityMod (6b. Are you able to resume/continue regular social and leisure activities outside the home?)": {
+        "Core Assignment": "Assessments",
+        "FormName": "GOSE6MoCONTROLFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOSEScoreMod (GOSE-All Score:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "GOSE6MoCONTROLFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOSEShopAloneBefore (3b. Were you able to shop without assistance before you enrolled in this study?)": {
+        "Core Assignment": "Assessments",
+        "FormName": "GOSE6MoCONTROLFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOSEShopAloneMod (3a. Are you able to shop without assistance?)": {
+        "Core Assignment": "Assessments",
+        "FormName": "GOSE6MoCONTROLFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOSESocialActivityRestrictChange (6a. Did you engage in regular social and leisure activities outside home before you enrolled in this study?)": {
+        "Core Assignment": "Assessments",
+        "FormName": "GOSE6MoCONTROLFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOSESocialActivityRestrictMod (6c. What is the extent of restriction on your social and leisure activities?)": {
+        "Core Assignment": "Assessments",
+        "FormName": "GOSE6MoCONTROLFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOSETimeSpentMod (Time Spent)": {
+        "Core Assignment": "Assessments",
+        "FormName": "GOSE3MoCONTROLFriend",
+        "TableName": "Assmt3Mo"
+    },
+    "GOSETravelAloneBefore (4b. Were you able to travel without assistance before you enrolled in this study?)": {
+        "Core Assignment": "Assessments",
+        "FormName": "GOSE6MoCONTROLFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOSETravelAloneMod (4a. Are they able to travel locally without assistance?)": {
+        "Core Assignment": "Assessments",
+        "FormName": "GOSE6MoCONTROLFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOSEWorkMod (5b. Are you currently able to work to your previous capacity (i.e. capacity before you enrolled in the study)?)": {
+        "Core Assignment": "Assessments",
+        "FormName": "GOSE6MoCONTROLFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOSEWorkRestrictChange ((Note: for participants who are not in the workforce (e.g., homemakers, retired, permanently disabled) this question 5A should be marked as \u201cNo\u201d, and 5B should be marked as \u201cYes\u201d and question 5C should be blank.))": {
+        "Core Assignment": "Assessments",
+        "FormName": "GOSE6MoCONTROLFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOSEWorkRestrictionMod (5c. How restricted are you?)": {
+        "Core Assignment": "Assessments",
+        "FormName": "GOSE6MoCONTROLFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Cohort": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Subject"
+    },
+    "GOSEWorkRestrictChange ((Note: for participant\u2019s who are not in the work force (e.g., homemakers, retired, permanently disabled) this question 5A should be marked as \u201cNo\u201d, and 5B should be marked as \u201cYes\u201d and question 5C should be blank.))": {
+        "Core Assignment": "Assessments",
+        "FormName": "GOSE2WkCONTROLFriend",
+        "TableName": "Assmt2Wk"
+    },
+    "ISICompletionCode (Test Completion Code)": {
+        "Core Assignment": "Assessments",
+        "FormName": "ISI6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "ISICompletionCodeOther (Completion Code Other)": {
+        "Core Assignment": "Assessments",
+        "FormName": "ISI6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "ISIConfoundingIssues (Confounding Issues)": {
+        "Core Assignment": "Assessments",
+        "FormName": "ISI6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "ISIDiffFallSleep": {
+        "Core Assignment": "Assessments",
+        "FormName": "ISI6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "ISIDiffStaySleep": {
+        "Core Assignment": "Assessments",
+        "FormName": "ISI6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "ISIFriendCompleteStatus (Form Completion Status)": {
+        "Core Assignment": "Assessments",
+        "FormName": "ISI6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "ISIInterfereWithDailyFunctions": {
+        "Core Assignment": "Assessments",
+        "FormName": "ISI6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "ISINoticeableToOthers": {
+        "Core Assignment": "Assessments",
+        "FormName": "ISI6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "ISISatisfCurrSleepPattern": {
+        "Core Assignment": "Assessments",
+        "FormName": "ISI6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "ISITimeSpent (Time Spent)": {
+        "Core Assignment": "Assessments",
+        "FormName": "ISI6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "ISITotalScore": {
+        "Core Assignment": "Assessments",
+        "FormName": "ISI6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "ISIWakeTooEarly": {
+        "Core Assignment": "Assessments",
+        "FormName": "ISI6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "ISIWorriedAboutSleepProb": {
+        "Core Assignment": "Assessments",
+        "FormName": "ISI6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "AUDITCAlcDrnkTypclDayNumScore": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "AUDITCDrnkContainAlcFreqScore": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "AUDITCMoreThan6AlcDrnkFreqScore": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "AUDITCurrUseTobacco": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DrugIlicitLst12Mo": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DrugMarijuanaLst12Mo": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DrugOther (k. Any OTHER substances or medicines you have used to get high)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DrugOtherSpecify (Other, please specify)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DrugSynthetic (j. Synthetic drugs like \u201cfake marijuana\u201d and \u201cbath salts\u201d)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "DrugTrouble": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "InterviewTestSpanish": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw12MoPriorUseTobacco": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw12SchlLastWk": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw13NoSchl": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw13NoSchlOtherTxt (Other, please specify:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw1InfoObtain": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw21SupportPplClose": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw25Hearing": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw26SoundsEar": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw27Dizzy": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw28TasteSmell": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw29Language": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw29Speech": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw29Swallowing": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw29Voice": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw2Intvwee": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw2SigOther (Significant other:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw2SigOtherTxt (Reason significant other and why not done primarily with subject:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw3SesPrimAdult": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw3SesPrimAdultOtherTxt (Other, please specify:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw4SesPrimAdultChange": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw4SesPrimAdultChangeOtherTxt (Other, please specify:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw5EmplmtStatus": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw5EmplmtStatusOtherTxt (Other, please specify:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw6LastWk": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw7NoWork": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw8HrsWrked (Or choose one below:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw8HrsWrkedTxt": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw9ExpHrsWrked (Or choose one below:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "Intvw9ExpHrsWrkedTxt": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwCaregiverNeedHelpEverydayAct": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwCaregiverWhoMostOftenHelps": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwCompletionCode (Test Completion Code)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwCompletionCodeOther (Completion Code Other)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwConfoundingIssues (Confounding Issues)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwDistressFriendTBI": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwEplpsyBeenTold": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwEplpsyDiagPostTBI": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwEplpsyInfoSource": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwEplpsyMeds": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwEplpsyMedsWhenGiven (When?)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview12MoFriend",
+        "TableName": "Assmt12Mo"
+    },
+    "IntvwEplpsyPriorToTBI": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwEplpsySpacingOut": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwEplpsyUncontrolledMvment": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwEplpsyUnusualAttack": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwEplpsyWhoDiag": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwFriendCompleteStatus (Form Complete Status)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwHealthInsAnyOther": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview12MoFriend",
+        "TableName": "Assmt12Mo"
+    },
+    "IntvwHealthInsMedicaidGovtAssistd": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview12MoFriend",
+        "TableName": "Assmt12Mo"
+    },
+    "IntvwHealthInsMedicaidPending": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview12MoFriend",
+        "TableName": "Assmt12Mo"
+    },
+    "IntvwHealthInsMedicare": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview12MoFriend",
+        "TableName": "Assmt12Mo"
+    },
+    "IntvwHealthInsPurchDirectFromInsCo": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview12MoFriend",
+        "TableName": "Assmt12Mo"
+    },
+    "IntvwHealthInsQuestRefusedToAnsw (Refused)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview12MoFriend",
+        "TableName": "Assmt12Mo"
+    },
+    "IntvwHealthInsTRICARE": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview12MoFriend",
+        "TableName": "Assmt12Mo"
+    },
+    "IntvwHealthInsThroughCurrOrFormerEmpl": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview12MoFriend",
+        "TableName": "Assmt12Mo"
+    },
+    "IntvwHealthInsUninsured": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview12MoFriend",
+        "TableName": "Assmt12Mo"
+    },
+    "IntvwHospitalizedEmotPsychProb": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview12MoFriend",
+        "TableName": "Assmt12Mo"
+    },
+    "IntvwHrsWrked (Or:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwHrsWrkedTxt (Number of hours worked)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwIncomeHouseholdLastYear": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview12MoFriend",
+        "TableName": "Assmt12Mo"
+    },
+    "IntvwIncomeHouseholdNetWorth": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview12MoFriend",
+        "TableName": "Assmt12Mo"
+    },
+    "IntvwIncomeLastYear": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview12MoFriend",
+        "TableName": "Assmt12Mo"
+    },
+    "IntvwIncomeRealEstateValue": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview12MoFriend",
+        "TableName": "Assmt12Mo"
+    },
+    "IntvwIncomeResidence": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview12MoFriend",
+        "TableName": "Assmt12Mo"
+    },
+    "IntvwJobClassCat": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview12MoFriend",
+        "TableName": "Assmt12Mo"
+    },
+    "IntvwMartlPartnerStatus": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview12MoFriend",
+        "TableName": "Assmt12Mo"
+    },
+    "IntvwNoWorkOtherTxt (Other, please specify:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwNumPeopleSupervisedLastYear": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview12MoFriend",
+        "TableName": "Assmt12Mo"
+    },
+    "IntvwOutPatCounsel": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview12MoFriend",
+        "TableName": "Assmt12Mo"
+    },
+    "IntvwPeopleNumHousehold": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview12MoFriend",
+        "TableName": "Assmt12Mo"
+    },
+    "IntvwPeopleNumHouseholdUnknown (Unknown)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview12MoFriend",
+        "TableName": "Assmt12Mo"
+    },
+    "IntvwPrtWrkDayMissedHealth (Or:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwPrtWrkDayMissedHealthTxt (Number of days missed: (range 0 \u2013 28) (or choose one below))": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwPrtWrkDayMissedOther (Or:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwPrtWrkDayMissedOtherTxt (Number of days missed: (range 0 \u2013 28) (or choose one below))": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwRatePerformance (Or:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwRatePerformanceTxt ((range 0 -10))": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview12MoFriend",
+        "TableName": "Assmt12Mo"
+    },
+    "IntvwRateSelfPerformance (Or:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwRateSelfPerformanceTxt ((range 0-10))": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview12MoFriend",
+        "TableName": "Assmt12Mo"
+    },
+    "IntvwRcvdTreatmntForNewInj": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview12MoFriend",
+        "TableName": "Assmt12Mo"
+    },
+    "IntvwRcvdTreatmntForNewInjAdmitICUDays (**Indicate # of days (hosp + ICU):)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview12MoFriend",
+        "TableName": "Assmt12Mo"
+    },
+    "IntvwRcvdTreatmntForNewInjAdmitNoICUDays (*Indicate # of days:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview12MoFriend",
+        "TableName": "Assmt12Mo"
+    },
+    "IntvwSusOthInj": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwSusOthInjBrain": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwSusOthInjDifficult": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwSusOthInjDifficultExplain (Please specify:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwSusOtherInjBrainYESLOC (If yes:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview12MoFriend",
+        "TableName": "Assmt12Mo"
+    },
+    "IntvwSusOtherInjBrainYESLOCDurMinutes (Specify length in minutes:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview12MoFriend",
+        "TableName": "Assmt12Mo"
+    },
+    "IntvwSusPeriphInj": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview12MoFriend",
+        "TableName": "Assmt12Mo"
+    },
+    "IntvwSusPeriphInjTxt (Specify peripheral injuries:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview12MoFriend",
+        "TableName": "Assmt12Mo"
+    },
+    "IntvwTakePsychMeds": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview12MoFriend",
+        "TableName": "Assmt12Mo"
+    },
+    "IntvwTimeSpent (Time Spent)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwWorkLessReason": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwWorkLessReasonOther (Specify Other)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwWrkDayMissedHealth (Or:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwWrkDayMissedHealthTxt (Number of days missed: (range 0 \u2013 28) (or choose one below))": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwWrkDayMissedOther (Or:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwWrkDayMissedOtherTxt (Number of days missed: (range 0 \u2013 28) (or choose one below))": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwWrkLongDay (Or:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwWrkLongDayTxt (Number of days: (range 0 \u2013 28) (or choose one below))": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwSusOthInjExplain (Explain other injury)": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwRatePerformanceTxt (Range (0-10))": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "IntvwRateSelfPerformanceTxt": {
+        "Core Assignment": "Assessments",
+        "FormName": "Interview6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "M2PICompletionCode (Test Completion Code)": {
+        "Core Assignment": "Assessments",
+        "FormName": "M2PI6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "M2PICompletionCodeOther (Completion Code Other)": {
+        "Core Assignment": "Assessments",
+        "FormName": "M2PI6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "M2PIConfoundingIssues (Confounding Issues)": {
+        "Core Assignment": "Assessments",
+        "FormName": "M2PI6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "MPAI4FriendCompleteStatus (Form Completion Status)": {
+        "Core Assignment": "Assessments",
+        "FormName": "M2PI6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "MPAI4ILeisScale (3. Leisure and recreational activities)": {
+        "Core Assignment": "Assessments",
+        "FormName": "M2PI6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "MPAI4InitScale (1. Initiation: Problems getting started on activities without prompting)": {
+        "Core Assignment": "Assessments",
+        "FormName": "M2PI6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "MPAI4MngMnyScale (8. Managing money and finances: Shopping, keeping a check book or other bank account, managing personal income and investments)": {
+        "Core Assignment": "Assessments",
+        "FormName": "M2PI6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "MPAI4PaidEmplmtScale (7A. *Paid Employment: Rate either item 7A or 7B to reflect the primary desired social role. Do not rate both. Rate 7A if the primary social role is paid employment. If another social role is primary, rate only 7B. For both 7A and 7B, \u201csupport\u201d means special help from another person with responsibilities (such as, a job coach or shadow, tutor, helper) or reduced responsibilities. Modifications to the physical environment that facilitate employment are not considered as support.)": {
+        "Core Assignment": "Assessments",
+        "FormName": "M2PI6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "MPAI4PersonReporting (Person Reporting)": {
+        "Core Assignment": "Assessments",
+        "FormName": "M2PI6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "MPAI4PrimrySociRoleName (Check only one to indicate primary desired social role:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "M2PI6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "MPAI4PrimrySociRoleScale (7B. *Other employment: Involved in constructive, role-appropriate activity other than paid employment. Check only one to indicate primary desired social role: Childrearing/care-giving Homemaker, no childrearing or care-giving Student Volunteer Retired (Check retired only if over age 60; if unemployed, retired as disabled and under age 60, indicate \u201cUnemployed\u201d for item 7A.)": {
+        "Core Assignment": "Assessments",
+        "FormName": "M2PI6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "MPAI4PrtpSubscaleScore (Raw Score Coming soon)": {
+        "Core Assignment": "Assessments",
+        "FormName": "M2PI6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "MPAI4ResdnceScale (5. Residence: Responsibilities of independent living and homemaking (such as, meal preparation, home repairs and maintenance, personal health maintenance beyond basic hygiene including medical management) but not including managing money (see #8))": {
+        "Core Assignment": "Assessments",
+        "FormName": "M2PI6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "MPAI4SelfcareScale (4. Self-care: Eating, dressing, bathing, hygiene)": {
+        "Core Assignment": "Assessments",
+        "FormName": "M2PI6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "MPAI4SociContScale (2. Social contact with friends, work associates, and other people who are not family, significant others, or professionals)": {
+        "Core Assignment": "Assessments",
+        "FormName": "M2PI6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "MPAI4TimeSpent (Time Spent)": {
+        "Core Assignment": "Assessments",
+        "FormName": "M2PI6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "MPAI4TrsptScale (6. *Transportation)": {
+        "Core Assignment": "Assessments",
+        "FormName": "M2PI6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PCL5AngryOutburstInd": {
+        "Core Assignment": "Assessments",
+        "FormName": "PCL56MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PCL5AvoidHavingFeelingInd": {
+        "Core Assignment": "Assessments",
+        "FormName": "PCL56MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PCL5AvoidSituationInd": {
+        "Core Assignment": "Assessments",
+        "FormName": "PCL56MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PCL5Blame": {
+        "Core Assignment": "Assessments",
+        "FormName": "PCL56MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PCL5CompletionCode (Test Completion Code)": {
+        "Core Assignment": "Assessments",
+        "FormName": "PCL56MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PCL5CompletionCodeOther (Completion Code Other)": {
+        "Core Assignment": "Assessments",
+        "FormName": "PCL56MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PCL5ConfoundingIssues (Confounding Issues)": {
+        "Core Assignment": "Assessments",
+        "FormName": "PCL56MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PCL5DifficultyConcentratingInd": {
+        "Core Assignment": "Assessments",
+        "FormName": "PCL56MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PCL5DreamsInd": {
+        "Core Assignment": "Assessments",
+        "FormName": "PCL56MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PCL5EmotionallyNumbInd": {
+        "Core Assignment": "Assessments",
+        "FormName": "PCL56MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PCL5EventDeath": {
+        "Core Assignment": "Assessments",
+        "FormName": "PCL56MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PCL5EventHow": {
+        "Core Assignment": "Assessments",
+        "FormName": "PCL56MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PCL5EventHowOtherTxt (Please describe:)": {
+        "Core Assignment": "Assessments",
+        "FormName": "PCL56MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PCL5EventWhat": {
+        "Core Assignment": "Assessments",
+        "FormName": "PCL56MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PCL5EventWhen": {
+        "Core Assignment": "Assessments",
+        "FormName": "PCL56MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PCL5FallStayAsleepInd": {
+        "Core Assignment": "Assessments",
+        "FormName": "PCL56MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PCL5FeelDistantInd": {
+        "Core Assignment": "Assessments",
+        "FormName": "PCL56MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PCL5FriendCompleteStatus (Form Completion Status)": {
+        "Core Assignment": "Assessments",
+        "FormName": "PCL56MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PCL5HappenAgainInd": {
+        "Core Assignment": "Assessments",
+        "FormName": "PCL56MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PCL5JumpyInd": {
+        "Core Assignment": "Assessments",
+        "FormName": "PCL56MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PCL5LossInterestInd": {
+        "Core Assignment": "Assessments",
+        "FormName": "PCL56MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PCL5MemoriesInd": {
+        "Core Assignment": "Assessments",
+        "FormName": "PCL56MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PCL5NegBeliefsOfSelfOthersWorld": {
+        "Core Assignment": "Assessments",
+        "FormName": "PCL56MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PCL5NegFeelingsFearAngerGuiltShame": {
+        "Core Assignment": "Assessments",
+        "FormName": "PCL56MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PCL5PhysicalReactionsInd": {
+        "Core Assignment": "Assessments",
+        "FormName": "PCL56MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PCL5RememberImportantInd": {
+        "Core Assignment": "Assessments",
+        "FormName": "PCL56MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PCL5Risk": {
+        "Core Assignment": "Assessments",
+        "FormName": "PCL56MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PCL5SeriousEvent": {
+        "Core Assignment": "Assessments",
+        "FormName": "PCL56MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PCL5SeriousEventTxt": {
+        "Core Assignment": "Assessments",
+        "FormName": "PCL56MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PCL5SuperAlertInd": {
+        "Core Assignment": "Assessments",
+        "FormName": "PCL56MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PCL5TimeSpent (Time Spent)": {
+        "Core Assignment": "Assessments",
+        "FormName": "PCL56MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PCL5TotalScore": {
+        "Core Assignment": "Assessments",
+        "FormName": "PCL56MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PCL5VeryUpsetInd": {
+        "Core Assignment": "Assessments",
+        "FormName": "PCL56MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PCL5WorstEventTxt": {
+        "Core Assignment": "Assessments",
+        "FormName": "PCL56MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PHQ9AppteIssueScre": {
+        "Core Assignment": "Assessments",
+        "FormName": "PHQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PHQ9ConcntrtnProbScre": {
+        "Core Assignment": "Assessments",
+        "FormName": "PHQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PHQ9ConfoundingIssues (Confounding Issues)": {
+        "Core Assignment": "Assessments",
+        "FormName": "PHQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PHQ9DthHrtThghtScre": {
+        "Core Assignment": "Assessments",
+        "FormName": "PHQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PHQ9DwnDeprssnHopelssScre": {
+        "Core Assignment": "Assessments",
+        "FormName": "PHQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PHQ9FriendCompleteStatus (Form Completion Status)": {
+        "Core Assignment": "Assessments",
+        "FormName": "PHQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PHQ9IntrstPleasrActScre": {
+        "Core Assignment": "Assessments",
+        "FormName": "PHQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PHQ9LowSlfEstmScre": {
+        "Core Assignment": "Assessments",
+        "FormName": "PHQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PHQ9ProblemsEffectOnDailyAct": {
+        "Core Assignment": "Assessments",
+        "FormName": "PHQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PHQ9SleepProbScre": {
+        "Core Assignment": "Assessments",
+        "FormName": "PHQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PHQ9SpdMovmntSpchScre": {
+        "Core Assignment": "Assessments",
+        "FormName": "PHQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PHQ9TimeSpent (Time Spent)": {
+        "Core Assignment": "Assessments",
+        "FormName": "PHQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PHQ9TirdLckEnrgyScre": {
+        "Core Assignment": "Assessments",
+        "FormName": "PHQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PHQ9TotlScre": {
+        "Core Assignment": "Assessments",
+        "FormName": "PHQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PHQCompletionCode (Test Completion Code)": {
+        "Core Assignment": "Assessments",
+        "FormName": "PHQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PHQCompletionCodeOther (Completion Code Other)": {
+        "Core Assignment": "Assessments",
+        "FormName": "PHQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PROMISAvgPain": {
+        "Core Assignment": "Assessments",
+        "FormName": "PROMISPAIN6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PROMISDayToDayActivities": {
+        "Core Assignment": "Assessments",
+        "FormName": "PROMISPAIN6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PROMISFriendCompleteStatus (Form Completion Status)": {
+        "Core Assignment": "Assessments",
+        "FormName": "PROMISPAIN6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PROMISHouseholdChores": {
+        "Core Assignment": "Assessments",
+        "FormName": "PROMISPAIN6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PROMISPAINCompletionCode (Test Completion Code)": {
+        "Core Assignment": "Assessments",
+        "FormName": "PROMISPAIN6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PROMISPAINCompletionCodeOther (Completion Code Other)": {
+        "Core Assignment": "Assessments",
+        "FormName": "PROMISPAIN6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PROMISPAINConfoundingIssues (Confounding Issues)": {
+        "Core Assignment": "Assessments",
+        "FormName": "PROMISPAIN6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PROMISPainNow": {
+        "Core Assignment": "Assessments",
+        "FormName": "PROMISPAIN6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PROMISSocialActivities": {
+        "Core Assignment": "Assessments",
+        "FormName": "PROMISPAIN6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PROMISTimeSpent (Time Spent)": {
+        "Core Assignment": "Assessments",
+        "FormName": "PROMISPAIN6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PROMISWorkAroundHome": {
+        "Core Assignment": "Assessments",
+        "FormName": "PROMISPAIN6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "PROMISWorstPain": {
+        "Core Assignment": "Assessments",
+        "FormName": "PROMISPAIN6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "QoLIBRIOSBrainWorking": {
+        "Core Assignment": "Assessments",
+        "FormName": "QoLIBRIOS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "QoLIBRIOSCompletionCode (Test Completion Code)": {
+        "Core Assignment": "Assessments",
+        "FormName": "QoLIBRIOS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "QoLIBRIOSCompletionCodeOther (Completion Code Other)": {
+        "Core Assignment": "Assessments",
+        "FormName": "QoLIBRIOS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "QoLIBRIOSCurrSituationFutureProspects": {
+        "Core Assignment": "Assessments",
+        "FormName": "QoLIBRIOS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "QoLIBRIOSDayToDay": {
+        "Core Assignment": "Assessments",
+        "FormName": "QoLIBRIOS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "QoLIBRIOSFeelingsEmotions": {
+        "Core Assignment": "Assessments",
+        "FormName": "QoLIBRIOS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "QoLIBRIOSFriendCompleteStatus (Form Completion Status)": {
+        "Core Assignment": "Assessments",
+        "FormName": "QoLIBRIOS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "QoLIBRIOSPersonalSocialLife": {
+        "Core Assignment": "Assessments",
+        "FormName": "QoLIBRIOS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "QoLIBRIOSPhysCondition": {
+        "Core Assignment": "Assessments",
+        "FormName": "QoLIBRIOS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "QoLIBRIOSTotalScore": {
+        "Core Assignment": "Assessments",
+        "FormName": "QoLIBRIOS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "QoLIBRIOTimeSpent (Time Spent)": {
+        "Core Assignment": "Assessments",
+        "FormName": "QoLIBRIOS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "QoLIBROSConfoundingIssues (Confounding Issues)": {
+        "Core Assignment": "Assessments",
+        "FormName": "QoLIBRIOS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RPQ13Score": {
+        "Core Assignment": "Assessments",
+        "FormName": "RPQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RPQ3Score": {
+        "Core Assignment": "Assessments",
+        "FormName": "RPQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RPQBlurredVision": {
+        "Core Assignment": "Assessments",
+        "FormName": "RPQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RPQCompletionCode (Test Completion Code)": {
+        "Core Assignment": "Assessments",
+        "FormName": "RPQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RPQCompletionCodeOther (Completion Code Other)": {
+        "Core Assignment": "Assessments",
+        "FormName": "RPQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RPQConfoundingIssues (Confounding Issues)": {
+        "Core Assignment": "Assessments",
+        "FormName": "RPQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RPQDepressed": {
+        "Core Assignment": "Assessments",
+        "FormName": "RPQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RPQDizziness": {
+        "Core Assignment": "Assessments",
+        "FormName": "RPQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RPQDoubleVision": {
+        "Core Assignment": "Assessments",
+        "FormName": "RPQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RPQFatigue": {
+        "Core Assignment": "Assessments",
+        "FormName": "RPQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RPQForgetful": {
+        "Core Assignment": "Assessments",
+        "FormName": "RPQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RPQFriendCompleteStatus (Form Completion Status)": {
+        "Core Assignment": "Assessments",
+        "FormName": "RPQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RPQFrustrated": {
+        "Core Assignment": "Assessments",
+        "FormName": "RPQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RPQHeadaches": {
+        "Core Assignment": "Assessments",
+        "FormName": "RPQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RPQIrritable": {
+        "Core Assignment": "Assessments",
+        "FormName": "RPQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RPQLightSensitivity": {
+        "Core Assignment": "Assessments",
+        "FormName": "RPQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RPQLongerToThink": {
+        "Core Assignment": "Assessments",
+        "FormName": "RPQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RPQNausea": {
+        "Core Assignment": "Assessments",
+        "FormName": "RPQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RPQNoiseSensitivity": {
+        "Core Assignment": "Assessments",
+        "FormName": "RPQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RPQPoorConcentration": {
+        "Core Assignment": "Assessments",
+        "FormName": "RPQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RPQRestless": {
+        "Core Assignment": "Assessments",
+        "FormName": "RPQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RPQSleepDisturbance": {
+        "Core Assignment": "Assessments",
+        "FormName": "RPQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RPQTimeSpent (Time Spent)": {
+        "Core Assignment": "Assessments",
+        "FormName": "RPQ6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SF12V2CompletionCode (SF12 Completion Code)": {
+        "Core Assignment": "Assessments",
+        "FormName": "SF12v26MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SF12V2CompletionCodeOther (SF12 Completion Code Other)": {
+        "Core Assignment": "Assessments",
+        "FormName": "SF12v26MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SF12V2ConfoundingIssues (Confounding Issues)": {
+        "Core Assignment": "Assessments",
+        "FormName": "SF12v26MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SF12V2FriendCompleteStatus (SF12 Complete Status)": {
+        "Core Assignment": "Assessments",
+        "FormName": "SF12v26MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SF12V2GenHlthScore": {
+        "Core Assignment": "Assessments",
+        "FormName": "SF12v26MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SF12V2HlthLmtClmbSvrlStairScore": {
+        "Core Assignment": "Assessments",
+        "FormName": "SF12v26MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SF12V2HlthLmtModActScore": {
+        "Core Assignment": "Assessments",
+        "FormName": "SF12v26MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SF12V2InterfSocPhyEmotScore": {
+        "Core Assignment": "Assessments",
+        "FormName": "SF12v26MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SF12V2LesAccompEmotProbInd": {
+        "Core Assignment": "Assessments",
+        "FormName": "SF12v26MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SF12V2LesAccompPhyHlthInd": {
+        "Core Assignment": "Assessments",
+        "FormName": "SF12v26MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SF12V2LmtWrkActPhyHlthInd": {
+        "Core Assignment": "Assessments",
+        "FormName": "SF12v26MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SF12V2PainInterfWrkScore": {
+        "Core Assignment": "Assessments",
+        "FormName": "SF12v26MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SF12V2TestSpanish": {
+        "Core Assignment": "Assessments",
+        "FormName": "SF12v26MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SF12V2TimeSpent (Time Spent)": {
+        "Core Assignment": "Assessments",
+        "FormName": "SF12v26MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SF12V2TimesCalmPcfulScore": {
+        "Core Assignment": "Assessments",
+        "FormName": "SF12v26MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SF12V2TimesDownScore": {
+        "Core Assignment": "Assessments",
+        "FormName": "SF12v26MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SF12V2TimesPepScore": {
+        "Core Assignment": "Assessments",
+        "FormName": "SF12v26MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SF12V2WkNotCarefulEmotProbInd": {
+        "Core Assignment": "Assessments",
+        "FormName": "SF12v26MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SWLSChangeNothing": {
+        "Core Assignment": "Assessments",
+        "FormName": "SWLS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SWLSCompletionCode (Test Completion Code)": {
+        "Core Assignment": "Assessments",
+        "FormName": "SWLS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SWLSCompletionCodeOther (Completion Code Other)": {
+        "Core Assignment": "Assessments",
+        "FormName": "SWLS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SWLSConfoundingIssues (Confounding Issues)": {
+        "Core Assignment": "Assessments",
+        "FormName": "SWLS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SWLSExcellent": {
+        "Core Assignment": "Assessments",
+        "FormName": "SWLS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SWLSFriendCompleteStatus (Form Completion Status)": {
+        "Core Assignment": "Assessments",
+        "FormName": "SWLS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SWLSIdeal": {
+        "Core Assignment": "Assessments",
+        "FormName": "SWLS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SWLSImportant": {
+        "Core Assignment": "Assessments",
+        "FormName": "SWLS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SWLSSatisfied": {
+        "Core Assignment": "Assessments",
+        "FormName": "SWLS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SWLSTimeSpent (Time Spent)": {
+        "Core Assignment": "Assessments",
+        "FormName": "SWLS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SWLSTotalScore": {
+        "Core Assignment": "Assessments",
+        "FormName": "SWLS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "AllAssmtsSpanish (Were all assessments done in Spanish?)": {
+        "Core Assignment": "Assessments",
+        "FormName": "SpeechGOAT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOATBuldngLoc": {
+        "Core Assignment": "Assessments",
+        "FormName": "SpeechGOAT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOATCityLoc": {
+        "Core Assignment": "Assessments",
+        "FormName": "SpeechGOAT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOATCompletionCode (Test Completion Code GOAT)": {
+        "Core Assignment": "Assessments",
+        "FormName": "SpeechGOAT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOATCompletionCodeOther (GOAT Completion Code Other)": {
+        "Core Assignment": "Assessments",
+        "FormName": "SpeechGOAT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOATConfoundingIssues (Confounding Issues)": {
+        "Core Assignment": "Assessments",
+        "FormName": "SpeechGOAT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOATCrntTm": {
+        "Core Assignment": "Assessments",
+        "FormName": "SpeechGOAT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOATLiveLoc": {
+        "Core Assignment": "Assessments",
+        "FormName": "SpeechGOAT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOATNm": {
+        "Core Assignment": "Assessments",
+        "FormName": "SpeechGOAT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOATNotAdminCompletionCode (GOAT Not Admin Completion Code)": {
+        "Core Assignment": "Assessments",
+        "FormName": "SpeechGOAT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOATNotAdminCompletionCodeOther (GOAT Not Admin Completion Code Other)": {
+        "Core Assignment": "Assessments",
+        "FormName": "SpeechGOAT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOATNotAdminConfoundingIssues (GOAT Not Admin Confounding Issues)": {
+        "Core Assignment": "Assessments",
+        "FormName": "SpeechGOAT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOATTimeSpent (Time Spent)": {
+        "Core Assignment": "Assessments",
+        "FormName": "SpeechGOAT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOATTotError": {
+        "Core Assignment": "Assessments",
+        "FormName": "SpeechGOAT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "GOATTotScr": {
+        "Core Assignment": "Assessments",
+        "FormName": "SpeechGOAT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SpeechCompletionCode (Test Completion Code Speech)": {
+        "Core Assignment": "Assessments",
+        "FormName": "SpeechGOAT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SpeechCompletionCodeOther (Speech Completion Code Other)": {
+        "Core Assignment": "Assessments",
+        "FormName": "SpeechGOAT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SpeechConfoundingIssues (Confounding Issues)": {
+        "Core Assignment": "Assessments",
+        "FormName": "SpeechGOAT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SpeechGOATFriendCompleteStatus (Form Completion Status)": {
+        "Core Assignment": "Assessments",
+        "FormName": "SpeechGOAT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SpeechGOATSpeechAdministered": {
+        "Core Assignment": "Assessments",
+        "FormName": "SpeechGOAT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SpeechGOATWhichGOAT": {
+        "Core Assignment": "Assessments",
+        "FormName": "SpeechGOAT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SpeechTimeSpent (Time Spent)": {
+        "Core Assignment": "Assessments",
+        "FormName": "SpeechGOAT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SpeechVerbalIntellig": {
+        "Core Assignment": "Assessments",
+        "FormName": "SpeechGOAT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SpeechVerbalTxt": {
+        "Core Assignment": "Assessments",
+        "FormName": "SpeechGOAT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SpeechWritingLegible": {
+        "Core Assignment": "Assessments",
+        "FormName": "SpeechGOAT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SpeechWritingTxt": {
+        "Core Assignment": "Assessments",
+        "FormName": "SpeechGOAT6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "SiteID (SiteID)": {
+        "Core Assignment": "Assessments",
+        "FormName": "SpeechGOAT6MoFriend",
+        "TableName": "Subject"
+    },
+    "NIHCompletionCode (NIH Completion Code)": {
+        "Core Assignment": "Assessments",
+        "FormName": "TMTWAIS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "NIHCompletionCodeOther (NIH Completion Code Other)": {
+        "Core Assignment": "Assessments",
+        "FormName": "TMTWAIS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "NIHConfoundingIssues (NIH Confounding Issues)": {
+        "Core Assignment": "Assessments",
+        "FormName": "TMTWAIS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "NIHTimeSpent (Time Spent)": {
+        "Core Assignment": "Assessments",
+        "FormName": "TMTWAIS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RAVLT20MinDelayPrincipalList7": {
+        "Core Assignment": "Assessments",
+        "FormName": "TMTWAIS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RAVLT20minTimeSpent (Time Spent)": {
+        "Core Assignment": "Assessments",
+        "FormName": "TMTWAIS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RAVLTCompletionCode (RAVLT Completion Code)": {
+        "Core Assignment": "Assessments",
+        "FormName": "TMTWAIS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RAVLTCompletionCodeOther (RAVLT Completion Code Other)": {
+        "Core Assignment": "Assessments",
+        "FormName": "TMTWAIS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RAVLTConfoundingIssues (Confounding Issues)": {
+        "Core Assignment": "Assessments",
+        "FormName": "TMTWAIS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RAVLTInterferenceList1": {
+        "Core Assignment": "Assessments",
+        "FormName": "TMTWAIS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RAVLTPrincipalList1": {
+        "Core Assignment": "Assessments",
+        "FormName": "TMTWAIS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RAVLTPrincipalList2": {
+        "Core Assignment": "Assessments",
+        "FormName": "TMTWAIS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RAVLTPrincipalList3": {
+        "Core Assignment": "Assessments",
+        "FormName": "TMTWAIS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RAVLTPrincipalList4": {
+        "Core Assignment": "Assessments",
+        "FormName": "TMTWAIS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RAVLTPrincipalList5": {
+        "Core Assignment": "Assessments",
+        "FormName": "TMTWAIS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RAVLTPrincipalListRecall6": {
+        "Core Assignment": "Assessments",
+        "FormName": "TMTWAIS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "RAVLTTimeSpent (Time Spent)": {
+        "Core Assignment": "Assessments",
+        "FormName": "TMTWAIS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "TMTCompletionCode (TMT Completion Code)": {
+        "Core Assignment": "Assessments",
+        "FormName": "TMTWAIS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "TMTCompletionCodeOther (TMT Completion Code Other)": {
+        "Core Assignment": "Assessments",
+        "FormName": "TMTWAIS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "TMTConfoundingIssues (Confounding Issues)": {
+        "Core Assignment": "Assessments",
+        "FormName": "TMTWAIS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "TMTFriendCompleteStatus (Form Completion Status)": {
+        "Core Assignment": "Assessments",
+        "FormName": "TMTWAIS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "TMTHandedness (Hand Used)": {
+        "Core Assignment": "Assessments",
+        "FormName": "TMTWAIS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "TMTPartATime": {
+        "Core Assignment": "Assessments",
+        "FormName": "TMTWAIS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "TMTPartBTime": {
+        "Core Assignment": "Assessments",
+        "FormName": "TMTWAIS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "TMTTimeSpent (Time Spent)": {
+        "Core Assignment": "Assessments",
+        "FormName": "TMTWAIS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "WAISCodingTotalRawScore": {
+        "Core Assignment": "Assessments",
+        "FormName": "TMTWAIS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "WAISCompletionCode (WAIS Completion Code)": {
+        "Core Assignment": "Assessments",
+        "FormName": "TMTWAIS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "WAISCompletionCodeOther (WAIS Completion Code Other)": {
+        "Core Assignment": "Assessments",
+        "FormName": "TMTWAIS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "WAISConfoundingIssues (Confounding Issues)": {
+        "Core Assignment": "Assessments",
+        "FormName": "TMTWAIS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "WAISSymbolCorrect": {
+        "Core Assignment": "Assessments",
+        "FormName": "TMTWAIS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "WAISSymbolIncorrect": {
+        "Core Assignment": "Assessments",
+        "FormName": "TMTWAIS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "WAISSymbolTotalRawScore": {
+        "Core Assignment": "Assessments",
+        "FormName": "TMTWAIS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "WAISTimeSpent (Time Spent)": {
+        "Core Assignment": "Assessments",
+        "FormName": "TMTWAIS6MoFriend",
+        "TableName": "Assmt6Mo"
+    },
+    "MRI2WkAxialDTICmplt (Axial DTI Completed?)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog2WkFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI2WkAxialDTITxt (Comments:)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog2WkFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI2WkFriendCompleteStatus (Form Completion Status)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog2WkFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI2WkHDFTProt": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog2WkFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI2WkLocalizerCmplt (Localizer completed?)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog2WkFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI2WkLocalizerTxt (Comments:)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog2WkFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI2WkOperator": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog2WkFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI2WkPrelimFindings (Traumatic Intracranial Findings)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog2WkFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI2WkSagittal3DT1MPCmplt (Sagittal 3D T1 MP-RAGE/IR-SPGR Completed?)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog2WkFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI2WkSagittal3DT1MPTxt (Comments:)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog2WkFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI2WkSagittal3DT2FLAIRCmplt (Sagittal 3D T2 FLAIR CUBE/SPACE/VISTA Completed?)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog2WkFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI2WkSagittal3DT2FLAIRTxt (Comments:)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog2WkFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI2WkSagittal3DT2GRECmplt (Sagittal 3D T2* GRE/SWAN/SWI Completed?)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog2WkFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI2WkSagittal3DT2GRETxt (Comments:)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog2WkFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI2WkSagittal3DT2TSECmplt (Sagittal 3D T2-TSE Completed?)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog2WkFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI2WkSagittal3DT2TSETxt (Comments:)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog2WkFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI2WkfMRICmplt (Resting State fMRI Completed?)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog2WkFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI2WkfMRITxt (Comments:)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog2WkFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI2wkOtherFindings (Other Findings, MRI technical issues:)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog2WkFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI2wkRadiologistFindings (Findings:)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog2WkFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI2wkTimeSinceInj": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog2WkFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI2wkWarrantReport (Are there any incidental findings that warrant reporting to the site investigator?)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog2WkFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI2wkWarrantReportYes (Explain why yes:)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog2WkFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI6MoAxialDTICmplt (Axial DTI Completed?)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog6MoFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI6MoAxialDTITxt (Comments:)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog6MoFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI6MoFriendCompleteStatus (Form Completion Status)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog6MoFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI6MoHDFTProt": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog6MoFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI6MoLocalizerCmplt (Localizer completed?)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog6MoFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI6MoLocalizerTxt (Comments:)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog6MoFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI6MoOperator": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog6MoFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI6MoOtherFindings (Other Findings, MRI technical issues:)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog6MoFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI6MoPrelimFindings (Traumatic Intracranial Findings)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog6MoFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI6MoRadiologistFindings (Findings:)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog6MoFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI6MoSagittal3DT1MPCmplt (Sagittal 3D T1 MP-RAGE/IR-SPGR Completed?)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog6MoFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI6MoSagittal3DT1MPTxt (Comments:)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog6MoFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI6MoSagittal3DT2FLAIRCmplt (Sagittal 3D T2 FLAIR CUBE/SPACE/VISTA Completed?)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog6MoFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI6MoSagittal3DT2FLAIRTxt (Comments:)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog6MoFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI6MoSagittal3DT2GRECmplt (Sagittal 3D T2* GRE/SWAN/SWI Completed?)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog6MoFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI6MoSagittal3DT2GRETxt (Comments:)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog6MoFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI6MoSagittal3DT2TSECmplt (Sagittal 3D T2-TSE Completed?)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog6MoFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI6MoSagittal3DT2TSETxt (Comments:)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog6MoFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI6MoTimeSinceInj": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog6MoFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI6MoWarrantReport (Are there any incidental findings that warrant reporting to the site investigator?)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog6MoFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI6MoWarrantReportYes (Explain why yes:)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog6MoFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI6MofMRICmplt (Resting State fMRI Completed?)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog6MoFriend",
+        "TableName": "MRIScanLog"
+    },
+    "MRI6MofMRITxt (Comments:)": {
+        "Core Assignment": "Imaging",
+        "FormName": "MRIScanLog6MoFriend",
+        "TableName": "MRIScanLog"
+    },
+    "BrainDonor (Is this subject a brain donor?)": {
+        "Core Assignment": "Participant Events",
+        "FormName": "DeathFriendControl",
+        "TableName": "Subject"
+    },
+    "DeathCause (Principal cause of death)": {
+        "Core Assignment": "Participant Events",
+        "FormName": "DeathFriendControl",
+        "TableName": "Subject"
+    },
+    "DeathCauseOther (Other cause of death)": {
+        "Core Assignment": "Participant Events",
+        "FormName": "DeathFriendControl",
+        "TableName": "Subject"
+    },
+    "DeathCompleteStatus (Death Complete Status)": {
+        "Core Assignment": "Participant Events",
+        "FormName": "DeathFriendControl",
+        "TableName": "Subject"
+    },
+    "PlaceOfDeath (Place Of Death)": {
+        "Core Assignment": "Participant Events",
+        "FormName": "DeathFriendControl",
+        "TableName": "Subject"
+    },
+    "HealthEconFriendCompleteStatus (Form Completion Status)": {
+        "Core Assignment": "Pediatric Assessments",
+        "FormName": "HealthEconFriend",
+        "TableName": "Subject"
+    },
+    "HealthInsurance (Is the patient covered by any of the following types of health insurance?)": {
+        "Core Assignment": "Pediatric Assessments",
+        "FormName": "HealthEconFriend",
+        "TableName": "Subject"
+    },
+    "IncomeBeforeInj": {
+        "Core Assignment": "Pediatric Assessments",
+        "FormName": "HealthEconFriend",
+        "TableName": "Subject"
+    },
+    "IncomeHouseholdWorth": {
+        "Core Assignment": "Pediatric Assessments",
+        "FormName": "HealthEconFriend",
+        "TableName": "Subject"
+    },
+    "IncomePeopleNum": {
+        "Core Assignment": "Pediatric Assessments",
+        "FormName": "HealthEconFriend",
+        "TableName": "Subject"
+    },
+    "IncomeRealEstate": {
+        "Core Assignment": "Pediatric Assessments",
+        "FormName": "HealthEconFriend",
+        "TableName": "Subject"
+    },
+    "IncomeRealEstateOther (Specify Other:)": {
+        "Core Assignment": "Pediatric Assessments",
+        "FormName": "HealthEconFriend",
+        "TableName": "Subject"
+    },
+    "IncomeRealEstateValue": {
+        "Core Assignment": "Pediatric Assessments",
+        "FormName": "HealthEconFriend",
+        "TableName": "Subject"
+    },
+    "IncomeTotalHouseInc": {
+        "Core Assignment": "Pediatric Assessments",
+        "FormName": "HealthEconFriend",
+        "TableName": "Subject"
+    },
+    "AnticoagAntiThrombinProtein (Antithrombin protein therapeutics (Atryn))": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "AnticoagCoumarin (Coumarin derivative (Coumadin, Warfarin))": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "AnticoagDirectThrombinInhib (Direct thrombin inhibitor (eg. dabigatran, argatroban, melagatran))": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "AnticoagFactorXaInhib (Inhibitor of factor Xa (eg. Rivaroxaban))": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "AnticoagHeparin (Heparin)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "AnticoagLowMolHeparin (Low-molecular weight heparin)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "Anticoagulants (Anticoagulants)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxCardio (CARDIOVASCULAR)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxCardioArrhythmia (Arrhythmia)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxCardioCongenitalHD (Congenital heart disease)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxCardioHTN (Hypertension)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxCardioIschemicHD (Ischemic heart disease)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxCardioOther (Other)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxCardioOtherTxt (Other)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxCardioThromboembolic (Thromboembolic)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxCardioValvularHD (Valvular heart disease)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxDevelopmental (DEVELOPMENTAL)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxDevelopmentalADD (ADD)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxDevelopmentalADHD (ADHD)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxDevelopmentalDelay (Developmental Delay)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxDevelopmentalDyslexia (Dyslexia)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxDevelopmentalLearningDisability (Learning Disability)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxDevelopmentalOther (Other)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxDevelopmentalOtherTxt (Other)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxENT (EYE, EAR, NOSE & THROAT)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxENTHearing (Hearing deficit)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxENTOlfactory (Reduced/Lack of Olfaction)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxENTOther (Other)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxENTOtherTxt (Other)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxENTSinusitis (Sinusitis)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxENTThroat (Throat)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxENTTinnitus (Tinnitus)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxENTVisionAbn (Vision abnormality)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxEndocrine (ENDOCRINE)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxEndocrineBenignProstaticHyperplasia (Benign Prostatic Hyperplasia)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxEndocrineDiabetesTypeI (Diabetes Type I)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxEndocrineDiabetesTypeII (Diabetes Type II)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxEndocrineHyperlipidemia (Hyperlipidemia)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxEndocrineHysterectomy (Hysterectomy)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxEndocrineOther (Other)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxEndocrineOtherTxt (Other)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxEndocrineThyroid (Thyroid disorder)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxFriendCompleteStatus (Form Completion Status)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxGastro (GASTROINTESTINAL)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxGastroAppendicitis (Appendicitis)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxGastroDiarrhea (Diarrhea)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxGastroGERD (GERD)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxGastroGIBleed (GI Bleed)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxGastroIBS (Inflammatory bowel disease)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxGastroOther (Other)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxGastroOtherTxt (Other)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxGastroSurgeries (GI Surgeries)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxHematologic (HEMATOLOGIC)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxHematologicAnemia (Anemia)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxHematologicCoagulopathy (Coagulopathy)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxHematologicHIV (HIV positive)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxHematologicOther (Other)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxHematologicOtherTxt (Other)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxHepatic (HEPATIC)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxHepaticCirrhosis (Cirrhosis)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxHepaticHepatitis (Hepatitis)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxHepaticInsufficiency (Insufficiency)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxHepaticOther (Other)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxHepaticOtherTxt (Other)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxHepaticTransplant (Transplant)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxHospitalPsych": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxMedsPsych": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxMusculoskeletal (MUSCULOSKELETAL)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxMusculoskeletalArthritis (Arthritis)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxMusculoskeletalDegenerativeJointDisease (Degenerative Joint Disease)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxMusculoskeletalFibromyalgia (Fibromyalgia)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxMusculoskeletalHernia (Hernia)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxMusculoskeletalLowBackPain (Low Back Pain)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxMusculoskeletalOsteoporosis (Osteoporosis)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxMusculoskeletalOther (Other)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxMusculoskeletalOtherTxt (Other)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxMusculoskeletalPreviousFracturesSurgeries (Previous Fractures Surgeries)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxNeuro (NEUROLOGIC)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxNeuroBrainTumor (Brain Tumor)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxNeuroCerebrovascularAccident (Cerebrovascular Accident)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxNeuroDegeneration (Degeneration)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxNeuroEncephalopathy (Encephalopathy)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxNeuroEpilepsy (Epilepsy)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxNeuroHeadache (Headache-Non Migraine)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxNeuroMS (MS)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxNeuroMigraine (Headache-Migraines)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxNeuroNerveSheathTumor (Nerve Sheath Tumor)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxNeuroOther (Other)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxNeuroOtherTxt (Other)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxNeuroSeizures (Seizures)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxNeuroTIA (Transient Ischemic Attacks)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxNeuroVascularAbnormality (Vascular Abnormality)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxOncologic (ONCOLOGIC)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxOncologicBone (Bone)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxOncologicBreast (Breast)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxOncologicGI (GI)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxOncologicGonad (Gonad)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxOncologicKidney (Kidney)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxOncologicLeukemia (Leukemia)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxOncologicLiver (Liver)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxOncologicLung (Lung)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxOncologicLymphoma (Lymphoma)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxOncologicMyeloma (Myeloma)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxOncologicOropharyngeal (Oropharyngeal)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxOncologicOther (Other)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxOncologicOtherTxt (Other)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxOncologicPancreas (Pancreas)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxOncologicProstate (Prostate)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxOncologicSkin (Skin)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxOncologicThyroid (Thyroid)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxOutPtHelpPsych": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxPriorNeuroIllness": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxPsychiatric (PSYCHIATRIC)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxPsychiatricAnx (Anxiety)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxPsychiatricBipol (Bipolar disorder)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxPsychiatricDep (Depression)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxPsychiatricOther (Other)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxPsychiatricOtherTxt (Other)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxPsychiatricPtsd (PTS)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxPsychiatricSchiz (Schizophrenia)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxPsychiatricSleep (Sleep disorders)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxPulmonary (PULMONARY)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxPulmonaryAsthma (Asthma)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxPulmonaryBronchitis (Bronchitis)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxPulmonaryCOPD (COPD)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxPulmonaryEmphysema (Emphysema)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxPulmonaryInsufficiency (Pulmonary Insufficiency)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxPulmonaryOther (Other)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxPulmonaryOtherTxt (Other)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxPulmonaryPleuralEffusion (Pleural Effusion)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxPulmonaryPneumonia (Pneumonia)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxPulmonaryRespFailure (Respiratory Failure)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxPulmonarySleepApnea (Sleep Apnea)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxPulmonaryTB (TB)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxRenal (RENAL)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxRenalInfection (Kidney Infection)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxRenalInsufficiency (Renal Insufficiency)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxRenalKidneyStones (Kidney Stones)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxRenalKidneyTransplant (Kidney Transplant)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxRenalOther (Other)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxRenalOtherTxt (Other)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxRenalUTI (Chronic UTI's)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxSpinal (SPINAL)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxSpinalDisease (Spinal Disease)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxSpinalOther (Other)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxSpinalOtherTxt (Other)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "MedHxSpinalSCI (Spinal cord injury)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "PlateletAggregInhibitors (Platelet aggregation inhibitors)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "PltAggregADPReceptInhib (ADP receptor inhibitors:)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "PltAggregADPReceptInhibEffient (Parasugrel (Effient))": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "PltAggregADPReceptInhibOther (Other)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "PltAggregADPReceptInhibOtherTxt": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "PltAggregADPReceptInhibPlavix (Clopidogrel (Plavix))": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "PltAggregADPReceptInhibTiclid (Ticlopidine (Ticlid))": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "PltAggregAdenosineInhib (Adenosine re-uptake inhibitor (eg. Persantin, Dipyridamole))": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "PltAggregAspirin (Aspirin)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "PltAggregGlycoproteinInhib (Glycoprotein IIB/IIIA inhibitors (eg. Aggrastat))": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "MedHx"
+    },
+    "PmComments (Comments)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "PriorMeds"
+    },
+    "PmDailyDose (Total Daily Dose)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "PriorMeds"
+    },
+    "PmDose (Dose)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "PriorMeds"
+    },
+    "PmDoseUnit (Unit of measure)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "PriorMeds"
+    },
+    "PmFrequency (Frequency)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "PriorMeds"
+    },
+    "PmMedicationName (Medication Name)": {
+        "Core Assignment": "Presentation",
+        "FormName": "MedHxFriend",
+        "TableName": "PriorMeds"
+    },
+    "CityOfBirth (City Of Birth (Required for GUID))": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "CountryOfBirth (Country Of Birth (Required for GUID))": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "CountryOfBirthOther (Country Of Birth (not in list))": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "CountryOfResidence (Country Of Residence)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "CountryOfResidenceOther (Country Of Residence (not in list))": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "Dropout (Drop out before high school graduation?)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "EduLvlUSATyp (Level of Education)": {
+        "Core Assignment": "Study Administration",
+        "FormName": "ContactInfoFriend",
+        "TableName": "Subject"
+    },
+    "EduYrCt (Years of education completed:)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "EmplmtStatus (Employment Status:)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "EmplmtStatusOther (Specify other:)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "EmployeeNum (Counting all locations where your employer operates, what is the total number of persons who work for your employer in the last year?)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "Ethnicity (Ethnicity)": {
+        "Core Assignment": "Study Administration",
+        "FormName": "ContactInfoFriend",
+        "TableName": "Subject"
+    },
+    "Expelled (Get expelled?)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "FailAdvanceGrade (Fail to advance to the next grade (got held back)?)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "Handedness (Handedness)": {
+        "Core Assignment": "Study Administration",
+        "FormName": "ContactInfoFriend",
+        "TableName": "Subject"
+    },
+    "JobLastYrMonths (How many months in the last year did you have at least one job or business?)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "JobclassCat (Job classification category: For CDE look up copy/paste this link: http://www.eeoc.gov/employers/eeo1survey/jobclassguide.cfm)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "MartlPartnerStatus (Marital/ Partner status (choose one):)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "MilActive (Active Duty)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "MilActiveLengthServ (Length of service Round to nearest year)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "MilDeploy (Deployment)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "MilDeployOther (Other Deployment)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "MilMOS (Military occupation)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "MilPast (Past Duty)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "MilPastAgeStart (Started service at what age?)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "MilPastLengthServ (Length of service Round to nearest year)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "MilRank (Rank)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "MilServ (Branch of service)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "PrimaryLanguage (Primary Language)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "PrimaryLanguageOther (Primary Language (Not in list))": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "Race (Race)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "RaceAlaskan (Alaskan Native/Inuit)": {
+        "Core Assignment": "Study Administration",
+        "FormName": "ContactInfoFriend",
+        "TableName": "Subject"
+    },
+    "RaceAlaskanInuit (Inuit)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "RaceAlaskanNative (Alaskan Native)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "RaceAmericanIndian (Indian)": {
+        "Core Assignment": "Study Administration",
+        "FormName": "ContactInfoFriend",
+        "TableName": "Subject"
+    },
+    "RaceAmericanIndianNorthCentral (North American Indian)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "RaceAmericanIndianSouth (South/Central American Indian)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "RaceAsian (Asian)": {
+        "Core Assignment": "Study Administration",
+        "FormName": "ContactInfoFriend",
+        "TableName": "Subject"
+    },
+    "RaceAsianFarEast (Far Eastern Asian)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "RaceAsianSouth (South Asian (Indian subcontinent))": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "RaceBlack (Black)": {
+        "Core Assignment": "Study Administration",
+        "FormName": "ContactInfoFriend",
+        "TableName": "Subject"
+    },
+    "RaceBlackAfrican (African)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "RaceBlackAfricanAmerican (African American)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "RaceBlackAfroCaribbean (Afro Caribbean)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "RaceHAPI (Native Hawaiian/Pacific Islander)": {
+        "Core Assignment": "Study Administration",
+        "FormName": "ContactInfoFriend",
+        "TableName": "Subject"
+    },
+    "RaceHAPIHawaiian (Hawaiian)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "RaceHAPIPacificIslander (Pacific Islander)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "RaceUnknown (Race Unknown)": {
+        "Core Assignment": "Study Administration",
+        "FormName": "ContactInfoFriend",
+        "TableName": "Subject"
+    },
+    "RaceWhite (White)": {
+        "Core Assignment": "Study Administration",
+        "FormName": "ContactInfoFriend",
+        "TableName": "Subject"
+    },
+    "RaceWhiteAfrica (White African)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "RaceWhiteAustralian (Australian)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "RaceWhiteEurope (European)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "RaceWhiteMiddleEast (Middle Eastern)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "RaceWhiteNorthAm (North American)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "RaceWhiteSouthAm (South American)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "SesEmpl (Employment Level)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "SesPrimAdult (Living Situation/Residence)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "SesPrimAdultOther (Specify other:)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "SocioAdultFriendCompleteStatus (Form Completion Status)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "SocioAdultIntvwee": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "SocioAdultSigOther (Significant other:)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "SocioAdultSigOtherTxt (Reason significant other and why not done primarily with subject:)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "SpecialEd (Get classified as a Special Education student?)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "Student (Are you a student?)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "StudentSchoolType (What kind of program are you enrolled in?)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "StudentSchoolTypeOther (Please specify other program:)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "SuperviseNum (In the last year, how many people did you personally supervise on your main job?)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "WorkFamBusiness (Did you work for pay or do any unpaid work in a family farm or business, at any time in the last year?)": {
+        "Core Assignment": "Presentation",
+        "FormName": "SocioAdultFriend",
+        "TableName": "Subject"
+    },
+    "OSUTBIIDSFScoreQ1": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "OSUTBIIDSFScoreQ2": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "OSUTBIIDSFScoreQ3": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "OSUTBIIDSFScoreQ4": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "OSUTBIIDSFScoreQ5": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "OSUTBIIDSFScoreQ6": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "PriorTBIDer": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIAge1 (Age)": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIAge10": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIAge2": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIAge3": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIAge4": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIAge5": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIAge6": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIAge7": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIAge8": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIAge9": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBICarAccident (2. Have you ever injured your head or neck in a car accident or from some other moving vehicle accident, e.g., car, truck, bicycle, van, all terrain vehicle?)": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIChocked": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIDazed1 (Dazed/Memory Gap)": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIDazed10": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIDazed2": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIDazed3": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIDazed4": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIDazed5": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIDazed6": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIDazed7": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIDazed8": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIDazed9": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIDisposition1 (Disposition)": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIDisposition10": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIDisposition2": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIDisposition3": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIDisposition4": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIDisposition5": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIDisposition6": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIDisposition7": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIDisposition8": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIDisposition9": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIExplosion (6. Have you ever been nearby when an explosion or a blast occurred? If you served in the military, think about any combat-related incidents.)": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIFall (3. Have you ever injured your head or neck in a fall or from being hit by something? For example slipping on ice, a wet floor, the street, etc, or while walking. Falling from a curb, stairs, stair, roof, etc. Falling on a hard floor, ice, rocks, etc.)": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIFight (5. Have you ever injured your head or neck in a fight, assault, from being hit by someone or being shaken violently?)": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIHospitalized (1. Have you ever been hospitalized or treated in an emergency room following an injury to your head or neck? Think about any childhood injuries you remember or were told about.)": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIInjury1 (Cause)": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIInjury10": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIInjury2": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIInjury3": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIInjury4": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIInjury5": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIInjury6": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIInjury7": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIInjury8": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIInjury9": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBILoc1 (LOC)": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBILoc10": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBILoc2": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBILoc3": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBILoc4": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBILoc5": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBILoc6": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBILoc7": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBILoc8": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBILoc9": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBILocDuration1 (LOC Duration)": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBILocDuration10": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBILocDuration2": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBILocDuration3": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBILocDuration4": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBILocDuration5": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBILocDuration6": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBILocDuration7": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBILocDuration8": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBILocDuration9": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBILocLongestKO (Longest period of unconsciousness?)": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBILocOver10 (If more than 10, how many more?)": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBILocOver30Min (How many &#8805; 30 mins.?)": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBILocYoungestAge (Youngest age?)": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIOverdose": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBIScreenFriendCompleteStatus (Form Completion Status)": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "TBISport (4. Have you ever injured your head or neck in sports, e.g., football, soccer, skiing, blading, boarding, basketball, baseball, biking, horse back riding.)": {
+        "Core Assignment": "Presentation",
+        "FormName": "TBIScreenFriend",
+        "TableName": "InjuryHx"
+    },
+    "Age (Age)": {
+        "Core Assignment": "Study Administration",
+        "FormName": "ContactInfoFriend",
+        "TableName": "Subject"
+    },
+    "AgePHI (Older than 89)": {
+        "Core Assignment": "Study Administration",
+        "FormName": "ContactInfoFriend",
+        "TableName": "Subject"
+    },
+    "Sex (Sex)": {
+        "Core Assignment": "Study Administration",
+        "FormName": "ContactInfoFriend",
+        "TableName": "Subject"
+    }
+}

@@ -1,0 +1,673 @@
+{
+    "Cores": [
+        {
+            "Core Assignment": "Acute Hospital",
+            "Forms": [
+                {
+                    "FormName": "AdmisDischFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Hospital"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Core Assignment": "Assessments",
+            "Forms": [
+                {
+                    "FormName": "AUDITCBaselineFriend",
+                    "Tables": [
+                        {
+                            "TableName": "AssmtBaseline"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "BSI1812MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "BSI182WkFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "BSI183MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "BSI186MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "BTACT6MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "CSSRS12MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "CSSRS2WkFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "CSSRS3MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "CSSRS6MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "DRSSelf12MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "DRSSelf2WkFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "DRSSelf3MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "DRSSelf6MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "GOSE12MoCONTROLFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "GOSE2WkCONTROLFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "GOSE3MoCONTROLFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt3Mo"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "GOSE6MoCONTROLFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "ISI12MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "ISI2WkFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "ISI3MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "ISI6MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "Interview12MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "Interview2WkFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "Interview3MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt3Mo"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "Interview6MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "M2PI12MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "M2PI2WkFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "M2PI3MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "M2PI6MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PCL512MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PCL52WkFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PCL53MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PCL56MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PHQ12MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PHQ2WkFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PHQ3MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PHQ6MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PROMISPAIN12MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PROMISPAIN2WkFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PROMISPAIN3MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PROMISPAIN6MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "QoLIBRIOS12MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "QoLIBRIOS2WkFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "QoLIBRIOS3MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "QoLIBRIOS6MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "RPQ12MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "RPQ2WkFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "RPQ3MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "RPQ6MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SF12v212MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SF12v22wkFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SF12v23MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SF12v26MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SWLS12MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SWLS2WkFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SWLS3MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SWLS6MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SpeechGOAT12MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SpeechGOAT2WkFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SpeechGOAT3MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt3Mo"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SpeechGOAT6MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "TMTWAIS12MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "TMTWAIS2WkFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "TMTWAIS6MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Core Assignment": "Imaging",
+            "Forms": [
+                {
+                    "FormName": "MRIScanLog2WkFriend",
+                    "Tables": [
+                        {
+                            "TableName": "MRIScanLog"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "MRIScanLog6MoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "MRIScanLog"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Core Assignment": "Participant Events",
+            "Forms": [
+                {
+                    "FormName": "DeathFriendControl",
+                    "Tables": [
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Core Assignment": "Pediatric Assessments",
+            "Forms": [
+                {
+                    "FormName": "HealthEconFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Core Assignment": "Presentation",
+            "Forms": [
+                {
+                    "FormName": "MedHxFriend",
+                    "Tables": [
+                        {
+                            "TableName": "MedHx"
+                        },
+                        {
+                            "TableName": "PriorMeds"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SocioAdultFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "TBIScreenFriend",
+                    "Tables": [
+                        {
+                            "TableName": "InjuryHx"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Core Assignment": "Study Administration",
+            "Forms": [
+                {
+                    "FormName": "ContactInfoFriend",
+                    "Tables": [
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

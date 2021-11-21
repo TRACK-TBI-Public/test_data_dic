@@ -1,0 +1,1678 @@
+{
+    "Cores": [
+        {
+            "Core Assignment": "Acute Hospital",
+            "Forms": [
+                {
+                    "FormName": "AISISS",
+                    "Tables": [
+                        {
+                            "TableName": "AIS"
+                        },
+                        {
+                            "TableName": "Hospital"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "AdmisDisch",
+                    "Tables": [
+                        {
+                            "TableName": "Hospital"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "DailyLabs",
+                    "Tables": [
+                        {
+                            "TableName": "DailyLabs"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "DailyVitals",
+                    "Tables": [
+                        {
+                            "TableName": "DailyGCS"
+                        },
+                        {
+                            "TableName": "DailyVitals"
+                        },
+                        {
+                            "TableName": "DailyVitalsValues"
+                        },
+                        {
+                            "TableName": "NeuroMonitoring"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "MonitoringDevices",
+                    "Tables": [
+                        {
+                            "TableName": "Hospital"
+                        },
+                        {
+                            "TableName": "ICPMonitor"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "ScheduledMeds",
+                    "Tables": [
+                        {
+                            "TableName": "ScheduledMeds"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "Surgeries",
+                    "Tables": [
+                        {
+                            "TableName": "Subject"
+                        },
+                        {
+                            "TableName": "Surgeries"
+                        },
+                        {
+                            "TableName": "SurgeriesExtraCranial"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "TIL",
+                    "Tables": [
+                        {
+                            "TableName": "DailyTIL"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Core Assignment": "Assessments",
+            "Forms": [
+                {
+                    "FormName": "AUDITCBaseline",
+                    "Tables": [
+                        {
+                            "TableName": "AssmtBaseline"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "BSI1812Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "BSI182Wk",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "BSI183Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "BSI186Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "BTACT6Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "CAP12Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "CAP2Wk",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "CAP6Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "COAT12Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt12Mo"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "COAT2Wk",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt2Wk"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "COAT3Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt3Mo"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "COAT6Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt6Mo"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "COATBaseline",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmtBaseline"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "CRSR12Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "CRSR2Wk",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "CRSR6Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "CSSRS12Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "CSSRS2Wk",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "CSSRS3Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "CSSRS6Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "DRSCare12Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "DRSCare2Wk",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "DRSCare3Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "DRSCare6Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "DRSSelf12Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "DRSSelf2Wk",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "DRSSelf3Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "DRSSelf6Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "GOSE12Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "GOSE12MoCONTROL",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "GOSE12MoNotModOld",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "GOSE12MoOld",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "GOSE2Wk",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "GOSE2WkCONTROL",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "GOSE2WkOLD",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "GOSE3Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "GOSE3MoCONTROL",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt3Mo"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "GOSE3MoOld",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "GOSE6Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "GOSE6MoCONTROL",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "GOSE6MoOld",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "ISI12Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "ISI2Wk",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "ISI3Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "ISI6Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "Interview12Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "Interview12MoNewBackup",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "Interview2Wk",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "Interview3Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt3Mo"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "Interview6Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "M2PI12Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "M2PI2Wk",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "M2PI3Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "M2PI6Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "OutcomeStatus",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        },
+                        {
+                            "TableName": "Assmt2Wk"
+                        },
+                        {
+                            "TableName": "Assmt3Mo"
+                        },
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PCL512Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PCL52Wk",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PCL53Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PCL56Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PHQ12Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PHQ2Wk",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PHQ3Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PHQ6Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PROMISPAIN12Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PROMISPAIN2Wk",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PROMISPAIN3Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PROMISPAIN6Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "QoLIBRIOS12Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "QoLIBRIOS2Wk",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "QoLIBRIOS3Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "QoLIBRIOS6Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "RPQ12Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "RPQ2Wk",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "RPQ3Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "RPQ6Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SDQ12Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SDQ3Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SDQ6Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SDQPar2Wk",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SDQSelf12Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SDQSelf2Wk",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SDQSelf3Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SDQSelf6Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SF1212Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SF122Wk",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SF123Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SF126Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SF12v212Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SF12v22wk",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SF12v23Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SF12v26Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SWLS12Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SWLS2Wk",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SWLS3Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SWLS6Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SpeechGOAT12Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SpeechGOAT2Wk",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SpeechGOAT3Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt3Mo"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SpeechGOAT6Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "TMTWAIS12Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "TMTWAIS2Wk",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "TMTWAIS6Mo",
+                    "Tables": [
+                        {
+                            "TableName": "Assmt6Mo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Core Assignment": "Biospecimens",
+            "Forms": [
+                {
+                    "FormName": "Biomarkers",
+                    "Tables": [
+                        {
+                            "TableName": "Biomarker"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Core Assignment": "Imaging",
+            "Forms": [
+                {
+                    "FormName": "CTFindings",
+                    "Tables": [
+                        {
+                            "TableName": "CTFindings"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "CTMRI",
+                    "Tables": [
+                        {
+                            "TableName": "CTMRI"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "MRIFindings",
+                    "Tables": [
+                        {
+                            "TableName": "MRIFindings"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "MRIScanLog2Wk",
+                    "Tables": [
+                        {
+                            "TableName": "MRIScanLog"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "MRIScanLog6Mo",
+                    "Tables": [
+                        {
+                            "TableName": "MRIScanLog"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Core Assignment": "Participant Events",
+            "Forms": [
+                {
+                    "FormName": "AdverseEvent",
+                    "Tables": [
+                        {
+                            "TableName": "AdverseEvent"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "Complications",
+                    "Tables": [
+                        {
+                            "TableName": "Hospital"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "Death",
+                    "Tables": [
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "ProtocolDeviation",
+                    "Tables": [
+                        {
+                            "TableName": "ProtocolDeviation"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Core Assignment": "Pediatric Assessments",
+            "Forms": [
+                {
+                    "FormName": "GOSEP12Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "GOSEP2Wk",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "GOSEP3Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "GOSEP6Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "HBIChild12Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "HBIChild2Wk",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "HBIChild3Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "HBIChild6Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "HBIParCurnt12Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "HBIParCurnt2Wk",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "HBIParCurnt3Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "HBIParCurnt6Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "HealthEcon",
+                    "Tables": [
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "Injury",
+                    "Tables": [
+                        {
+                            "TableName": "InjuryHx"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PTBI12Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PTBI2Wk",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PTBI3Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PTBI6Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PedsQLParChild12Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PedsQLParChild2Wk",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PedsQLParChild3Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PedsQLParChild6Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PedsQLParTeen12Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PedsQLParTeen2Wk",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PedsQLParTeen3Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PedsQLParTeen6Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PedsQLParToddler12Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PedsQLParToddler2Wk",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PedsQLParToddler3Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PedsQLParToddler6Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PedsQLParYgChild12Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PedsQLParYgChild2Wk",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PedsQLParYgChild3Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PedsQLParYgChild6Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PedsQLSelfChild12Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PedsQLSelfChild2Wk",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PedsQLSelfChild3Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PedsQLSelfChild6Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PedsQLSelfTeen12Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PedsQLSelfTeen2Wk",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PedsQLSelfTeen3Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PedsQLSelfTeen6Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PedsQLSelfYgChild12Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PedsQLSelfYgChild2Wk",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PedsQLSelfYgChild3Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PedsQLSelfYgChild6Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt6Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "VLII12Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt12Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "VLII2Wk",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "VLII2Wk(1)",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt2Wk"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "VLII3Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt3Mo"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "VLII6Mo",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmt6Mo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Core Assignment": "Presentation",
+            "Forms": [
+                {
+                    "FormName": "ED",
+                    "Tables": [
+                        {
+                            "TableName": "InjuryHx"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "EDPeds",
+                    "Tables": [
+                        {
+                            "TableName": "InjuryHx"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "LOC",
+                    "Tables": [
+                        {
+                            "TableName": "InjuryHx"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "MedHx",
+                    "Tables": [
+                        {
+                            "TableName": "MedHx"
+                        },
+                        {
+                            "TableName": "PriorMeds"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PRNMeds",
+                    "Tables": [
+                        {
+                            "TableName": "DailyMeds"
+                        },
+                        {
+                            "TableName": "PRNMeds"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "Presentation",
+                    "Tables": [
+                        {
+                            "TableName": "InjuryHx"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SocioAdult",
+                    "Tables": [
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SocioAdultReview",
+                    "Tables": [
+                        {
+                            "TableName": "AssmtBaseline"
+                        },
+                        {
+                            "TableName": "InjuryHx"
+                        },
+                        {
+                            "TableName": "MedHx"
+                        },
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SocioChild",
+                    "Tables": [
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SpeechGOATBaseline",
+                    "Tables": [
+                        {
+                            "TableName": "AssmtBaseline"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SpeechIntelliPedsBaseline",
+                    "Tables": [
+                        {
+                            "TableName": "PedAssmtBaseline"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "Subject",
+                    "Tables": [
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SubjectNew",
+                    "Tables": [
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "SubjectSimple",
+                    "Tables": [
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "TBIScreen",
+                    "Tables": [
+                        {
+                            "TableName": "InjuryHx"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Core Assignment": "Study Administration",
+            "Forms": [
+                {
+                    "FormName": "ContactInfo",
+                    "Tables": [
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "FITBIRCohort",
+                    "Tables": [
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                },
+                {
+                    "FormName": "PatientManagement",
+                    "Tables": [
+                        {
+                            "TableName": "Subject"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
